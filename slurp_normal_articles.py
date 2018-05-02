@@ -35,6 +35,7 @@ while len(downloaded) <= bound:
     except wikipedia.exceptions.DisambiguationError:
         print('DisambiguationError')
     else:
+        title = title.replace('\\', ' ')
         if title.lower() not in downloaded:
             with open("articles/normal/" + title, 'x') as f:
                 f.write(article)
