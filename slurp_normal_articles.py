@@ -51,4 +51,5 @@ def download_articles():
                     downloaded.add(title.lower())
                     print(f"{title}")
 
-threading.Thread(target=download_articles()).start()
+for _ in range(4):
+    threading.Thread(target=download_articles()).start()
