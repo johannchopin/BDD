@@ -2,15 +2,9 @@ from json import dumps
 from urllib.request import urlopen
 from urllib.parse import unquote
 import bs4 as Beautiful
-import re
 
 FILENAME = "bots.json"
-# ID_du_BOT : bot-<numéro>
-# nom du bot
-# date_de_création
-# nb_modification
 URL = "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Bot/Liste"
-creator_regex = re.compile('^/wiki/Utilisateur')
 data = {}
 
 rows = Beautiful.BeautifulSoup(urlopen(URL).read(), "lxml").find_all('tr')[1:-1]
@@ -40,16 +34,4 @@ for (count, row) in enumerate(rows, 1):
     print(count, '/', size)
 
 print("All bot's informations downloaded")
-with open(FILENAME,'w') as f:
-    f.write(dumps(data, indent=4))
-with open(FILENAME,'r+') as f:
-    data = f.read().replace(r'\u00e9', 'é')
-    f.write(data)
-print("Data written in file %s" % FILENAME)
-
-# Need to replace manually 
-# "\u05d8\u05d1\u05e2\u05ea-\u05d6\u05e8\u05dd" -> "טבעת-זרם"
-# "\u00e9" -> "é"
-# "\u00e1" -> "á"
-
-# SOlution : replace(u"<4 char>", "special_char")
+# Solution : replace(u"<4 char>", "special_char")
