@@ -14,7 +14,7 @@
         - [ ] Traitement des contributeurs
         - [ ] Traitement des liens
     + [ ] Réalisation de la BDD
-        - [ ] Structure de la base
+        - [x] Structure de la base
         - [ ] Envoi des données json
             - [ ] portails
             - [ ] catégories
