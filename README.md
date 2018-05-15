@@ -7,8 +7,9 @@
 * [ ] Réalisation technique
     + [ ] Récupération des données et traitement en json
         - [ ] Traitement des portails
+            - [ ] Quelques exceptions (nb_articles) => conversion int 
         - [ ] Traitement des catégories
-        - [ ] Traitement des bots
+        - [x] Traitement des bots
         - [ ] Traitement des articles
         - [ ] Traitement des contributeurs
         - [ ] Traitement des liens
