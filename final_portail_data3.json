@@ -1,0 +1,8307 @@
+{
+    "p141": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Astronomie"
+    },
+    "p556": {
+        "nb_articles": 77321,
+        "type": "de qualité",
+        "nom": "Football"
+    },
+    "p626": {
+        "nb_articles": 822,
+        "type": null,
+        "nom": "Guinée"
+    },
+    "p763": {
+        "nb_articles": 444,
+        "type": null,
+        "nom": "Jupiter"
+    },
+    "p944": {
+        "nb_articles": 116,
+        "type": "ébauche",
+        "nom": "Milwaukee"
+    },
+    "p188": {
+        "nb_articles": 7022,
+        "type": "bon",
+        "nom": "Baseball"
+    },
+    "p890": {
+        "nb_articles": 6641,
+        "type": null,
+        "nom": "Maroc"
+    },
+    "p1614": {
+        "nb_articles": 222,
+        "type": null,
+        "nom": "Vie extraterrestre et ufologie"
+    },
+    "p1608": {
+        "nb_articles": 353,
+        "type": null,
+        "nom": "Vermont"
+    },
+    "p1471": {
+        "nb_articles": 28052,
+        "type": null,
+        "nom": "Sports d'hiver"
+    },
+    "p360": {
+        "nb_articles": 581,
+        "type": null,
+        "nom": "Clavecin"
+    },
+    "p252": {
+        "nb_articles": 89,
+        "type": null,
+        "nom": "Brasilia"
+    },
+    "p927": {
+        "nb_articles": 93,
+        "type": null,
+        "nom": "Métis"
+    },
+    "p1254": {
+        "nb_articles": 5504,
+        "type": null,
+        "nom": "Première Guerre mondiale"
+    },
+    "p1327": {
+        "nb_articles": 1191,
+        "type": null,
+        "nom": "Rhône"
+    },
+    "p365": {
+        "nb_articles": 304,
+        "type": null,
+        "nom": "Colmar"
+    },
+    "p1337": {
+        "nb_articles": 23078,
+        "type": null,
+        "nom": "Rock"
+    },
+    "p936": {
+        "nb_articles": 1362,
+        "type": null,
+        "nom": "Michigan"
+    },
+    "p1359": {
+        "nb_articles": 156,
+        "type": null,
+        "nom": "Saint-Brieuc"
+    },
+    "p338": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Chiisme"
+    },
+    "p657": {
+        "nb_articles": 553,
+        "type": null,
+        "nom": "Hématologie"
+    },
+    "p1221": {
+        "nb_articles": 221,
+        "type": null,
+        "nom": "Préfecture de Fukuoka"
+    },
+    "p1399": {
+        "nb_articles": 1294,
+        "type": null,
+        "nom": "Saxe"
+    },
+    "p1415": {
+        "nb_articles": 1542,
+        "type": "de qualité",
+        "nom": "Sécurité informatique"
+    },
+    "p815": {
+        "nb_articles": 1346,
+        "type": null,
+        "nom": "Lieux patrimoniaux du Canada"
+    },
+    "p184": {
+        "nb_articles": 1001,
+        "type": null,
+        "nom": "Barrage"
+    },
+    "p592": {
+        "nb_articles": 407,
+        "type": null,
+        "nom": "Géodésie et géophysique"
+    },
+    "p976": {
+        "nb_articles": 2039,
+        "type": null,
+        "nom": "Monténégro"
+    },
+    "p160": {
+        "nb_articles": 6047,
+        "type": null,
+        "nom": "Auvergne"
+    },
+    "p1077": {
+        "nb_articles": 467,
+        "type": null,
+        "nom": "Œil et vue"
+    },
+    "p1564": {
+        "nb_articles": 1969,
+        "type": "bon",
+        "nom": "Transports en Île-de-France"
+    },
+    "p142": {
+        "nb_articles": 447,
+        "type": null,
+        "nom": "Asturies"
+    },
+    "p359": {
+        "nb_articles": 2087,
+        "type": null,
+        "nom": "Civilisations asiatiques"
+    },
+    "p1655": {
+        "nb_articles": 424,
+        "type": null,
+        "nom": "Yukon"
+    },
+    "p314": {
+        "nb_articles": 1011,
+        "type": null,
+        "nom": "Céramique"
+    },
+    "p674": {
+        "nb_articles": 62,
+        "type": null,
+        "nom": "Histoire militaire de la Wallonie et des Wallons"
+    },
+    "p1243": {
+        "nb_articles": 168,
+        "type": null,
+        "nom": "Préfecture de Shizuoka"
+    },
+    "p326": {
+        "nb_articles": 96,
+        "type": null,
+        "nom": "Charlotte (Caroline du Nord)"
+    },
+    "p1353": {
+        "nb_articles": 11229,
+        "type": "de qualité",
+        "nom": "Rugby à XV"
+    },
+    "p982": {
+        "nb_articles": 21438,
+        "type": null,
+        "nom": "Monuments historiques"
+    },
+    "p856": {
+        "nb_articles": 961,
+        "type": null,
+        "nom": "Lune"
+    },
+    "p1516": {
+        "nb_articles": 10938,
+        "type": null,
+        "nom": "Tennis"
+    },
+    "p1136": {
+        "nb_articles": 145,
+        "type": null,
+        "nom": "Pays de Hanau"
+    },
+    "p388": {
+        "nb_articles": 263,
+        "type": null,
+        "nom": "Coopératives"
+    },
+    "p1179": {
+        "nb_articles": 1289,
+        "type": null,
+        "nom": "Poaceae"
+    },
+    "p280": {
+        "nb_articles": 268,
+        "type": null,
+        "nom": "Cambrai"
+    },
+    "p1177": {
+        "nb_articles": 864,
+        "type": null,
+        "nom": "Plongée sous-marine"
+    },
+    "p683": {
+        "nb_articles": 11772,
+        "type": "bon",
+        "nom": "Hongrie"
+    },
+    "p1283": {
+        "nb_articles": 696,
+        "type": null,
+        "nom": "Qatar"
+    },
+    "p9": {
+        "nb_articles": 2722,
+        "type": null,
+        "nom": "Actualité"
+    },
+    "p872": {
+        "nb_articles": 2076,
+        "type": null,
+        "nom": "Malaisie"
+    },
+    "p1065": {
+        "nb_articles": 2057,
+        "type": null,
+        "nom": "Numismatique"
+    },
+    "p126": {
+        "nb_articles": 3483,
+        "type": "bon",
+        "nom": "Arménie"
+    },
+    "p642": {
+        "nb_articles": 147,
+        "type": null,
+        "nom": "Harry Potter"
+    },
+    "p1583": {
+        "nb_articles": 1037,
+        "type": null,
+        "nom": "Universités françaises"
+    },
+    "p1529": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Test Wikipédia pas à pas"
+    },
+    "p1162": {
+        "nb_articles": 188,
+        "type": null,
+        "nom": "Phoenix"
+    },
+    "p369": {
+        "nb_articles": 979,
+        "type": null,
+        "nom": "Colorado"
+    },
+    "p1381": {
+        "nb_articles": 398,
+        "type": null,
+        "nom": "Samoa"
+    },
+    "p648": {
+        "nb_articles": 1032,
+        "type": null,
+        "nom": "Haute-Marne"
+    },
+    "p1097": {
+        "nb_articles": 807,
+        "type": "ébauche",
+        "nom": "Osaka"
+    },
+    "p998": {
+        "nb_articles": 1072,
+        "type": null,
+        "nom": "Musculation"
+    },
+    "p910": {
+        "nb_articles": 2236,
+        "type": null,
+        "nom": "Mayenne"
+    },
+    "p493": {
+        "nb_articles": 139,
+        "type": null,
+        "nom": "Eminem"
+    },
+    "p1053": {
+        "nb_articles": 172,
+        "type": null,
+        "nom": "Nottinghamshire"
+    },
+    "p937": {
+        "nb_articles": 85,
+        "type": null,
+        "nom": "Micmacs"
+    },
+    "p912": {
+        "nb_articles": 1059,
+        "type": null,
+        "nom": "Mecklembourg-Poméranie-Occidentale"
+    },
+    "p618": {
+        "nb_articles": 963,
+        "type": null,
+        "nom": "Grenoble Métropole"
+    },
+    "p311": {
+        "nb_articles": 2722,
+        "type": null,
+        "nom": "Cénozoïque"
+    },
+    "p1360": {
+        "nb_articles": 145,
+        "type": null,
+        "nom": "Saint-Christophe-et-Niévès"
+    },
+    "p400": {
+        "nb_articles": 42,
+        "type": null,
+        "nom": "Côte des Isles"
+    },
+    "p1571": {
+        "nb_articles": 6799,
+        "type": "de qualité",
+        "nom": "Tunisie"
+    },
+    "p97": {
+        "nb_articles": 12723,
+        "type": null,
+        "nom": "Années 1980"
+    },
+    "p1357": {
+        "nb_articles": 622,
+        "type": null,
+        "nom": "Saguenay–Lac-Saint-Jean"
+    },
+    "p1332": {
+        "nb_articles": 1176,
+        "type": "ébauche",
+        "nom": "Rio Grande do Sul"
+    },
+    "p1153": {
+        "nb_articles": 3901,
+        "type": null,
+        "nom": "Pharmacie"
+    },
+    "p1108": {
+        "nb_articles": 4768,
+        "type": null,
+        "nom": "Paléontologie"
+    },
+    "p1009": {
+        "nb_articles": 58,
+        "type": null,
+        "nom": "Musique impressionniste"
+    },
+    "p1355": {
+        "nb_articles": 679,
+        "type": null,
+        "nom": "Rwanda"
+    },
+    "p1620": {
+        "nb_articles": 4106,
+        "type": null,
+        "nom": "Vigne et vin"
+    },
+    "p555": {
+        "nb_articles": 420,
+        "type": null,
+        "nom": "Folie"
+    },
+    "p1477": {
+        "nb_articles": 502,
+        "type": null,
+        "nom": "Star Trek"
+    },
+    "p509": {
+        "nb_articles": 13577,
+        "type": null,
+        "nom": "Entomologie"
+    },
+    "p419": {
+        "nb_articles": 749,
+        "type": "ébauche",
+        "nom": "Cuisine française"
+    },
+    "p1078": {
+        "nb_articles": 1482,
+        "type": "ébauche",
+        "nom": "Ohio"
+    },
+    "p666": {
+        "nb_articles": 1240,
+        "type": null,
+        "nom": "Histoire de Bretagne"
+    },
+    "p1320": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Restauration française 1814-1830"
+    },
+    "p540": {
+        "nb_articles": 9513,
+        "type": null,
+        "nom": "Fantasy et fantastique"
+    },
+    "p1255": {
+        "nb_articles": 355,
+        "type": "bon",
+        "nom": "Premiers secours et secourisme"
+    },
+    "p928": {
+        "nb_articles": 3370,
+        "type": null,
+        "nom": "Métropole de Lyon"
+    },
+    "p1468": {
+        "nb_articles": 153,
+        "type": null,
+        "nom": "Sport automobile à énergies alternatives"
+    },
+    "p520": {
+        "nb_articles": 49,
+        "type": null,
+        "nom": "Espace post-soviétique"
+    },
+    "p1386": {
+        "nb_articles": 499,
+        "type": null,
+        "nom": "Sanskrit"
+    },
+    "p1030": {
+        "nb_articles": 527,
+        "type": null,
+        "nom": "Nebraska"
+    },
+    "p229": {
+        "nb_articles": 502,
+        "type": null,
+        "nom": "Bobsleigh"
+    },
+    "p727": {
+        "nb_articles": 5365,
+        "type": null,
+        "nom": "Internet"
+    },
+    "p21": {
+        "nb_articles": 2522,
+        "type": "bon",
+        "nom": "Ain"
+    },
+    "p1028": {
+        "nb_articles": 882,
+        "type": null,
+        "nom": "Navarre"
+    },
+    "p1300": {
+        "nb_articles": 227,
+        "type": null,
+        "nom": "Région de Murcie"
+    },
+    "p967": {
+        "nb_articles": 22558,
+        "type": "bon",
+        "nom": "Monde chinois"
+    },
+    "p1267": {
+        "nb_articles": 1451,
+        "type": null,
+        "nom": "Provence"
+    },
+    "p1479": {
+        "nb_articles": 379,
+        "type": "bon",
+        "nom": "Stargate"
+    },
+    "p726": {
+        "nb_articles": 3759,
+        "type": null,
+        "nom": "Intercommunalités de France"
+    },
+    "p1543": {
+        "nb_articles": 122,
+        "type": null,
+        "nom": "Tintin"
+    },
+    "p46": {
+        "nb_articles": 1509,
+        "type": "bon",
+        "nom": "Alpinisme et escalade"
+    },
+    "p1145": {
+        "nb_articles": 1081,
+        "type": null,
+        "nom": "Percussions"
+    },
+    "p989": {
+        "nb_articles": 3165,
+        "type": null,
+        "nom": "Moselle"
+    },
+    "p681": {
+        "nb_articles": 1030,
+        "type": null,
+        "nom": "Honduras"
+    },
+    "p746": {
+        "nb_articles": 1997,
+        "type": null,
+        "nom": "Jardinage et horticulture"
+    },
+    "p1081": {
+        "nb_articles": 409,
+        "type": null,
+        "nom": "Oman"
+    },
+    "p266": {
+        "nb_articles": 374,
+        "type": null,
+        "nom": "Buenos Aires"
+    },
+    "p100": {
+        "nb_articles": 35847,
+        "type": null,
+        "nom": "Années 2010"
+    },
+    "p409": {
+        "nb_articles": 378,
+        "type": null,
+        "nom": "Crète"
+    },
+    "p1058": {
+        "nb_articles": 1159,
+        "type": null,
+        "nom": "Nouvelle-Écosse"
+    },
+    "p602": {
+        "nb_articles": 237,
+        "type": "ébauche",
+        "nom": "Gibraltar"
+    },
+    "p34": {
+        "nb_articles": 718,
+        "type": null,
+        "nom": "Algèbre"
+    },
+    "p830": {
+        "nb_articles": 18580,
+        "type": null,
+        "nom": "Littérature française ou francophone"
+    },
+    "p898": {
+        "nb_articles": 3968,
+        "type": null,
+        "nom": "Mascareignes"
+    },
+    "p502": {
+        "nb_articles": 1662,
+        "type": null,
+        "nom": "Empire russe"
+    },
+    "p1580": {
+        "nb_articles": 3976,
+        "type": null,
+        "nom": "Union européenne"
+    },
+    "p221": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Biographie"
+    },
+    "p784": {
+        "nb_articles": 1495,
+        "type": null,
+        "nom": "Langue française et francophonie"
+    },
+    "p1185": {
+        "nb_articles": 1224,
+        "type": null,
+        "nom": "Police"
+    },
+    "p701": {
+        "nb_articles": 777,
+        "type": null,
+        "nom": "Îles Canaries"
+    },
+    "p806": {
+        "nb_articles": 1801,
+        "type": null,
+        "nom": "Lettonie"
+    },
+    "p1518": {
+        "nb_articles": 579,
+        "type": null,
+        "nom": "Terre du Milieu"
+    },
+    "p1561": {
+        "nb_articles": 42,
+        "type": null,
+        "nom": "Transnistrie"
+    },
+    "p1265": {
+        "nb_articles": 29821,
+        "type": null,
+        "nom": "Protection du patrimoine"
+    },
+    "p480": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Écotoxicologie"
+    },
+    "p888": {
+        "nb_articles": 42779,
+        "type": "de qualité",
+        "nom": "Maritime"
+    },
+    "p392": {
+        "nb_articles": 5544,
+        "type": null,
+        "nom": "Corée du Sud"
+    },
+    "p440": {
+        "nb_articles": 1205,
+        "type": null,
+        "nom": "Démographie"
+    },
+    "p350": {
+        "nb_articles": 1578,
+        "type": null,
+        "nom": "Cinéma belge"
+    },
+    "p673": {
+        "nb_articles": 420,
+        "type": null,
+        "nom": "Histoire militaire de la Belgique"
+    },
+    "p903": {
+        "nb_articles": 7045,
+        "type": "de qualité",
+        "nom": "Mathématiques"
+    },
+    "p1497": {
+        "nb_articles": 384,
+        "type": null,
+        "nom": "Taekwondo"
+    },
+    "p623": {
+        "nb_articles": 1276,
+        "type": "ébauche",
+        "nom": "Guatemala"
+    },
+    "p458": {
+        "nb_articles": 207,
+        "type": null,
+        "nom": "Dominique"
+    },
+    "p1539": {
+        "nb_articles": 1249,
+        "type": null,
+        "nom": "Thuringe"
+    },
+    "p539": {
+        "nb_articles": 2729,
+        "type": null,
+        "nom": "Exploration"
+    },
+    "p1606": {
+        "nb_articles": 5335,
+        "type": null,
+        "nom": "Venezuela"
+    },
+    "p1414": {
+        "nb_articles": 1754,
+        "type": null,
+        "nom": "Sécurité de l'information"
+    },
+    "p393": {
+        "nb_articles": 1106,
+        "type": null,
+        "nom": "Corrèze"
+    },
+    "p94": {
+        "nb_articles": 7640,
+        "type": null,
+        "nom": "Années 1950"
+    },
+    "p1308": {
+        "nb_articles": 2577,
+        "type": null,
+        "nom": "Renseignement"
+    },
+    "p330": {
+        "nb_articles": 5564,
+        "type": null,
+        "nom": "Châteaux de France"
+    },
+    "p664": {
+        "nb_articles": 347653,
+        "type": null,
+        "nom": "Histoire"
+    },
+    "p963": {
+        "nb_articles": 38441,
+        "type": null,
+        "nom": "Monde arabe"
+    },
+    "p1069": {
+        "nb_articles": 63,
+        "type": null,
+        "nom": "Oblast de Novossibirsk"
+    },
+    "p316": {
+        "nb_articles": 79,
+        "type": null,
+        "nom": "Ceuta, Melilla et plazas de soberanía"
+    },
+    "p1285": {
+        "nb_articles": 370,
+        "type": null,
+        "nom": "Québec 1763-91"
+    },
+    "p1416": {
+        "nb_articles": 1787,
+        "type": null,
+        "nom": "Seine-et-Marne"
+    },
+    "p739": {
+        "nb_articles": 69500,
+        "type": null,
+        "nom": "Italie"
+    },
+    "p1607": {
+        "nb_articles": 1378,
+        "type": null,
+        "nom": "Venise"
+    },
+    "p468": {
+        "nb_articles": 845,
+        "type": null,
+        "nom": "Duché de Bretagne"
+    },
+    "p303": {
+        "nb_articles": 3192,
+        "type": null,
+        "nom": "Castille-et-León"
+    },
+    "p948": {
+        "nb_articles": 230,
+        "type": null,
+        "nom": "Minneapolis"
+    },
+    "p158": {
+        "nb_articles": 11909,
+        "type": null,
+        "nom": "Autriche"
+    },
+    "p57": {
+        "nb_articles": 387,
+        "type": null,
+        "nom": "Amiens"
+    },
+    "p37": {
+        "nb_articles": 9518,
+        "type": null,
+        "nom": "Algérie"
+    },
+    "p1557": {
+        "nb_articles": 12693,
+        "type": null,
+        "nom": "Tourisme"
+    },
+    "p957": {
+        "nb_articles": 188,
+        "type": null,
+        "nom": "Molise"
+    },
+    "p696": {
+        "nb_articles": 908,
+        "type": null,
+        "nom": "Île-du-Prince-Édouard"
+    },
+    "p435": {
+        "nb_articles": 291,
+        "type": null,
+        "nom": "Dauphiné"
+    },
+    "p495": {
+        "nb_articles": 1776,
+        "type": null,
+        "nom": "Empire allemand"
+    },
+    "p873": {
+        "nb_articles": 363,
+        "type": null,
+        "nom": "Malawi"
+    },
+    "p660": {
+        "nb_articles": 20709,
+        "type": null,
+        "nom": "Herpétologie"
+    },
+    "p233": {
+        "nb_articles": 1646,
+        "type": null,
+        "nom": "Bolivie"
+    },
+    "p1338": {
+        "nb_articles": 1196,
+        "type": null,
+        "nom": "Rock progressif"
+    },
+    "p1425": {
+        "nb_articles": 21279,
+        "type": null,
+        "nom": "Séries télévisées"
+    },
+    "p1336": {
+        "nb_articles": 471,
+        "type": null,
+        "nom": "Robotique"
+    },
+    "p1273": {
+        "nb_articles": 11,
+        "type": null,
+        "nom": "Province de Santa Fe"
+    },
+    "p1271": {
+        "nb_articles": 1259,
+        "type": null,
+        "nom": "Province de Luxembourg"
+    },
+    "p321": {
+        "nb_articles": 1531,
+        "type": "ébauche",
+        "nom": "Charente"
+    },
+    "p1317": {
+        "nb_articles": 10339,
+        "type": null,
+        "nom": "République tchèque"
+    },
+    "p1436": {
+        "nb_articles": 363,
+        "type": null,
+        "nom": "Sikhisme"
+    },
+    "p769": {
+        "nb_articles": 1559,
+        "type": null,
+        "nom": "Kenya"
+    },
+    "p570": {
+        "nb_articles": 6009,
+        "type": null,
+        "nom": "Franche-Comté"
+    },
+    "p916": {
+        "nb_articles": 63,
+        "type": "ébauche",
+        "nom": "Meknès"
+    },
+    "p461": {
+        "nb_articles": 2205,
+        "type": null,
+        "nom": "Doubs"
+    },
+    "p1592": {
+        "nb_articles": 184,
+        "type": null,
+        "nom": "Valence (Espagne)"
+    },
+    "p587": {
+        "nb_articles": 1727,
+        "type": null,
+        "nom": "Gaullisme"
+    },
+    "p1183": {
+        "nb_articles": 377,
+        "type": null,
+        "nom": "Poker"
+    },
+    "p993": {
+        "nb_articles": 5617,
+        "type": null,
+        "nom": "Moyen Âge tardif"
+    },
+    "p808": {
+        "nb_articles": 1963,
+        "type": null,
+        "nom": "Liban"
+    },
+    "p1577": {
+        "nb_articles": 549,
+        "type": null,
+        "nom": "Ubisoft"
+    },
+    "p991": {
+        "nb_articles": 23387,
+        "type": null,
+        "nom": "Moyen Âge"
+    },
+    "p20": {
+        "nb_articles": 8676,
+        "type": null,
+        "nom": "Agriculture et agronomie"
+    },
+    "p1364": {
+        "nb_articles": 81,
+        "type": null,
+        "nom": "Saint-Laurent-du-Maroni"
+    },
+    "p1149": {
+        "nb_articles": 3446,
+        "type": null,
+        "nom": "Pérou"
+    },
+    "p1260": {
+        "nb_articles": 954,
+        "type": null,
+        "nom": "Prix Nobel"
+    },
+    "p1140": {
+        "nb_articles": 441,
+        "type": null,
+        "nom": "Pêche"
+    },
+    "p943": {
+        "nb_articles": 912,
+        "type": null,
+        "nom": "Milan"
+    },
+    "p1451": {
+        "nb_articles": 107,
+        "type": null,
+        "nom": "Société des Nations"
+    },
+    "p852": {
+        "nb_articles": 1202,
+        "type": null,
+        "nom": "Lozère"
+    },
+    "p1112": {
+        "nb_articles": 658,
+        "type": null,
+        "nom": "Paquebots"
+    },
+    "p383": {
+        "nb_articles": 633,
+        "type": "ébauche",
+        "nom": "Connecticut"
+    },
+    "p215": {
+        "nb_articles": 539,
+        "type": "ébauche",
+        "nom": "Bicyclette"
+    },
+    "p405": {
+        "nb_articles": 167,
+        "type": null,
+        "nom": "Couronne d'Aragon"
+    },
+    "p30": {
+        "nb_articles": 1127,
+        "type": null,
+        "nom": "Albanie"
+    },
+    "p1546": {
+        "nb_articles": 157,
+        "type": "de qualité",
+        "nom": "Titanic"
+    },
+    "p391": {
+        "nb_articles": 862,
+        "type": null,
+        "nom": "Corée du Nord"
+    },
+    "p1245": {
+        "nb_articles": 73,
+        "type": null,
+        "nom": "Préfecture de Tokushima"
+    },
+    "p636": {
+        "nb_articles": 826,
+        "type": null,
+        "nom": "Haltérophilie"
+    },
+    "p410": {
+        "nb_articles": 802,
+        "type": null,
+        "nom": "Creuse"
+    },
+    "p713": {
+        "nb_articles": 710,
+        "type": null,
+        "nom": "Imagerie numérique"
+    },
+    "p533": {
+        "nb_articles": 1593,
+        "type": null,
+        "nom": "Eure"
+    },
+    "p580": {
+        "nb_articles": 232,
+        "type": null,
+        "nom": "Gabber"
+    },
+    "p373": {
+        "nb_articles": 4369,
+        "type": null,
+        "nom": "Comics"
+    },
+    "p1652": {
+        "nb_articles": 1691,
+        "type": null,
+        "nom": "Yonne"
+    },
+    "p1417": {
+        "nb_articles": 2563,
+        "type": null,
+        "nom": "Seine-Maritime"
+    },
+    "p422": {
+        "nb_articles": 16637,
+        "type": null,
+        "nom": "Culture"
+    },
+    "p148": {
+        "nb_articles": 208,
+        "type": "ébauche",
+        "nom": "Auckland"
+    },
+    "p1224": {
+        "nb_articles": 131,
+        "type": null,
+        "nom": "Préfecture de Gunma"
+    },
+    "p335": {
+        "nb_articles": 711,
+        "type": null,
+        "nom": "Chemin de fer en Suisse"
+    },
+    "p809": {
+        "nb_articles": 550,
+        "type": null,
+        "nom": "Libéralisme"
+    },
+    "p1080": {
+        "nb_articles": 599,
+        "type": "ébauche",
+        "nom": "Oklahoma"
+    },
+    "p792": {
+        "nb_articles": 402,
+        "type": null,
+        "nom": "Laurentides"
+    },
+    "p237": {
+        "nb_articles": 121,
+        "type": null,
+        "nom": "Bonsaï"
+    },
+    "p659": {
+        "nb_articles": 2170,
+        "type": null,
+        "nom": "Hérault"
+    },
+    "p759": {
+        "nb_articles": 1165,
+        "type": null,
+        "nom": "Journalisme"
+    },
+    "p1168": {
+        "nb_articles": 7600,
+        "type": null,
+        "nom": "Picardie"
+    },
+    "p545": {
+        "nb_articles": 5615,
+        "type": null,
+        "nom": "Finance"
+    },
+    "p1075": {
+        "nb_articles": 5721,
+        "type": null,
+        "nom": "Océans"
+    },
+    "p22": {
+        "nb_articles": 2866,
+        "type": null,
+        "nom": "Aisne"
+    },
+    "p183": {
+        "nb_articles": 4268,
+        "type": null,
+        "nom": "Baroque"
+    },
+    "p1556": {
+        "nb_articles": 591,
+        "type": "ébauche",
+        "nom": "Tour de France"
+    },
+    "p848": {
+        "nb_articles": 1203,
+        "type": null,
+        "nom": "Lot"
+    },
+    "p1060": {
+        "nb_articles": 2020,
+        "type": "bon",
+        "nom": "Nouvelle-France"
+    },
+    "p386": {
+        "nb_articles": 659,
+        "type": null,
+        "nom": "Conservatisme"
+    },
+    "p457": {
+        "nb_articles": 191,
+        "type": null,
+        "nom": "Dombes"
+    },
+    "p1573": {
+        "nb_articles": 600,
+        "type": "ébauche",
+        "nom": "Turin"
+    },
+    "p352": {
+        "nb_articles": 1554,
+        "type": null,
+        "nom": "Cinéma espagnol"
+    },
+    "p337": {
+        "nb_articles": 1590,
+        "type": null,
+        "nom": "Chicago"
+    },
+    "p1146": {
+        "nb_articles": 282,
+        "type": null,
+        "nom": "Périgueux"
+    },
+    "p1496": {
+        "nb_articles": 427,
+        "type": "ébauche",
+        "nom": "Tadjikistan"
+    },
+    "p396": {
+        "nb_articles": 1299,
+        "type": "ébauche",
+        "nom": "Costa Rica"
+    },
+    "p499": {
+        "nb_articles": 2058,
+        "type": null,
+        "nom": "Empire du Japon"
+    },
+    "p1385": {
+        "nb_articles": 1241,
+        "type": null,
+        "nom": "San Francisco"
+    },
+    "p832": {
+        "nb_articles": 0,
+        "type": null,
+        "nom": "Littérature norroise"
+    },
+    "p611": {
+        "nb_articles": 444,
+        "type": null,
+        "nom": "Grande vitesse ferroviaire"
+    },
+    "p941": {
+        "nb_articles": 911,
+        "type": null,
+        "nom": "Microsoft"
+    },
+    "p228": {
+        "nb_articles": 143,
+        "type": "ébauche",
+        "nom": "Bob Dylan"
+    },
+    "p800": {
+        "nb_articles": 77,
+        "type": null,
+        "nom": "Le Touquet-Paris-Plage"
+    },
+    "p87": {
+        "nb_articles": 682,
+        "type": null,
+        "nom": "Années 1880"
+    },
+    "p1321": {
+        "nb_articles": 2855,
+        "type": null,
+        "nom": "La Réunion"
+    },
+    "p897": {
+        "nb_articles": 671,
+        "type": "ébauche",
+        "nom": "Maryland"
+    },
+    "p1575": {
+        "nb_articles": 6481,
+        "type": null,
+        "nom": "Turquie"
+    },
+    "p1394": {
+        "nb_articles": 1043,
+        "type": null,
+        "nom": "Saskatchewan"
+    },
+    "p866": {
+        "nb_articles": 1457,
+        "type": null,
+        "nom": "Madrid"
+    },
+    "p1262": {
+        "nb_articles": 1798,
+        "type": null,
+        "nom": "Proche-Orient ancien"
+    },
+    "p797": {
+        "nb_articles": 201,
+        "type": "ébauche",
+        "nom": "Le Cap"
+    },
+    "p663": {
+        "nb_articles": 6278,
+        "type": null,
+        "nom": "Hip-hop"
+    },
+    "p1215": {
+        "nb_articles": 95,
+        "type": null,
+        "nom": "Préfecture d'Iwate"
+    },
+    "p846": {
+        "nb_articles": 9829,
+        "type": null,
+        "nom": "Lorraine"
+    },
+    "p86": {
+        "nb_articles": 653,
+        "type": null,
+        "nom": "Années 1870"
+    },
+    "p1131": {
+        "nb_articles": 9316,
+        "type": null,
+        "nom": "Pays catalans"
+    },
+    "p864": {
+        "nb_articles": 238,
+        "type": null,
+        "nom": "Madère"
+    },
+    "p1593": {
+        "nb_articles": 966,
+        "type": null,
+        "nom": "Vallée d'Aoste"
+    },
+    "p1096": {
+        "nb_articles": 12090,
+        "type": null,
+        "nom": "Ornithologie"
+    },
+    "p919": {
+        "nb_articles": 248,
+        "type": "ébauche",
+        "nom": "Mer Adriatique"
+    },
+    "p734": {
+        "nb_articles": 4252,
+        "type": null,
+        "nom": "Islam"
+    },
+    "p1389": {
+        "nb_articles": 332,
+        "type": null,
+        "nom": "Sao Tomé-et-Principe"
+    },
+    "p1544": {
+        "nb_articles": 771,
+        "type": "ébauche",
+        "nom": "Tir"
+    },
+    "p449": {
+        "nb_articles": 929,
+        "type": "ébauche",
+        "nom": "Deux-Sèvres"
+    },
+    "p1538": {
+        "nb_articles": 75,
+        "type": null,
+        "nom": "Thomas d'Aquin"
+    },
+    "p780": {
+        "nb_articles": 358,
+        "type": null,
+        "nom": "Lanaudière"
+    },
+    "p466": {
+        "nb_articles": 279,
+        "type": null,
+        "nom": "Dubaï"
+    },
+    "p1129": {
+        "nb_articles": 16320,
+        "type": null,
+        "nom": "Pays-Bas"
+    },
+    "p103": {
+        "nb_articles": 3797,
+        "type": null,
+        "nom": "Anthropologie"
+    },
+    "p1615": {
+        "nb_articles": 161,
+        "type": "ébauche",
+        "nom": "Vie quotidienne et loisirs"
+    },
+    "p952": {
+        "nb_articles": 572,
+        "type": null,
+        "nom": "Mississippi (État)"
+    },
+    "p1012": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Mystique"
+    },
+    "p1231": {
+        "nb_articles": 110,
+        "type": null,
+        "nom": "Préfecture de Kōchi"
+    },
+    "p443": {
+        "nb_articles": 1363,
+        "type": null,
+        "nom": "Département du Jura"
+    },
+    "p500": {
+        "nb_articles": 108,
+        "type": null,
+        "nom": "Empire moghol"
+    },
+    "p1387": {
+        "nb_articles": 738,
+        "type": "ébauche",
+        "nom": "Santa Catarina"
+    },
+    "p179": {
+        "nb_articles": 183,
+        "type": "ébauche",
+        "nom": "Bangkok"
+    },
+    "p1258": {
+        "nb_articles": 84,
+        "type": null,
+        "nom": "Printemps des peuples"
+    },
+    "p781": {
+        "nb_articles": 1625,
+        "type": "bon",
+        "nom": "Landes"
+    },
+    "p416": {
+        "nb_articles": 935,
+        "type": "de qualité",
+        "nom": "Cryptologie"
+    },
+    "p1043": {
+        "nb_articles": 670,
+        "type": null,
+        "nom": "Niger"
+    },
+    "p675": {
+        "nb_articles": 5859,
+        "type": null,
+        "nom": "Historiographie"
+    },
+    "p604": {
+        "nb_articles": 212,
+        "type": null,
+        "nom": "Glasgow"
+    },
+    "p84": {
+        "nb_articles": 488,
+        "type": null,
+        "nom": "Années 1850"
+    },
+    "p1531": {
+        "nb_articles": 1077,
+        "type": null,
+        "nom": "Textile"
+    },
+    "p709": {
+        "nb_articles": 105,
+        "type": "ébauche",
+        "nom": "Îles Vierges britanniques"
+    },
+    "p114": {
+        "nb_articles": 77913,
+        "type": null,
+        "nom": "Architecture et urbanisme"
+    },
+    "p263": {
+        "nb_articles": 4063,
+        "type": null,
+        "nom": "Bruxelles"
+    },
+    "p312": {
+        "nb_articles": 338,
+        "type": null,
+        "nom": "Centre-du-Québec"
+    },
+    "p765": {
+        "nb_articles": 547,
+        "type": "ébauche",
+        "nom": "Kansas"
+    },
+    "p474": {
+        "nb_articles": 339,
+        "type": null,
+        "nom": "Écoatlas"
+    },
+    "p1472": {
+        "nb_articles": 4372,
+        "type": null,
+        "nom": "Sports de combat"
+    },
+    "p892": {
+        "nb_articles": 2090,
+        "type": null,
+        "nom": "Marseille"
+    },
+    "p1103": {
+        "nb_articles": 438,
+        "type": null,
+        "nom": "Outaouais"
+    },
+    "p1230": {
+        "nb_articles": 129,
+        "type": null,
+        "nom": "Préfecture de Kumamoto"
+    },
+    "p1008": {
+        "nb_articles": 5512,
+        "type": null,
+        "nom": "Musique électronique"
+    },
+    "p1532": {
+        "nb_articles": 2135,
+        "type": null,
+        "nom": "Thaïlande"
+    },
+    "p1218": {
+        "nb_articles": 67,
+        "type": null,
+        "nom": "Préfecture d'Ōita"
+    },
+    "p1390": {
+        "nb_articles": 2313,
+        "type": null,
+        "nom": "Saône-et-Loire"
+    },
+    "p612": {
+        "nb_articles": 723,
+        "type": null,
+        "nom": "Grandes écoles"
+    },
+    "p566": {
+        "nb_articles": 13659,
+        "type": null,
+        "nom": "France au XIXe siècle"
+    },
+    "p1137": {
+        "nb_articles": 11691,
+        "type": null,
+        "nom": "Pays de la Loire"
+    },
+    "p593": {
+        "nb_articles": 42250,
+        "type": "de qualité",
+        "nom": "Géographie"
+    },
+    "p1492": {
+        "nb_articles": 2916,
+        "type": null,
+        "nom": "Syndicalisme"
+    },
+    "p1563": {
+        "nb_articles": 8552,
+        "type": null,
+        "nom": "Transports en commun"
+    },
+    "p1350": {
+        "nb_articles": 10471,
+        "type": null,
+        "nom": "Royaume de France"
+    },
+    "p828": {
+        "nb_articles": 5963,
+        "type": null,
+        "nom": "Littérature britannique"
+    },
+    "p374": {
+        "nb_articles": 2923,
+        "type": null,
+        "nom": "Commerce"
+    },
+    "p799": {
+        "nb_articles": 425,
+        "type": null,
+        "nom": "Le Mans"
+    },
+    "p768": {
+        "nb_articles": 791,
+        "type": "ébauche",
+        "nom": "Kentucky"
+    },
+    "p571": {
+        "nb_articles": 291,
+        "type": null,
+        "nom": "Franco-Américains"
+    },
+    "p1460": {
+        "nb_articles": 967,
+        "type": null,
+        "nom": "Soul et funk"
+    },
+    "p42": {
+        "nb_articles": 3525,
+        "type": null,
+        "nom": "Alpes"
+    },
+    "p984": {
+        "nb_articles": 2680,
+        "type": null,
+        "nom": "Morbihan"
+    },
+    "p518": {
+        "nb_articles": 1815,
+        "type": null,
+        "nom": "Escrime"
+    },
+    "p1445": {
+        "nb_articles": 185,
+        "type": null,
+        "nom": "Slaves"
+    },
+    "p380": {
+        "nb_articles": 1293,
+        "type": null,
+        "nom": "Compagnie de Jésus"
+    },
+    "p209": {
+        "nb_articles": 707,
+        "type": "bon",
+        "nom": "Besançon"
+    },
+    "p1160": {
+        "nb_articles": 526,
+        "type": null,
+        "nom": "Philosophie antique"
+    },
+    "p344": {
+        "nb_articles": 486,
+        "type": null,
+        "nom": "Christianisme évangélique"
+    },
+    "p1493": {
+        "nb_articles": 1793,
+        "type": null,
+        "nom": "Syrie"
+    },
+    "p789": {
+        "nb_articles": 536,
+        "type": null,
+        "nom": "Laos"
+    },
+    "p1528": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Test WikiMOOC"
+    },
+    "p841": {
+        "nb_articles": 3598,
+        "type": "bon",
+        "nom": "Loire-Atlantique"
+    },
+    "p904": {
+        "nb_articles": 273,
+        "type": "ébauche",
+        "nom": "Mato Grosso"
+    },
+    "p300": {
+        "nb_articles": 74,
+        "type": null,
+        "nom": "Carpentras"
+    },
+    "p1560": {
+        "nb_articles": 571,
+        "type": null,
+        "nom": "Transidentité"
+    },
+    "p563": {
+        "nb_articles": 3024,
+        "type": null,
+        "nom": "Formule 1"
+    },
+    "p1588": {
+        "nb_articles": 1034,
+        "type": null,
+        "nom": "Val-d'Oise"
+    },
+    "p55": {
+        "nb_articles": 1290,
+        "type": null,
+        "nom": "Amérique précolombienne"
+    },
+    "p1427": {
+        "nb_articles": 308,
+        "type": null,
+        "nom": "Séville"
+    },
+    "p531": {
+        "nb_articles": 3255,
+        "type": null,
+        "nom": "Éthiopie"
+    },
+    "p756": {
+        "nb_articles": 169,
+        "type": "ébauche",
+        "nom": "Johannesbourg"
+    },
+    "p695": {
+        "nb_articles": 64,
+        "type": null,
+        "nom": "Île de Pâques"
+    },
+    "p1263": {
+        "nb_articles": 1531,
+        "type": null,
+        "nom": "Programmation informatique"
+    },
+    "p1426": {
+        "nb_articles": 12470,
+        "type": null,
+        "nom": "Séries télévisées américaines"
+    },
+    "p1125": {
+        "nb_articles": 716,
+        "type": null,
+        "nom": "Patrimoine culturel immatériel"
+    },
+    "p1259": {
+        "nb_articles": 742,
+        "type": null,
+        "nom": "Prison"
+    },
+    "p319": {
+        "nb_articles": 447,
+        "type": null,
+        "nom": "Champagne-Ardenne"
+    },
+    "p436": {
+        "nb_articles": 855,
+        "type": null,
+        "nom": "DC Comics"
+    },
+    "p102": {
+        "nb_articles": 1718,
+        "type": null,
+        "nom": "Antarctique"
+    },
+    "p364": {
+        "nb_articles": 400,
+        "type": "ébauche",
+        "nom": "Collections"
+    },
+    "p1138": {
+        "nb_articles": 335,
+        "type": null,
+        "nom": "Pays de Lérins"
+    },
+    "p434": {
+        "nb_articles": 3688,
+        "type": null,
+        "nom": "Danse"
+    },
+    "p946": {
+        "nb_articles": 1668,
+        "type": null,
+        "nom": "Mine"
+    },
+    "p353": {
+        "nb_articles": 24797,
+        "type": null,
+        "nom": "Cinéma français"
+    },
+    "p523": {
+        "nb_articles": 369,
+        "type": "de qualité",
+        "nom": "Espéranto"
+    },
+    "p750": {
+        "nb_articles": 18365,
+        "type": null,
+        "nom": "Jeu vidéo"
+    },
+    "p222": {
+        "nb_articles": 180504,
+        "type": null,
+        "nom": "Biologie"
+    },
+    "p68": {
+        "nb_articles": 93,
+        "type": null,
+        "nom": "Anguilla"
+    },
+    "p843": {
+        "nb_articles": 3386,
+        "type": null,
+        "nom": "Lombardie"
+    },
+    "p1604": {
+        "nb_articles": 10,
+        "type": null,
+        "nom": "Vendée"
+    },
+    "p448": {
+        "nb_articles": 315,
+        "type": null,
+        "nom": "Détroit"
+    },
+    "p200": {
+        "nb_articles": 37575,
+        "type": null,
+        "nom": "Belgique"
+    },
+    "p44": {
+        "nb_articles": 2405,
+        "type": null,
+        "nom": "Alpes-Maritimes"
+    },
+    "p118": {
+        "nb_articles": 8633,
+        "type": null,
+        "nom": "Argentine"
+    },
+    "p189": {
+        "nb_articles": 342,
+        "type": null,
+        "nom": "Bases de données"
+    },
+    "p803": {
+        "nb_articles": 365,
+        "type": null,
+        "nom": "Légion étrangère"
+    },
+    "p1413": {
+        "nb_articles": 2936,
+        "type": null,
+        "nom": "Sécurité civile et sapeurs-pompiers"
+    },
+    "p331": {
+        "nb_articles": 658,
+        "type": null,
+        "nom": "Chaudière-Appalaches"
+    },
+    "p1161": {
+        "nb_articles": 366,
+        "type": null,
+        "nom": "Philosophie indienne"
+    },
+    "p1590": {
+        "nb_articles": 1358,
+        "type": null,
+        "nom": "Valais"
+    },
+    "p1223": {
+        "nb_articles": 195,
+        "type": null,
+        "nom": "Préfecture de Gifu"
+    },
+    "p791": {
+        "nb_articles": 3234,
+        "type": "ébauche",
+        "nom": "Latium"
+    },
+    "p926": {
+        "nb_articles": 2100,
+        "type": null,
+        "nom": "Météorologie"
+    },
+    "p1171": {
+        "nb_articles": 562,
+        "type": null,
+        "nom": "Piraterie"
+    },
+    "p501": {
+        "nb_articles": 1481,
+        "type": null,
+        "nom": "Empire ottoman"
+    },
+    "p385": {
+        "nb_articles": 6422,
+        "type": null,
+        "nom": "Conservation de la nature"
+    },
+    "p942": {
+        "nb_articles": 12107,
+        "type": null,
+        "nom": "Midi-Pyrénées"
+    },
+    "p1478": {
+        "nb_articles": 579,
+        "type": "bon",
+        "nom": "Star Wars"
+    },
+    "p1504": {
+        "nb_articles": 507,
+        "type": null,
+        "nom": "Tasmanie"
+    },
+    "p1517": {
+        "nb_articles": 833,
+        "type": null,
+        "nom": "Tennis de table"
+    },
+    "p900": {
+        "nb_articles": 1202,
+        "type": null,
+        "nom": "Massif central"
+    },
+    "p608": {
+        "nb_articles": 290,
+        "type": null,
+        "nom": "Google"
+    },
+    "p1643": {
+        "nb_articles": 242,
+        "type": null,
+        "nom": "X-Files"
+    },
+    "p129": {
+        "nb_articles": 4959,
+        "type": null,
+        "nom": "Art contemporain"
+    },
+    "p1247": {
+        "nb_articles": 57,
+        "type": null,
+        "nom": "Préfecture de Toyama"
+    },
+    "p1505": {
+        "nb_articles": 1079,
+        "type": null,
+        "nom": "Tauromachie"
+    },
+    "p722": {
+        "nb_articles": 1116,
+        "type": null,
+        "nom": "Information géographique"
+    },
+    "p1572": {
+        "nb_articles": 422,
+        "type": null,
+        "nom": "Tunnels"
+    },
+    "p1644": {
+        "nb_articles": 31204,
+        "type": null,
+        "nom": "XIXe siècle"
+    },
+    "p537": {
+        "nb_articles": 60,
+        "type": null,
+        "nom": "Évian-les-Bains"
+    },
+    "p813": {
+        "nb_articles": 401,
+        "type": null,
+        "nom": "Liechtenstein"
+    },
+    "p679": {
+        "nb_articles": 14802,
+        "type": "de qualité",
+        "nom": "Hockey sur glace"
+    },
+    "p1292": {
+        "nb_articles": 1960,
+        "type": null,
+        "nom": "Rallye automobile"
+    },
+    "p1391": {
+        "nb_articles": 993,
+        "type": null,
+        "nom": "Sardaigne"
+    },
+    "p428": {
+        "nb_articles": 449,
+        "type": null,
+        "nom": "Curling"
+    },
+    "p762": {
+        "nb_articles": 410,
+        "type": null,
+        "nom": "Jules Verne"
+    },
+    "p893": {
+        "nb_articles": 47,
+        "type": null,
+        "nom": "Martin Heidegger"
+    },
+    "p1105": {
+        "nb_articles": 1724,
+        "type": null,
+        "nom": "Paix"
+    },
+    "p336": {
+        "nb_articles": 123,
+        "type": null,
+        "nom": "Cherbourg-en-Cotentin"
+    },
+    "p304": {
+        "nb_articles": 1240,
+        "type": null,
+        "nom": "Castille-La Manche"
+    },
+    "p837": {
+        "nb_articles": 3300,
+        "type": null,
+        "nom": "Logiciels libres"
+    },
+    "p334": {
+        "nb_articles": 41,
+        "type": null,
+        "nom": "Chemin de fer en Inde"
+    },
+    "p293": {
+        "nb_articles": 89,
+        "type": "ébauche",
+        "nom": "Capitalisme"
+    },
+    "p527": {
+        "nb_articles": 496,
+        "type": null,
+        "nom": "Estrie"
+    },
+    "p36": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Alger"
+    },
+    "p1206": {
+        "nb_articles": 7561,
+        "type": null,
+        "nom": "Portugal"
+    },
+    "p794": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Laval (Mayenne)"
+    },
+    "p825": {
+        "nb_articles": 66745,
+        "type": "de qualité",
+        "nom": "Littérature"
+    },
+    "p1120": {
+        "nb_articles": 17362,
+        "type": null,
+        "nom": "Paris"
+    },
+    "p990": {
+        "nb_articles": 2975,
+        "type": null,
+        "nom": "Motocyclette"
+    },
+    "p155": {
+        "nb_articles": 463,
+        "type": null,
+        "nom": "Autobus"
+    },
+    "p869": {
+        "nb_articles": 465,
+        "type": null,
+        "nom": "Maine (État)"
+    },
+    "p79": {
+        "nb_articles": 574,
+        "type": null,
+        "nom": "Années 1800"
+    },
+    "p128": {
+        "nb_articles": 117,
+        "type": null,
+        "nom": "Arras"
+    },
+    "p159": {
+        "nb_articles": 1097,
+        "type": null,
+        "nom": "Autriche-Hongrie"
+    },
+    "p826": {
+        "nb_articles": 190,
+        "type": "ébauche",
+        "nom": "Littérature africaine"
+    },
+    "p51": {
+        "nb_articles": 314839,
+        "type": null,
+        "nom": "Amérique"
+    },
+    "p535": {
+        "nb_articles": 851460,
+        "type": null,
+        "nom": "Europe"
+    },
+    "p1237": {
+        "nb_articles": 161,
+        "type": null,
+        "nom": "Préfecture de Nara"
+    },
+    "p652": {
+        "nb_articles": 1494,
+        "type": null,
+        "nom": "Hautes-Pyrénées"
+    },
+    "p1595": {
+        "nb_articles": 507,
+        "type": null,
+        "nom": "Vancouver"
+    },
+    "p253": {
+        "nb_articles": 166,
+        "type": null,
+        "nom": "Bratislava"
+    },
+    "p1506": {
+        "nb_articles": 866,
+        "type": null,
+        "nom": "Tchad"
+    },
+    "p1335": {
+        "nb_articles": 554,
+        "type": null,
+        "nom": "Risorgimento"
+    },
+    "p1050": {
+        "nb_articles": 6905,
+        "type": "bon",
+        "nom": "Nord-Pas-de-Calais"
+    },
+    "p1584": {
+        "nb_articles": 273,
+        "type": null,
+        "nom": "Universités japonaises"
+    },
+    "p1603": {
+        "nb_articles": 86,
+        "type": null,
+        "nom": "Végétarisme"
+    },
+    "p995": {
+        "nb_articles": 678,
+        "type": null,
+        "nom": "Mozambique"
+    },
+    "p901": {
+        "nb_articles": 637,
+        "type": null,
+        "nom": "Massif du Jura"
+    },
+    "p45": {
+        "nb_articles": 130,
+        "type": null,
+        "nom": "Alpilles"
+    },
+    "p1067": {
+        "nb_articles": 108,
+        "type": null,
+        "nom": "Nuremberg"
+    },
+    "p865": {
+        "nb_articles": 155,
+        "type": null,
+        "nom": "Madonna"
+    },
+    "p1098": {
+        "nb_articles": 305,
+        "type": "ébauche",
+        "nom": "Oslo"
+    },
+    "p78": {
+        "nb_articles": 1007,
+        "type": null,
+        "nom": "Années 1790"
+    },
+    "p1167": {
+        "nb_articles": 274,
+        "type": "ébauche",
+        "nom": "Piauí"
+    },
+    "p1220": {
+        "nb_articles": 66,
+        "type": null,
+        "nom": "Préfecture de Fukui"
+    },
+    "p1645": {
+        "nb_articles": 9416,
+        "type": null,
+        "nom": "XVIIe siècle"
+    },
+    "p505": {
+        "nb_articles": 1565,
+        "type": null,
+        "nom": "Énergie fossile"
+    },
+    "p1542": {
+        "nb_articles": 181,
+        "type": null,
+        "nom": "Timor oriental"
+    },
+    "p686": {
+        "nb_articles": 965,
+        "type": null,
+        "nom": "Hôtellerie"
+    },
+    "p512": {
+        "nb_articles": 11341,
+        "type": null,
+        "nom": "Environnement"
+    },
+    "p1354": {
+        "nb_articles": 24398,
+        "type": null,
+        "nom": "Russie"
+    },
+    "p1275": {
+        "nb_articles": 4982,
+        "type": null,
+        "nom": "Psychologie"
+    },
+    "p723": {
+        "nb_articles": 24881,
+        "type": null,
+        "nom": "Informatique"
+    },
+    "p1021": {
+        "nb_articles": 1878,
+        "type": null,
+        "nom": "Nantes"
+    },
+    "p362": {
+        "nb_articles": 176,
+        "type": "ébauche",
+        "nom": "Cleveland"
+    },
+    "p248": {
+        "nb_articles": 3495,
+        "type": "bon",
+        "nom": "Boxe anglaise"
+    },
+    "p286": {
+        "nb_articles": 329,
+        "type": null,
+        "nom": "Cannes"
+    },
+    "p356": {
+        "nb_articles": 1345,
+        "type": null,
+        "nom": "Cinéma québécois"
+    },
+    "p289": {
+        "nb_articles": 1140,
+        "type": null,
+        "nom": "Cantal"
+    },
+    "p884": {
+        "nb_articles": 2579,
+        "type": null,
+        "nom": "Mannequinat"
+    },
+    "p1447": {
+        "nb_articles": 2038,
+        "type": null,
+        "nom": "Slovénie"
+    },
+    "p1434": {
+        "nb_articles": 148,
+        "type": "ébauche",
+        "nom": "Sienne"
+    },
+    "p140": {
+        "nb_articles": 41,
+        "type": "bon",
+        "nom": "Astronautique"
+    },
+    "p1195": {
+        "nb_articles": 3012,
+        "type": null,
+        "nom": "Politique québécoise"
+    },
+    "p1176": {
+        "nb_articles": 59,
+        "type": null,
+        "nom": "Plésiosaures"
+    },
+    "p484": {
+        "nb_articles": 218,
+        "type": null,
+        "nom": "Edmonton"
+    },
+    "p54": {
+        "nb_articles": 57118,
+        "type": null,
+        "nom": "Amérique du Sud"
+    },
+    "p123": {
+        "nb_articles": 413,
+        "type": null,
+        "nom": "Arles"
+    },
+    "p979": {
+        "nb_articles": 546,
+        "type": null,
+        "nom": "Montpellier"
+    },
+    "p804": {
+        "nb_articles": 173,
+        "type": null,
+        "nom": "Lego"
+    },
+    "p547": {
+        "nb_articles": 7876,
+        "type": null,
+        "nom": "Finlande"
+    },
+    "p661": {
+        "nb_articles": 1356,
+        "type": null,
+        "nom": "Hesse"
+    },
+    "p550": {
+        "nb_articles": 1383,
+        "type": null,
+        "nom": "Flandre-Orientale"
+    },
+    "p603": {
+        "nb_articles": 3739,
+        "type": null,
+        "nom": "Gironde"
+    },
+    "p1398": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Sawa"
+    },
+    "p1157": {
+        "nb_articles": 3108,
+        "type": null,
+        "nom": "Philippines"
+    },
+    "p288": {
+        "nb_articles": 315,
+        "type": null,
+        "nom": "Cantabrie"
+    },
+    "p241": {
+        "nb_articles": 37590,
+        "type": null,
+        "nom": "Botanique"
+    },
+    "p1458": {
+        "nb_articles": 596,
+        "type": null,
+        "nom": "Soudan"
+    },
+    "p1277": {
+        "nb_articles": 317,
+        "type": null,
+        "nom": "Publicité"
+    },
+    "p840": {
+        "nb_articles": 999,
+        "type": null,
+        "nom": "Loire"
+    },
+    "p1036": {
+        "nb_articles": 459,
+        "type": null,
+        "nom": "New Hampshire"
+    },
+    "p1423": {
+        "nb_articles": 103,
+        "type": null,
+        "nom": "Sérères"
+    },
+    "p1352": {
+        "nb_articles": 1548,
+        "type": null,
+        "nom": "Rugby à XIII"
+    },
+    "p1121": {
+        "nb_articles": 346,
+        "type": "ébauche",
+        "nom": "Pará"
+    },
+    "p1113": {
+        "nb_articles": 228,
+        "type": null,
+        "nom": "Parachutisme"
+    },
+    "p591": {
+        "nb_articles": 1599,
+        "type": null,
+        "nom": "Génie mécanique"
+    },
+    "p581": {
+        "nb_articles": 874,
+        "type": null,
+        "nom": "Gabon"
+    },
+    "p1178": {
+        "nb_articles": 314,
+        "type": "ébauche",
+        "nom": "Plongeon"
+    },
+    "p1400": {
+        "nb_articles": 524,
+        "type": null,
+        "nom": "Saxe-Anhalt"
+    },
+    "p255": {
+        "nb_articles": 20805,
+        "type": null,
+        "nom": "Brésil"
+    },
+    "p258": {
+        "nb_articles": 14597,
+        "type": null,
+        "nom": "Bretagne"
+    },
+    "p138": {
+        "nb_articles": 4142,
+        "type": null,
+        "nom": "Associations"
+    },
+    "p1420": {
+        "nb_articles": 4121,
+        "type": null,
+        "nom": "Sénégal"
+    },
+    "p1476": {
+        "nb_articles": 1433,
+        "type": null,
+        "nom": "Sri Lanka"
+    },
+    "p1395": {
+        "nb_articles": 222,
+        "type": null,
+        "nom": "Saturne"
+    },
+    "p1119": {
+        "nb_articles": 2128,
+        "type": null,
+        "nom": "Parcs de loisirs"
+    },
+    "p1298": {
+        "nb_articles": 999,
+        "type": null,
+        "nom": "Régate"
+    },
+    "p244": {
+        "nb_articles": 2658,
+        "type": null,
+        "nom": "Bouddhisme"
+    },
+    "p562": {
+        "nb_articles": 586,
+        "type": null,
+        "nom": "Forces canadiennes"
+    },
+    "p692": {
+        "nb_articles": 469,
+        "type": "ébauche",
+        "nom": "Idaho"
+    },
+    "p8": {
+        "nb_articles": 171,
+        "type": null,
+        "nom": "Açores"
+    },
+    "p689": {
+        "nb_articles": 6695,
+        "type": null,
+        "nom": "Humour"
+    },
+    "p178": {
+        "nb_articles": 6060,
+        "type": null,
+        "nom": "Bande dessinée francophone"
+    },
+    "p947": {
+        "nb_articles": 1992,
+        "type": null,
+        "nom": "Minéraux et roches"
+    },
+    "p151": {
+        "nb_articles": 18345,
+        "type": null,
+        "nom": "Australie"
+    },
+    "p778": {
+        "nb_articles": 397,
+        "type": null,
+        "nom": "Kyoto"
+    },
+    "p628": {
+        "nb_articles": 307,
+        "type": null,
+        "nom": "Guinée équatoriale"
+    },
+    "p1198": {
+        "nb_articles": 37507,
+        "type": null,
+        "nom": "Pologne"
+    },
+    "p1059": {
+        "nb_articles": 358,
+        "type": null,
+        "nom": "Nouvelle-Espagne"
+    },
+    "p329": {
+        "nb_articles": 8411,
+        "type": null,
+        "nom": "Châteaux"
+    },
+    "p1302": {
+        "nb_articles": 87,
+        "type": null,
+        "nom": "Régions de France"
+    },
+    "p745": {
+        "nb_articles": 37256,
+        "type": "de qualité",
+        "nom": "Japon"
+    },
+    "p332": {
+        "nb_articles": 21009,
+        "type": null,
+        "nom": "Chemin de fer"
+    },
+    "p478": {
+        "nb_articles": 47101,
+        "type": null,
+        "nom": "Économie"
+    },
+    "p1239": {
+        "nb_articles": 59,
+        "type": null,
+        "nom": "Préfecture de Saga"
+    },
+    "p658": {
+        "nb_articles": 1151,
+        "type": null,
+        "nom": "Héraldique"
+    },
+    "p1541": {
+        "nb_articles": 2988,
+        "type": null,
+        "nom": "Time Warner"
+    },
+    "p1482": {
+        "nb_articles": 252,
+        "type": null,
+        "nom": "Stuttgart"
+    },
+    "p541": {
+        "nb_articles": 611,
+        "type": null,
+        "nom": "Félins"
+    },
+    "p786": {
+        "nb_articles": 11689,
+        "type": null,
+        "nom": "Langues"
+    },
+    "p1025": {
+        "nb_articles": 4643,
+        "type": null,
+        "nom": "Natation"
+    },
+    "p162": {
+        "nb_articles": 1770,
+        "type": null,
+        "nom": "Aveyron"
+    },
+    "p1266": {
+        "nb_articles": 4257,
+        "type": null,
+        "nom": "Protestantisme"
+    },
+    "p1297": {
+        "nb_articles": 1344,
+        "type": null,
+        "nom": "Records"
+    },
+    "p805": {
+        "nb_articles": 253,
+        "type": null,
+        "nom": "Lesotho"
+    },
+    "p1042": {
+        "nb_articles": 1192,
+        "type": null,
+        "nom": "Nièvre"
+    },
+    "p1351": {
+        "nb_articles": 67030,
+        "type": null,
+        "nom": "Royaume-Uni"
+    },
+    "p139": {
+        "nb_articles": 149,
+        "type": null,
+        "nom": "Astérix"
+    },
+    "p1470": {
+        "nb_articles": 1059,
+        "type": "ébauche",
+        "nom": "Sport universitaire"
+    },
+    "p1056": {
+        "nb_articles": 21547,
+        "type": "de qualité",
+        "nom": "Nouvelle-Aquitaine"
+    },
+    "p1586": {
+        "nb_articles": 2269,
+        "type": null,
+        "nom": "Uruguay"
+    },
+    "p678": {
+        "nb_articles": 898,
+        "type": null,
+        "nom": "Hockey sur gazon"
+    },
+    "p959": {
+        "nb_articles": 842,
+        "type": null,
+        "nom": "Monaco"
+    },
+    "p1411": {
+        "nb_articles": 1062,
+        "type": null,
+        "nom": "Second Empire"
+    },
+    "p1368": {
+        "nb_articles": 122,
+        "type": null,
+        "nom": "Saint-Martin (Antilles françaises)"
+    },
+    "p345": {
+        "nb_articles": 1039,
+        "type": null,
+        "nom": "Chypre"
+    },
+    "p1647": {
+        "nb_articles": 117088,
+        "type": null,
+        "nom": "XXe siècle"
+    },
+    "p406": {
+        "nb_articles": 649,
+        "type": null,
+        "nom": "Course au large"
+    },
+    "p1109": {
+        "nb_articles": 1444,
+        "type": null,
+        "nom": "Palestine"
+    },
+    "p1017": {
+        "nb_articles": 601,
+        "type": null,
+        "nom": "Mythologie nordique"
+    },
+    "p296": {
+        "nb_articles": 1278,
+        "type": null,
+        "nom": "Carcinologie"
+    },
+    "p992": {
+        "nb_articles": 6215,
+        "type": null,
+        "nom": "Moyen Âge central"
+    },
+    "p76": {
+        "nb_articles": 374,
+        "type": null,
+        "nom": "Années 1770"
+    },
+    "p481": {
+        "nb_articles": 5713,
+        "type": null,
+        "nom": "Écriture"
+    },
+    "p1511": {
+        "nb_articles": 56014,
+        "type": null,
+        "nom": "Télévision"
+    },
+    "p1133": {
+        "nb_articles": 2669,
+        "type": null,
+        "nom": "Pays de Galles"
+    },
+    "p578": {
+        "nb_articles": 908,
+        "type": null,
+        "nom": "Fromage"
+    },
+    "p1412": {
+        "nb_articles": 23567,
+        "type": null,
+        "nom": "Seconde Guerre mondiale"
+    },
+    "p168": {
+        "nb_articles": 535,
+        "type": null,
+        "nom": "Badminton"
+    },
+    "p1611": {
+        "nb_articles": 737,
+        "type": null,
+        "nom": "Vexillologie"
+    },
+    "p469": {
+        "nb_articles": 166,
+        "type": null,
+        "nom": "Duché de Lorraine"
+    },
+    "p1293": {
+        "nb_articles": 995,
+        "type": null,
+        "nom": "Randonnée"
+    },
+    "p687": {
+        "nb_articles": 312,
+        "type": "ébauche",
+        "nom": "Houston"
+    },
+    "p619": {
+        "nb_articles": 1000,
+        "type": null,
+        "nom": "Grisons"
+    },
+    "p430": {
+        "nb_articles": 586,
+        "type": "ébauche",
+        "nom": "Dakota du Nord"
+    },
+    "p0": {
+        "nb_articles": 70,
+        "type": null,
+        "nom": "ABBA"
+    },
+    "p831": {
+        "nb_articles": 2025,
+        "type": null,
+        "nom": "Littérature italienne"
+    },
+    "p902": {
+        "nb_articles": 1494,
+        "type": null,
+        "nom": "Matériaux"
+    },
+    "p1187": {
+        "nb_articles": 346,
+        "type": null,
+        "nom": "Politique au Luxembourg"
+    },
+    "p1570": {
+        "nb_articles": 624,
+        "type": null,
+        "nom": "Tunis"
+    },
+    "p651": {
+        "nb_articles": 1056,
+        "type": null,
+        "nom": "Hautes-Alpes"
+    },
+    "p306": {
+        "nb_articles": 2401,
+        "type": "bon",
+        "nom": "Catch"
+    },
+    "p691": {
+        "nb_articles": 7641,
+        "type": null,
+        "nom": "Ichtyologie"
+    },
+    "p906": {
+        "nb_articles": 799,
+        "type": null,
+        "nom": "Mauricie"
+    },
+    "p372": {
+        "nb_articles": 2012,
+        "type": null,
+        "nom": "Comédies musicales"
+    },
+    "p1377": {
+        "nb_articles": 417,
+        "type": null,
+        "nom": "Salomon"
+    },
+    "p1404": {
+        "nb_articles": 178799,
+        "type": null,
+        "nom": "Sciences"
+    },
+    "p710": {
+        "nb_articles": 140,
+        "type": null,
+        "nom": "Îles Vierges des États-Unis"
+    },
+    "p987": {
+        "nb_articles": 612,
+        "type": null,
+        "nom": "Morvan"
+    },
+    "p479": {
+        "nb_articles": 7622,
+        "type": "bon",
+        "nom": "Écosse"
+    },
+    "p1349": {
+        "nb_articles": 2053,
+        "type": null,
+        "nom": "Royal Navy"
+    },
+    "p276": {
+        "nb_articles": 7924,
+        "type": null,
+        "nom": "Californie"
+    },
+    "p1114": {
+        "nb_articles": 985,
+        "type": null,
+        "nom": "Paraguay"
+    },
+    "p1628": {
+        "nb_articles": 1735,
+        "type": null,
+        "nom": "Vosges"
+    },
+    "p477": {
+        "nb_articles": 1516,
+        "type": null,
+        "nom": "Écologie"
+    },
+    "p1536": {
+        "nb_articles": 1467,
+        "type": null,
+        "nom": "Théologie"
+    },
+    "p922": {
+        "nb_articles": 2233,
+        "type": null,
+        "nom": "Mer Méditerranée"
+    },
+    "p796": {
+        "nb_articles": 209,
+        "type": "ébauche",
+        "nom": "Le Caire"
+    },
+    "p204": {
+        "nb_articles": 754,
+        "type": null,
+        "nom": "Bénin"
+    },
+    "p1001": {
+        "nb_articles": 586,
+        "type": null,
+        "nom": "Musée du Louvre"
+    },
+    "p77": {
+        "nb_articles": 408,
+        "type": null,
+        "nom": "Années 1780"
+    },
+    "p1018": {
+        "nb_articles": 303,
+        "type": null,
+        "nom": "Mythologie romaine"
+    },
+    "p1240": {
+        "nb_articles": 208,
+        "type": null,
+        "nom": "Préfecture de Saitama"
+    },
+    "p1175": {
+        "nb_articles": 2123,
+        "type": null,
+        "nom": "Plantes utiles"
+    },
+    "p394": {
+        "nb_articles": 2347,
+        "type": null,
+        "nom": "Corse"
+    },
+    "p1070": {
+        "nb_articles": 4662,
+        "type": null,
+        "nom": "Occitanie"
+    },
+    "p47": {
+        "nb_articles": 7373,
+        "type": null,
+        "nom": "Alsace"
+    },
+    "p917": {
+        "nb_articles": 667,
+        "type": "ébauche",
+        "nom": "Melbourne"
+    },
+    "p1229": {
+        "nb_articles": 290,
+        "type": null,
+        "nom": "Préfecture de Kanagawa"
+    },
+    "p1548": {
+        "nb_articles": 799,
+        "type": null,
+        "nom": "Togo"
+    },
+    "p471": {
+        "nb_articles": 24490,
+        "type": null,
+        "nom": "Eau"
+    },
+    "p278": {
+        "nb_articles": 322,
+        "type": null,
+        "nom": "Camargue"
+    },
+    "p470": {
+        "nb_articles": 349,
+        "type": null,
+        "nom": "Dunkerque"
+    },
+    "p378": {
+        "nb_articles": 4618,
+        "type": null,
+        "nom": "Communisme"
+    },
+    "p1038": {
+        "nb_articles": 5837,
+        "type": "ébauche",
+        "nom": "New York"
+    },
+    "p1403": {
+        "nb_articles": 12038,
+        "type": null,
+        "nom": "Science-fiction"
+    },
+    "p931": {
+        "nb_articles": 1149,
+        "type": null,
+        "nom": "Meuse"
+    },
+    "p598": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Géorgie (pays)"
+    },
+    "p871": {
+        "nb_articles": 291,
+        "type": null,
+        "nom": "Maladies infectieuses"
+    },
+    "p1252": {
+        "nb_articles": 3681,
+        "type": null,
+        "nom": "Préhistoire"
+    },
+    "p891": {
+        "nb_articles": 904,
+        "type": null,
+        "nom": "Mars"
+    },
+    "p776": {
+        "nb_articles": 188,
+        "type": "ébauche",
+        "nom": "Kuala Lumpur"
+    },
+    "p885": {
+        "nb_articles": 304,
+        "type": "ébauche",
+        "nom": "Maranhão"
+    },
+    "p1443": {
+        "nb_articles": 1347,
+        "type": null,
+        "nom": "Ski de fond"
+    },
+    "p35": {
+        "nb_articles": 45,
+        "type": null,
+        "nom": "Algèbre nouvelle et François Viète"
+    },
+    "p670": {
+        "nb_articles": 8625,
+        "type": null,
+        "nom": "Histoire des sciences"
+    },
+    "p16": {
+        "nb_articles": 379,
+        "type": null,
+        "nom": "Afro-Américains"
+    },
+    "p728": {
+        "nb_articles": 2574,
+        "type": null,
+        "nom": "Iowa"
+    },
+    "p1126": {
+        "nb_articles": 2341,
+        "type": null,
+        "nom": "Patrimoine mondial"
+    },
+    "p1519": {
+        "nb_articles": 1121,
+        "type": null,
+        "nom": "Terre-Neuve-et-Labrador"
+    },
+    "p324": {
+        "nb_articles": 88,
+        "type": null,
+        "nom": "Charles Dickens"
+    },
+    "p343": {
+        "nb_articles": 57717,
+        "type": null,
+        "nom": "Christianisme"
+    },
+    "p939": {
+        "nb_articles": 1595,
+        "type": null,
+        "nom": "Microbiologie"
+    },
+    "p1092": {
+        "nb_articles": 2189,
+        "type": null,
+        "nom": "Origine et évolution du vivant"
+    },
+    "p595": {
+        "nb_articles": 11674,
+        "type": "bon",
+        "nom": "Géologie"
+    },
+    "p70": {
+        "nb_articles": 6516,
+        "type": null,
+        "nom": "Animation et bande dessinée asiatiques"
+    },
+    "p911": {
+        "nb_articles": 305,
+        "type": null,
+        "nom": "Mayotte"
+    },
+    "p1456": {
+        "nb_articles": 557,
+        "type": null,
+        "nom": "Sony"
+    },
+    "p246": {
+        "nb_articles": 138,
+        "type": null,
+        "nom": "Boulogne-sur-Mer"
+    },
+    "p1566": {
+        "nb_articles": 2533,
+        "type": null,
+        "nom": "Travail et métiers"
+    },
+    "p938": {
+        "nb_articles": 234,
+        "type": null,
+        "nom": "Micro et nanotechnologie"
+    },
+    "p870": {
+        "nb_articles": 2912,
+        "type": null,
+        "nom": "Malacologie"
+    },
+    "p199": {
+        "nb_articles": 281,
+        "type": "ébauche",
+        "nom": "Beach-volley"
+    },
+    "p376": {
+        "nb_articles": 2697,
+        "type": null,
+        "nom": "Communauté autonome du Pays basque"
+    },
+    "p644": {
+        "nb_articles": 5075,
+        "type": null,
+        "nom": "Haut Moyen Âge"
+    },
+    "p1165": {
+        "nb_articles": 1023,
+        "type": null,
+        "nom": "Physiologie"
+    },
+    "p924": {
+        "nb_articles": 7962,
+        "type": null,
+        "nom": "Metal"
+    },
+    "p716": {
+        "nb_articles": 962,
+        "type": "ébauche",
+        "nom": "Indiana"
+    },
+    "p29": {
+        "nb_articles": 1414,
+        "type": null,
+        "nom": "Alaska"
+    },
+    "p1369": {
+        "nb_articles": 108,
+        "type": null,
+        "nom": "Saint-Nazaire"
+    },
+    "p320": {
+        "nb_articles": 655,
+        "type": null,
+        "nom": "Char de combat"
+    },
+    "p1610": {
+        "nb_articles": 270,
+        "type": null,
+        "nom": "Vesoul"
+    },
+    "p574": {
+        "nb_articles": 1055,
+        "type": null,
+        "nom": "Fribourg"
+    },
+    "p203": {
+        "nb_articles": 288,
+        "type": null,
+        "nom": "Bengale-Occidental"
+    },
+    "p1052": {
+        "nb_articles": 7958,
+        "type": null,
+        "nom": "Norvège"
+    },
+    "p1495": {
+        "nb_articles": 263,
+        "type": null,
+        "nom": "Tabac"
+    },
+    "p1182": {
+        "nb_articles": 304,
+        "type": null,
+        "nom": "Pokémon"
+    },
+    "p1484": {
+        "nb_articles": 24024,
+        "type": "de qualité",
+        "nom": "Suisse"
+    },
+    "p1522": {
+        "nb_articles": 162,
+        "type": "ébauche",
+        "nom": "Territoire de la capitale australienne"
+    },
+    "p115": {
+        "nb_articles": 2130,
+        "type": null,
+        "nom": "Arctique"
+    },
+    "p1041": {
+        "nb_articles": 801,
+        "type": null,
+        "nom": "Nice"
+    },
+    "p639": {
+        "nb_articles": 4855,
+        "type": null,
+        "nom": "Handball"
+    },
+    "p90": {
+        "nb_articles": 9419,
+        "type": null,
+        "nom": "Années 1910"
+    },
+    "p146": {
+        "nb_articles": 451,
+        "type": "ébauche",
+        "nom": "Atlanta"
+    },
+    "p1619": {
+        "nb_articles": 2499,
+        "type": null,
+        "nom": "Viêt Nam"
+    },
+    "p191": {
+        "nb_articles": 14780,
+        "type": "bon",
+        "nom": "Basket-ball"
+    },
+    "p532": {
+        "nb_articles": 657,
+        "type": null,
+        "nom": "Étrusques"
+    },
+    "p1268": {
+        "nb_articles": 12628,
+        "type": "bon",
+        "nom": "Provence-Alpes-Côte d'Azur"
+    },
+    "p433": {
+        "nb_articles": 6778,
+        "type": null,
+        "nom": "Danemark"
+    },
+    "p1118": {
+        "nb_articles": 272,
+        "type": "ébauche",
+        "nom": "Parc national de Yosemite"
+    },
+    "p1483": {
+        "nb_articles": 11394,
+        "type": null,
+        "nom": "Suède"
+    },
+    "p573": {
+        "nb_articles": 71,
+        "type": null,
+        "nom": "Franz Liszt"
+    },
+    "p1199": {
+        "nb_articles": 966,
+        "type": null,
+        "nom": "Polynésie française"
+    },
+    "p282": {
+        "nb_articles": 1038,
+        "type": null,
+        "nom": "Camion"
+    },
+    "p112": {
+        "nb_articles": 8579,
+        "type": null,
+        "nom": "Archéologie"
+    },
+    "p557": {
+        "nb_articles": 3783,
+        "type": null,
+        "nom": "Football américain"
+    },
+    "p529": {
+        "nb_articles": 1318,
+        "type": "ébauche",
+        "nom": "État de São Paulo"
+    },
+    "p1013": {
+        "nb_articles": 3091,
+        "type": null,
+        "nom": "Mythologie"
+    },
+    "p4": {
+        "nb_articles": 657,
+        "type": null,
+        "nom": "Abruzzes"
+    },
+    "p1189": {
+        "nb_articles": 4142,
+        "type": null,
+        "nom": "Politique belge"
+    },
+    "p238": {
+        "nb_articles": 1255,
+        "type": null,
+        "nom": "Bordeaux"
+    },
+    "p1356": {
+        "nb_articles": 61,
+        "type": "ébauche",
+        "nom": "Sacramento"
+    },
+    "p299": {
+        "nb_articles": 231,
+        "type": null,
+        "nom": "Carpates"
+    },
+    "p247": {
+        "nb_articles": 8266,
+        "type": null,
+        "nom": "Bourgogne"
+    },
+    "p752": {
+        "nb_articles": 7917,
+        "type": null,
+        "nom": "Jeux"
+    },
+    "p202": {
+        "nb_articles": 291,
+        "type": null,
+        "nom": "Belize"
+    },
+    "p719": {
+        "nb_articles": 813,
+        "type": null,
+        "nom": "Indre"
+    },
+    "p381": {
+        "nb_articles": 41,
+        "type": "ébauche",
+        "nom": "Conakry"
+    },
+    "p64": {
+        "nb_articles": 447,
+        "type": null,
+        "nom": "Angers"
+    },
+    "p863": {
+        "nb_articles": 4095,
+        "type": null,
+        "nom": "Madagascar"
+    },
+    "p1002": {
+        "nb_articles": 242,
+        "type": "ébauche",
+        "nom": "Musée du Prado"
+    },
+    "p576": {
+        "nb_articles": 503,
+        "type": null,
+        "nom": "Frioul-Vénétie julienne"
+    },
+    "p736": {
+        "nb_articles": 4721,
+        "type": null,
+        "nom": "Israël"
+    },
+    "p132": {
+        "nb_articles": 51423,
+        "type": null,
+        "nom": "Arts"
+    },
+    "p197": {
+        "nb_articles": 4469,
+        "type": null,
+        "nom": "Bavière"
+    },
+    "p426": {
+        "nb_articles": 5081,
+        "type": "bon",
+        "nom": "Culture russe"
+    },
+    "p26": {
+        "nb_articles": 1074,
+        "type": "ébauche",
+        "nom": "Alabama"
+    },
+    "p224": {
+        "nb_articles": 7805,
+        "type": null,
+        "nom": "Biologie marine"
+    },
+    "p1164": {
+        "nb_articles": 1133,
+        "type": null,
+        "nom": "Phycologie"
+    },
+    "p83": {
+        "nb_articles": 572,
+        "type": null,
+        "nom": "Années 1840"
+    },
+    "p285": {
+        "nb_articles": 1127,
+        "type": null,
+        "nom": "Canidés"
+    },
+    "p909": {
+        "nb_articles": 523,
+        "type": null,
+        "nom": "Mayence"
+    },
+    "p519": {
+        "nb_articles": 2294,
+        "type": null,
+        "nom": "Espace Mittelland"
+    },
+    "p153": {
+        "nb_articles": 1505,
+        "type": "ébauche",
+        "nom": "Australie-Occidentale"
+    },
+    "p625": {
+        "nb_articles": 1535,
+        "type": null,
+        "nom": "Guerre froide"
+    },
+    "p1639": {
+        "nb_articles": 273,
+        "type": null,
+        "nom": "Wikimedia"
+    },
+    "p543": {
+        "nb_articles": 2177,
+        "type": null,
+        "nom": "Fêtes et traditions"
+    },
+    "p134": {
+        "nb_articles": 2776,
+        "type": "ébauche",
+        "nom": "Arts du spectacle"
+    },
+    "p1449": {
+        "nb_articles": 452,
+        "type": null,
+        "nom": "Snowboard"
+    },
+    "p107": {
+        "nb_articles": 1872,
+        "type": null,
+        "nom": "Aquariophilie"
+    },
+    "p844": {
+        "nb_articles": 4720,
+        "type": null,
+        "nom": "Londres"
+    },
+    "p438": {
+        "nb_articles": 187,
+        "type": "ébauche",
+        "nom": "Delaware"
+    },
+    "p510": {
+        "nb_articles": 6621,
+        "type": null,
+        "nom": "Entre-deux-guerres"
+    },
+    "p181": {
+        "nb_articles": 313,
+        "type": null,
+        "nom": "Barbade"
+    },
+    "p961": {
+        "nb_articles": 222,
+        "type": "ébauche",
+        "nom": "Monarchie de Juillet"
+    },
+    "p861": {
+        "nb_articles": 228,
+        "type": null,
+        "nom": "Macao"
+    },
+    "p125": {
+        "nb_articles": 637,
+        "type": null,
+        "nom": "Armée italienne"
+    },
+    "p935": {
+        "nb_articles": 157,
+        "type": null,
+        "nom": "Michael Jackson"
+    },
+    "p896": {
+        "nb_articles": 614,
+        "type": null,
+        "nom": "Marxisme"
+    },
+    "p1150": {
+        "nb_articles": 184,
+        "type": null,
+        "nom": "Perpignan"
+    },
+    "p1455": {
+        "nb_articles": 2433,
+        "type": null,
+        "nom": "Somme"
+    },
+    "p1408": {
+        "nb_articles": 384,
+        "type": null,
+        "nom": "Scoutisme"
+    },
+    "p638": {
+        "nb_articles": 152,
+        "type": null,
+        "nom": "Hamilton"
+    },
+    "p971": {
+        "nb_articles": 2941,
+        "type": null,
+        "nom": "Monde malais"
+    },
+    "p599": {
+        "nb_articles": 93,
+        "type": "ébauche",
+        "nom": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+    },
+    "p225": {
+        "nb_articles": 1145,
+        "type": null,
+        "nom": "Birmanie"
+    },
+    "p413": {
+        "nb_articles": 4539,
+        "type": null,
+        "nom": "Croatie"
+    },
+    "p1313": {
+        "nb_articles": 3524,
+        "type": null,
+        "nom": "République démocratique du Congo"
+    },
+    "p212": {
+        "nb_articles": 265,
+        "type": null,
+        "nom": "Bhoutan"
+    },
+    "p1627": {
+        "nb_articles": 6704,
+        "type": null,
+        "nom": "Volley-ball"
+    },
+    "p1216": {
+        "nb_articles": 137,
+        "type": null,
+        "nom": "Préfecture d'Okayama"
+    },
+    "p1433": {
+        "nb_articles": 1749,
+        "type": null,
+        "nom": "Sicile"
+    },
+    "p812": {
+        "nb_articles": 780,
+        "type": "ébauche",
+        "nom": "Libye"
+    },
+    "p170": {
+        "nb_articles": 53,
+        "type": "ébauche",
+        "nom": "Bahaïsme"
+    },
+    "p195": {
+        "nb_articles": 49,
+        "type": null,
+        "nom": "Bassins houillers des Vosges et du Jura"
+    },
+    "p1242": {
+        "nb_articles": 70,
+        "type": null,
+        "nom": "Préfecture de Shimane"
+    },
+    "p182": {
+        "nb_articles": 928,
+        "type": null,
+        "nom": "Barcelone"
+    },
+    "p807": {
+        "nb_articles": 3917,
+        "type": null,
+        "nom": "LGBT"
+    },
+    "p1402": {
+        "nb_articles": 1473,
+        "type": null,
+        "nom": "Schleswig-Holstein"
+    },
+    "p981": {
+        "nb_articles": 67,
+        "type": "ébauche",
+        "nom": "Montserrat"
+    },
+    "p105": {
+        "nb_articles": 214,
+        "type": null,
+        "nom": "Antigua-et-Barbuda"
+    },
+    "p301": {
+        "nb_articles": 582,
+        "type": null,
+        "nom": "Cartographie"
+    },
+    "p1367": {
+        "nb_articles": 414,
+        "type": null,
+        "nom": "Saint-Marin"
+    },
+    "p951": {
+        "nb_articles": 210,
+        "type": null,
+        "nom": "Miss France"
+    },
+    "p234": {
+        "nb_articles": 1149,
+        "type": "bon",
+        "nom": "Bollywood"
+    },
+    "p920": {
+        "nb_articles": 1025,
+        "type": null,
+        "nom": "Mer Baltique"
+    },
+    "p1380": {
+        "nb_articles": 628,
+        "type": null,
+        "nom": "Salvador"
+    },
+    "p1637": {
+        "nb_articles": 240,
+        "type": null,
+        "nom": "Whisky"
+    },
+    "p439": {
+        "nb_articles": 147,
+        "type": null,
+        "nom": "Delhi"
+    },
+    "p418": {
+        "nb_articles": 298,
+        "type": null,
+        "nom": "Cuisine du Maghreb"
+    },
+    "p483": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Édition numérique"
+    },
+    "p834": {
+        "nb_articles": 187,
+        "type": "ébauche",
+        "nom": "Liverpool"
+    },
+    "p81": {
+        "nb_articles": 516,
+        "type": null,
+        "nom": "Années 1820"
+    },
+    "p1376": {
+        "nb_articles": 147,
+        "type": null,
+        "nom": "Sainte-Lucie"
+    },
+    "p156": {
+        "nb_articles": 837,
+        "type": null,
+        "nom": "Autochtones du Canada"
+    },
+    "p632": {
+        "nb_articles": 2339,
+        "type": null,
+        "nom": "Gymnastique"
+    },
+    "p1365": {
+        "nb_articles": 249,
+        "type": null,
+        "nom": "Saint-Louis (Missouri)"
+    },
+    "p50": {
+        "nb_articles": 674,
+        "type": null,
+        "nom": "Amazonie"
+    },
+    "p357": {
+        "nb_articles": 657,
+        "type": null,
+        "nom": "Cinquième République"
+    },
+    "p874": {
+        "nb_articles": 511,
+        "type": null,
+        "nom": "Maldives"
+    },
+    "p1366": {
+        "nb_articles": 305,
+        "type": null,
+        "nom": "Saint-Malo"
+    },
+    "p1329": {
+        "nb_articles": 963,
+        "type": null,
+        "nom": "Rink hockey"
+    },
+    "p1334": {
+        "nb_articles": 83,
+        "type": null,
+        "nom": "Riom"
+    },
+    "p676": {
+        "nb_articles": 111,
+        "type": null,
+        "nom": "Hittites"
+    },
+    "p292": {
+        "nb_articles": 665,
+        "type": null,
+        "nom": "Cap-Vert"
+    },
+    "p875": {
+        "nb_articles": 2496,
+        "type": null,
+        "nom": "Mali"
+    },
+    "p1512": {
+        "nb_articles": 3002,
+        "type": null,
+        "nom": "Télévision britannique"
+    },
+    "p849": {
+        "nb_articles": 1450,
+        "type": null,
+        "nom": "Lot-et-Garonne"
+    },
+    "p163": {
+        "nb_articles": 752,
+        "type": "de qualité",
+        "nom": "Avignon"
+    },
+    "p521": {
+        "nb_articles": 991,
+        "type": "ébauche",
+        "nom": "Espaces verts"
+    },
+    "p281": {
+        "nb_articles": 7603,
+        "type": null,
+        "nom": "Cameroun"
+    },
+    "p913": {
+        "nb_articles": 23184,
+        "type": "bon",
+        "nom": "Médecine"
+    },
+    "p1466": {
+        "nb_articles": 260927,
+        "type": null,
+        "nom": "Sport"
+    },
+    "p880": {
+        "nb_articles": 185,
+        "type": null,
+        "nom": "Manche (mer)"
+    },
+    "p635": {
+        "nb_articles": 1764,
+        "type": null,
+        "nom": "Haïti"
+    },
+    "p1204": {
+        "nb_articles": 1004,
+        "type": "ébauche",
+        "nom": "Porto Rico"
+    },
+    "p819": {
+        "nb_articles": 178,
+        "type": null,
+        "nom": "Limbourg"
+    },
+    "p1602": {
+        "nb_articles": 3734,
+        "type": null,
+        "nom": "Vaud"
+    },
+    "p1534": {
+        "nb_articles": 484,
+        "type": "de qualité",
+        "nom": "The Beatles"
+    },
+    "p633": {
+        "nb_articles": 210,
+        "type": null,
+        "nom": "Göteborg"
+    },
+    "p1491": {
+        "nb_articles": 830,
+        "type": null,
+        "nom": "Sydney"
+    },
+    "p1410": {
+        "nb_articles": 307,
+        "type": null,
+        "nom": "Seattle"
+    },
+    "p1363": {
+        "nb_articles": 416,
+        "type": null,
+        "nom": "Saint-Étienne"
+    },
+    "p239": {
+        "nb_articles": 7830,
+        "type": null,
+        "nom": "Bosnie-Herzégovine"
+    },
+    "p735": {
+        "nb_articles": 2432,
+        "type": null,
+        "nom": "Islande"
+    },
+    "p482": {
+        "nb_articles": 4529,
+        "type": null,
+        "nom": "Édition"
+    },
+    "p793": {
+        "nb_articles": 460,
+        "type": null,
+        "nom": "Lausanne"
+    },
+    "p528": {
+        "nb_articles": 1390,
+        "type": "ébauche",
+        "nom": "État de Rio de Janeiro"
+    },
+    "p108": {
+        "nb_articles": 1038,
+        "type": null,
+        "nom": "Arabie saoudite"
+    },
+    "p1004": {
+        "nb_articles": 122268,
+        "type": "de qualité",
+        "nom": "Musique"
+    },
+    "p333": {
+        "nb_articles": 2025,
+        "type": null,
+        "nom": "Chemin de fer en Amérique du Nord"
+    },
+    "p14": {
+        "nb_articles": 95937,
+        "type": null,
+        "nom": "Afrique"
+    },
+    "p1278": {
+        "nb_articles": 2755,
+        "type": null,
+        "nom": "Punk"
+    },
+    "p1537": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Thiers"
+    },
+    "p1605": {
+        "nb_articles": 2708,
+        "type": null,
+        "nom": "Vénétie"
+    },
+    "p464": {
+        "nb_articles": 1235,
+        "type": null,
+        "nom": "Droits de l'homme"
+    },
+    "p421": {
+        "nb_articles": 320,
+        "type": null,
+        "nom": "Cuisine japonaise"
+    },
+    "p346": {
+        "nb_articles": 170,
+        "type": "ébauche",
+        "nom": "Cincinnati"
+    },
+    "p798": {
+        "nb_articles": 203,
+        "type": "ébauche",
+        "nom": "Le Havre"
+    },
+    "p1509": {
+        "nb_articles": 264,
+        "type": null,
+        "nom": "Technologies de l'information et de la communication pour l'enseignement"
+    },
+    "p274": {
+        "nb_articles": 680,
+        "type": null,
+        "nom": "Calabre"
+    },
+    "p1348": {
+        "nb_articles": 17335,
+        "type": null,
+        "nom": "Route"
+    },
+    "p615": {
+        "nb_articles": 6892,
+        "type": null,
+        "nom": "Grèce"
+    },
+    "p647": {
+        "nb_articles": 880,
+        "type": "ébauche",
+        "nom": "Haute-Loire"
+    },
+    "p1641": {
+        "nb_articles": 795,
+        "type": null,
+        "nom": "Wisconsin"
+    },
+    "p1107": {
+        "nb_articles": 283,
+        "type": null,
+        "nom": "Palaos"
+    },
+    "p1170": {
+        "nb_articles": 271,
+        "type": null,
+        "nom": "Pink Floyd"
+    },
+    "p988": {
+        "nb_articles": 1463,
+        "type": null,
+        "nom": "Moscou"
+    },
+    "p174": {
+        "nb_articles": 286,
+        "type": "ébauche",
+        "nom": "Bakou"
+    },
+    "p836": {
+        "nb_articles": 4240,
+        "type": null,
+        "nom": "Logiciel"
+    },
+    "p27": {
+        "nb_articles": 163,
+        "type": "ébauche",
+        "nom": "Alagoas"
+    },
+    "p1559": {
+        "nb_articles": 157,
+        "type": null,
+        "nom": "Transformers"
+    },
+    "p1172": {
+        "nb_articles": 188,
+        "type": null,
+        "nom": "Pittsburgh"
+    },
+    "p1500": {
+        "nb_articles": 1141,
+        "type": null,
+        "nom": "Tanzanie"
+    },
+    "p766": {
+        "nb_articles": 850,
+        "type": null,
+        "nom": "Karaté"
+    },
+    "p589": {
+        "nb_articles": 259,
+        "type": null,
+        "nom": "Gênes"
+    },
+    "p1344": {
+        "nb_articles": 68,
+        "type": "ébauche",
+        "nom": "Roraima"
+    },
+    "p361": {
+        "nb_articles": 264,
+        "type": "ébauche",
+        "nom": "Clermont-Ferrand"
+    },
+    "p1421": {
+        "nb_articles": 649,
+        "type": null,
+        "nom": "Séoul"
+    },
+    "p379": {
+        "nb_articles": 790,
+        "type": null,
+        "nom": "Comores"
+    },
+    "p1227": {
+        "nb_articles": 67,
+        "type": null,
+        "nom": "Préfecture de Kagawa"
+    },
+    "p654": {
+        "nb_articles": 838,
+        "type": "ébauche",
+        "nom": "Hawaï"
+    },
+    "p58": {
+        "nb_articles": 800,
+        "type": null,
+        "nom": "Amsterdam"
+    },
+    "p867": {
+        "nb_articles": 22987,
+        "type": null,
+        "nom": "Maghreb"
+    },
+    "p325": {
+        "nb_articles": 88,
+        "type": null,
+        "nom": "Charleville-Mézières"
+    },
+    "p575": {
+        "nb_articles": 54,
+        "type": null,
+        "nom": "Friedrich Nietzsche"
+    },
+    "p680": {
+        "nb_articles": 697,
+        "type": null,
+        "nom": "Hokkaidō"
+    },
+    "p231": {
+        "nb_articles": 2022,
+        "type": null,
+        "nom": "Bois et forêt"
+    },
+    "p949": {
+        "nb_articles": 1173,
+        "type": null,
+        "nom": "Minnesota"
+    },
+    "p851": {
+        "nb_articles": 114,
+        "type": "ébauche",
+        "nom": "Louisville"
+    },
+    "p210": {
+        "nb_articles": 230,
+        "type": null,
+        "nom": "Bessin"
+    },
+    "p731": {
+        "nb_articles": 7267,
+        "type": null,
+        "nom": "Irlande"
+    },
+    "p347": {
+        "nb_articles": 118556,
+        "type": "de qualité",
+        "nom": "Cinéma"
+    },
+    "p395": {
+        "nb_articles": 510,
+        "type": null,
+        "nom": "Cosmologie"
+    },
+    "p1630": {
+        "nb_articles": 10701,
+        "type": null,
+        "nom": "Wallonie"
+    },
+    "p932": {
+        "nb_articles": 526,
+        "type": null,
+        "nom": "Mexico"
+    },
+    "p1155": {
+        "nb_articles": 544,
+        "type": null,
+        "nom": "Philadelphie"
+    },
+    "p475": {
+        "nb_articles": 83,
+        "type": null,
+        "nom": "École de Nancy"
+    },
+    "p298": {
+        "nb_articles": 536,
+        "type": "ébauche",
+        "nom": "Caroline du Sud"
+    },
+    "p855": {
+        "nb_articles": 596,
+        "type": null,
+        "nom": "Lumières"
+    },
+    "p327": {
+        "nb_articles": 449,
+        "type": null,
+        "nom": "Chasse"
+    },
+    "p1181": {
+        "nb_articles": 5856,
+        "type": null,
+        "nom": "Poitou-Charentes"
+    },
+    "p1343": {
+        "nb_articles": 94,
+        "type": "ébauche",
+        "nom": "Rondônia"
+    },
+    "p1523": {
+        "nb_articles": 349,
+        "type": "ébauche",
+        "nom": "Territoire du Nord"
+    },
+    "p110": {
+        "nb_articles": 1477,
+        "type": null,
+        "nom": "Aragon"
+    },
+    "p1526": {
+        "nb_articles": 930,
+        "type": null,
+        "nom": "Terrorisme"
+    },
+    "p614": {
+        "nb_articles": 3432,
+        "type": null,
+        "nom": "Gravure"
+    },
+    "p249": {
+        "nb_articles": 1087,
+        "type": null,
+        "nom": "Brabant flamand"
+    },
+    "p1234": {
+        "nb_articles": 112,
+        "type": null,
+        "nom": "Préfecture de Miyazaki"
+    },
+    "p515": {
+        "nb_articles": 2521,
+        "type": null,
+        "nom": "Équateur"
+    },
+    "p544": {
+        "nb_articles": 627,
+        "type": null,
+        "nom": "Fidji"
+    },
+    "p1442": {
+        "nb_articles": 1747,
+        "type": null,
+        "nom": "Ski alpin"
+    },
+    "p447": {
+        "nb_articles": 72,
+        "type": null,
+        "nom": "Détective Conan"
+    },
+    "p774": {
+        "nb_articles": 114,
+        "type": null,
+        "nom": "Kourou"
+    },
+    "p744": {
+        "nb_articles": 86,
+        "type": null,
+        "nom": "Jane Austen"
+    },
+    "p624": {
+        "nb_articles": 2068,
+        "type": null,
+        "nom": "Guerre de Sécession"
+    },
+    "p104": {
+        "nb_articles": 1646,
+        "type": null,
+        "nom": "Anthroponymie"
+    },
+    "p596": {
+        "nb_articles": 1533,
+        "type": null,
+        "nom": "Géométrie"
+    },
+    "p829": {
+        "nb_articles": 2950,
+        "type": null,
+        "nom": "Littérature d'enfance et de jeunesse"
+    },
+    "p1597": {
+        "nb_articles": 399,
+        "type": null,
+        "nom": "Vanuatu"
+    },
+    "p542": {
+        "nb_articles": 6150,
+        "type": null,
+        "nom": "Femmes"
+    },
+    "p966": {
+        "nb_articles": 2021,
+        "type": null,
+        "nom": "Monde celtique"
+    },
+    "p1282": {
+        "nb_articles": 2549,
+        "type": null,
+        "nom": "Pyrénées-Orientales"
+    },
+    "p688": {
+        "nb_articles": 1139,
+        "type": null,
+        "nom": "Humanitaire et développement"
+    },
+    "p1429": {
+        "nb_articles": 477,
+        "type": "ébauche",
+        "nom": "Seychelles"
+    },
+    "p534": {
+        "nb_articles": 1229,
+        "type": null,
+        "nom": "Eure-et-Loir"
+    },
+    "p748": {
+        "nb_articles": 395,
+        "type": null,
+        "nom": "Jérusalem"
+    },
+    "p339": {
+        "nb_articles": 4657,
+        "type": null,
+        "nom": "Chili"
+    },
+    "p899": {
+        "nb_articles": 1722,
+        "type": null,
+        "nom": "Massachusetts"
+    },
+    "p65": {
+        "nb_articles": 23021,
+        "type": "ébauche",
+        "nom": "Angleterre"
+    },
+    "p1066": {
+        "nb_articles": 364,
+        "type": null,
+        "nom": "Nunavut"
+    },
+    "p760": {
+        "nb_articles": 6952,
+        "type": null,
+        "nom": "Judaïsme"
+    },
+    "p1326": {
+        "nb_articles": 262,
+        "type": "ébauche",
+        "nom": "Rhode Island"
+    },
+    "p254": {
+        "nb_articles": 142,
+        "type": null,
+        "nom": "Brême"
+    },
+    "p876": {
+        "nb_articles": 1194,
+        "type": null,
+        "nom": "Malte"
+    },
+    "p1147": {
+        "nb_articles": 68,
+        "type": null,
+        "nom": "Permaculture"
+    },
+    "p1180": {
+        "nb_articles": 11514,
+        "type": null,
+        "nom": "Poésie"
+    },
+    "p207": {
+        "nb_articles": 224,
+        "type": "ébauche",
+        "nom": "Bermudes"
+    },
+    "p1020": {
+        "nb_articles": 841,
+        "type": null,
+        "nom": "Nancy"
+    },
+    "p1657": {
+        "nb_articles": 608,
+        "type": null,
+        "nom": "Zambie"
+    },
+    "p1284": {
+        "nb_articles": 27203,
+        "type": "bon",
+        "nom": "Québec"
+    },
+    "p827": {
+        "nb_articles": 7819,
+        "type": null,
+        "nom": "Littérature américaine"
+    },
+    "p444": {
+        "nb_articles": 1032,
+        "type": null,
+        "nom": "Département du Rhône"
+    },
+    "p1303": {
+        "nb_articles": 673,
+        "type": null,
+        "nom": "Reims"
+    },
+    "p1110": {
+        "nb_articles": 1172,
+        "type": null,
+        "nom": "Panama"
+    },
+    "p1461": {
+        "nb_articles": 2458,
+        "type": null,
+        "nom": "Sous-marins"
+    },
+    "p414": {
+        "nb_articles": 1616,
+        "type": null,
+        "nom": "Croisades"
+    },
+    "p669": {
+        "nb_articles": 1331,
+        "type": null,
+        "nom": "Histoire de Savoie"
+    },
+    "p384": {
+        "nb_articles": 107,
+        "type": null,
+        "nom": "Conseil de l'Europe"
+    },
+    "p497": {
+        "nb_articles": 2059,
+        "type": null,
+        "nom": "Empire britannique"
+    },
+    "p1082": {
+        "nb_articles": 528,
+        "type": null,
+        "nom": "Ombrie"
+    },
+    "p1596": {
+        "nb_articles": 636,
+        "type": null,
+        "nom": "Vannes"
+    },
+    "p257": {
+        "nb_articles": 488,
+        "type": null,
+        "nom": "Brest"
+    },
+    "p601": {
+        "nb_articles": 1138,
+        "type": null,
+        "nom": "Ghana"
+    },
+    "p1124": {
+        "nb_articles": 352,
+        "type": null,
+        "nom": "Patinage de vitesse sur piste courte"
+    },
+    "p196": {
+        "nb_articles": 3851,
+        "type": null,
+        "nom": "Bâtiment et travaux publics"
+    },
+    "p1203": {
+        "nb_articles": 174,
+        "type": "ébauche",
+        "nom": "Portland"
+    },
+    "p1501": {
+        "nb_articles": 140,
+        "type": "ébauche",
+        "nom": "Taoïsme"
+    },
+    "p975": {
+        "nb_articles": 512,
+        "type": "ébauche",
+        "nom": "Montana"
+    },
+    "p190": {
+        "nb_articles": 245,
+        "type": "ébauche",
+        "nom": "Basilicate"
+    },
+    "p1290": {
+        "nb_articles": 370,
+        "type": null,
+        "nom": "Rabat-Salé"
+    },
+    "p969": {
+        "nb_articles": 4807,
+        "type": "bon",
+        "nom": "Monde équestre"
+    },
+    "p472": {
+        "nb_articles": 2768,
+        "type": null,
+        "nom": "Échecs"
+    },
+    "p370": {
+        "nb_articles": 90,
+        "type": null,
+        "nom": "Columbus (Ohio)"
+    },
+    "p747": {
+        "nb_articles": 5579,
+        "type": null,
+        "nom": "Jazz"
+    },
+    "p1480": {
+        "nb_articles": 585,
+        "type": "ébauche",
+        "nom": "Stockholm"
+    },
+    "p1582": {
+        "nb_articles": 1792,
+        "type": "ébauche",
+        "nom": "Universités américaines"
+    },
+    "p201": {
+        "nb_articles": 1205,
+        "type": null,
+        "nom": "Belgrade"
+    },
+    "p655": {
+        "nb_articles": 496,
+        "type": null,
+        "nom": "Hélicoptères"
+    },
+    "p1027": {
+        "nb_articles": 175,
+        "type": "bon",
+        "nom": "Nauru"
+    },
+    "p1646": {
+        "nb_articles": 18746,
+        "type": null,
+        "nom": "XVIIIe siècle"
+    },
+    "p1005": {
+        "nb_articles": 699,
+        "type": null,
+        "nom": "Musique bretonne"
+    },
+    "p751": {
+        "nb_articles": 827,
+        "type": null,
+        "nom": "Jeu vidéo de combat"
+    },
+    "p1236": {
+        "nb_articles": 105,
+        "type": null,
+        "nom": "Préfecture de Nagasaki"
+    },
+    "p1629": {
+        "nb_articles": 168,
+        "type": null,
+        "nom": "Wallis-et-Futuna"
+    },
+    "p782": {
+        "nb_articles": 273,
+        "type": null,
+        "nom": "Langue arabe"
+    },
+    "p835": {
+        "nb_articles": 318,
+        "type": null,
+        "nom": "Livre-jeu"
+    },
+    "p833": {
+        "nb_articles": 2020,
+        "type": null,
+        "nom": "Lituanie"
+    },
+    "p451": {
+        "nb_articles": 447,
+        "type": null,
+        "nom": "Dijon"
+    },
+    "p261": {
+        "nb_articles": 206,
+        "type": "ébauche",
+        "nom": "Bruges"
+    },
+    "p219": {
+        "nb_articles": 3515,
+        "type": null,
+        "nom": "Biochimie"
+    },
+    "p507": {
+        "nb_articles": 3501,
+        "type": null,
+        "nom": "Enfance"
+    },
+    "p1568": {
+        "nb_articles": 1243,
+        "type": null,
+        "nom": "Triathlon"
+    },
+    "p1019": {
+        "nb_articles": 928,
+        "type": null,
+        "nom": "Namibie"
+    },
+    "p1071": {
+        "nb_articles": 4348,
+        "type": null,
+        "nom": "Océan Atlantique"
+    },
+    "p1475": {
+        "nb_articles": 13119,
+        "type": null,
+        "nom": "Sports nautiques"
+    },
+    "p240": {
+        "nb_articles": 677,
+        "type": null,
+        "nom": "Boston"
+    },
+    "p594": {
+        "nb_articles": 1171,
+        "type": "bon",
+        "nom": "Géographie de la Suisse"
+    },
+    "p847": {
+        "nb_articles": 2070,
+        "type": null,
+        "nom": "Los Angeles"
+    },
+    "p1055": {
+        "nb_articles": 465,
+        "type": null,
+        "nom": "Nouveau-Mexique"
+    },
+    "p1422": {
+        "nb_articles": 15079,
+        "type": null,
+        "nom": "Serbie et peuple serbe"
+    },
+    "p1226": {
+        "nb_articles": 317,
+        "type": null,
+        "nom": "Préfecture de Hyōgo"
+    },
+    "p524": {
+        "nb_articles": 1189,
+        "type": null,
+        "nom": "Essonne"
+    },
+    "p295": {
+        "nb_articles": 13418,
+        "type": null,
+        "nom": "Caraïbe"
+    },
+    "p236": {
+        "nb_articles": 1266,
+        "type": null,
+        "nom": "Bombay"
+    },
+    "p779": {
+        "nb_articles": 22160,
+        "type": "de qualité",
+        "nom": "Lacs et cours d'eau"
+    },
+    "p1241": {
+        "nb_articles": 120,
+        "type": null,
+        "nom": "Préfecture de Shiga"
+    },
+    "p845": {
+        "nb_articles": 529,
+        "type": null,
+        "nom": "Lorient"
+    },
+    "p1205": {
+        "nb_articles": 325,
+        "type": null,
+        "nom": "Ports"
+    },
+    "p1289": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Quiz"
+    },
+    "p135": {
+        "nb_articles": 2048,
+        "type": null,
+        "nom": "Arts martiaux et sports de combat"
+    },
+    "p1625": {
+        "nb_articles": 3367,
+        "type": null,
+        "nom": "Voile"
+    },
+    "p355": {
+        "nb_articles": 2576,
+        "type": null,
+        "nom": "Cinéma japonais"
+    },
+    "p822": {
+        "nb_articles": 144,
+        "type": "ébauche",
+        "nom": "Lingerie"
+    },
+    "p1068": {
+        "nb_articles": 125,
+        "type": null,
+        "nom": "Oakland (Californie)"
+    },
+    "p437": {
+        "nb_articles": 91,
+        "type": null,
+        "nom": "Deep Purple"
+    },
+    "p1467": {
+        "nb_articles": 11271,
+        "type": "bon",
+        "nom": "Sport automobile"
+    },
+    "p1287": {
+        "nb_articles": 1993,
+        "type": null,
+        "nom": "Queensland"
+    },
+    "p1040": {
+        "nb_articles": 654,
+        "type": "ébauche",
+        "nom": "Nicaragua"
+    },
+    "p88": {
+        "nb_articles": 934,
+        "type": null,
+        "nom": "Années 1890"
+    },
+    "p698": {
+        "nb_articles": 543,
+        "type": null,
+        "nom": "Îles Anglo-Normandes"
+    },
+    "p564": {
+        "nb_articles": 680,
+        "type": null,
+        "nom": "Franc-maçonnerie"
+    },
+    "p11": {
+        "nb_articles": 60,
+        "type": null,
+        "nom": "Aéromodélisme"
+    },
+    "p1033": {
+        "nb_articles": 689,
+        "type": null,
+        "nom": "Neuchâtel"
+    },
+    "p1274": {
+        "nb_articles": null,
+        "type": "ébauche",
+        "nom": "Psychanalyse"
+    },
+    "p637": {
+        "nb_articles": 418,
+        "type": "ébauche",
+        "nom": "Hambourg"
+    },
+    "p1347": {
+        "nb_articles": 6395,
+        "type": null,
+        "nom": "Roumanie"
+    },
+    "p517": {
+        "nb_articles": 973,
+        "type": null,
+        "nom": "Esclavage"
+    },
+    "p1135": {
+        "nb_articles": 426,
+        "type": null,
+        "nom": "Pays de Guérande"
+    },
+    "p1549": {
+        "nb_articles": 1644,
+        "type": null,
+        "nom": "Tokyo"
+    },
+    "p1574": {
+        "nb_articles": 369,
+        "type": "ébauche",
+        "nom": "Turkménistan"
+    },
+    "p934": {
+        "nb_articles": 355,
+        "type": null,
+        "nom": "Miami"
+    },
+    "p297": {
+        "nb_articles": 1470,
+        "type": "ébauche",
+        "nom": "Caroline du Nord"
+    },
+    "p268": {
+        "nb_articles": 737,
+        "type": null,
+        "nom": "Bugey"
+    },
+    "p1202": {
+        "nb_articles": 2008,
+        "type": null,
+        "nom": "Pornographie"
+    },
+    "p169": {
+        "nb_articles": 230,
+        "type": null,
+        "nom": "Bagratides"
+    },
+    "p1209": {
+        "nb_articles": 295,
+        "type": null,
+        "nom": "Préfecture d'Aichi"
+    },
+    "p579": {
+        "nb_articles": 41,
+        "type": null,
+        "nom": "Futurama"
+    },
+    "p1600": {
+        "nb_articles": 4429,
+        "type": null,
+        "nom": "Vatican"
+    },
+    "p56": {
+        "nb_articles": 857,
+        "type": null,
+        "nom": "Ameublement"
+    },
+    "p705": {
+        "nb_articles": 158,
+        "type": null,
+        "nom": "Îles Malouines"
+    },
+    "p1286": {
+        "nb_articles": 126,
+        "type": null,
+        "nom": "Queen"
+    },
+    "p1314": {
+        "nb_articles": 1329,
+        "type": "ébauche",
+        "nom": "République dominicaine"
+    },
+    "p1244": {
+        "nb_articles": 140,
+        "type": null,
+        "nom": "Préfecture de Tochigi"
+    },
+    "p305": {
+        "nb_articles": 4601,
+        "type": null,
+        "nom": "Catalogne"
+    },
+    "p621": {
+        "nb_articles": 1052,
+        "type": null,
+        "nom": "Guadeloupe"
+    },
+    "p708": {
+        "nb_articles": 118,
+        "type": "ébauche",
+        "nom": "Îles Turques-et-Caïques"
+    },
+    "p1166": {
+        "nb_articles": 9403,
+        "type": "de qualité",
+        "nom": "Physique"
+    },
+    "p492": {
+        "nb_articles": 1299,
+        "type": null,
+        "nom": "Émilie-Romagne"
+    },
+    "p1488": {
+        "nb_articles": 587,
+        "type": null,
+        "nom": "Surf"
+    },
+    "p1346": {
+        "nb_articles": 667,
+        "type": null,
+        "nom": "Rouen"
+    },
+    "p1525": {
+        "nb_articles": 355,
+        "type": null,
+        "nom": "Territoires du Nord-Ouest"
+    },
+    "p1142": {
+        "nb_articles": 801,
+        "type": null,
+        "nom": "Pékin"
+    },
+    "p73": {
+        "nb_articles": 110,
+        "type": null,
+        "nom": "Ankama"
+    },
+    "p740": {
+        "nb_articles": 108,
+        "type": null,
+        "nom": "Jacksonville (Floride)"
+    },
+    "p1439": {
+        "nb_articles": 201,
+        "type": null,
+        "nom": "Skeleton"
+    },
+    "p67": {
+        "nb_articles": 1081,
+        "type": "ébauche",
+        "nom": "Angola"
+    },
+    "p1014": {
+        "nb_articles": 181,
+        "type": null,
+        "nom": "Mythologie basque"
+    },
+    "p1007": {
+        "nb_articles": 1270,
+        "type": null,
+        "nom": "Musique country"
+    },
+    "p714": {
+        "nb_articles": 131,
+        "type": "ébauche",
+        "nom": "Improvisation théâtrale"
+    },
+    "p930": {
+        "nb_articles": 2308,
+        "type": "ébauche",
+        "nom": "Meurthe-et-Moselle"
+    },
+    "p454": {
+        "nb_articles": 319,
+        "type": null,
+        "nom": "Djibouti"
+    },
+    "p1599": {
+        "nb_articles": 384,
+        "type": null,
+        "nom": "Varsovie"
+    },
+    "p124": {
+        "nb_articles": 7779,
+        "type": null,
+        "nom": "Armée française"
+    },
+    "p881": {
+        "nb_articles": 470,
+        "type": null,
+        "nom": "Manchester"
+    },
+    "p631": {
+        "nb_articles": 1556,
+        "type": null,
+        "nom": "Guyane"
+    },
+    "p1632": {
+        "nb_articles": 1279,
+        "type": null,
+        "nom": "Washington (État)"
+    },
+    "p704": {
+        "nb_articles": 167,
+        "type": null,
+        "nom": "Îles Galápagos"
+    },
+    "p770": {
+        "nb_articles": 478,
+        "type": "ébauche",
+        "nom": "Kirghizistan"
+    },
+    "p1319": {
+        "nb_articles": 3392,
+        "type": null,
+        "nom": "Résistance française"
+    },
+    "p66": {
+        "nb_articles": 817,
+        "type": null,
+        "nom": "Anglo-Saxons"
+    },
+    "p1304": {
+        "nb_articles": 10759,
+        "type": null,
+        "nom": "Relations internationales"
+    },
+    "p1388": {
+        "nb_articles": 361,
+        "type": null,
+        "nom": "Santiago"
+    },
+    "p1540": {
+        "nb_articles": 2729,
+        "type": null,
+        "nom": "Tibet"
+    },
+    "p1547": {
+        "nb_articles": 190,
+        "type": "ébauche",
+        "nom": "Tocantins"
+    },
+    "p1490": {
+        "nb_articles": 213,
+        "type": null,
+        "nom": "Swaziland"
+    },
+    "p1154": {
+        "nb_articles": 396,
+        "type": null,
+        "nom": "Phéniciens, Carthage et monde punique"
+    },
+    "p147": {
+        "nb_articles": 1572,
+        "type": null,
+        "nom": "Aube"
+    },
+    "p408": {
+        "nb_articles": 1272,
+        "type": null,
+        "nom": "Créatures légendaires"
+    },
+    "p59": {
+        "nb_articles": 1182,
+        "type": null,
+        "nom": "Analyse"
+    },
+    "p1499": {
+        "nb_articles": 256,
+        "type": "ébauche",
+        "nom": "Tallinn"
+    },
+    "p1503": {
+        "nb_articles": 733,
+        "type": null,
+        "nom": "Tarn-et-Garonne"
+    },
+    "p586": {
+        "nb_articles": 459,
+        "type": null,
+        "nom": "Gaspésie–Îles-de-la-Madeleine"
+    },
+    "p85": {
+        "nb_articles": 2688,
+        "type": null,
+        "nom": "Années 1860"
+    },
+    "p775": {
+        "nb_articles": 323,
+        "type": null,
+        "nom": "Koweït"
+    },
+    "p3": {
+        "nb_articles": 127,
+        "type": null,
+        "nom": "Abkhazie"
+    },
+    "p506": {
+        "nb_articles": 1616,
+        "type": null,
+        "nom": "Énergie renouvelable"
+    },
+    "p1407": {
+        "nb_articles": 58997,
+        "type": null,
+        "nom": "Sciences humaines et sociales"
+    },
+    "p1393": {
+        "nb_articles": 1711,
+        "type": null,
+        "nom": "Sarthe"
+    },
+    "p1428": {
+        "nb_articles": 1393,
+        "type": null,
+        "nom": "Sexualité et sexologie"
+    },
+    "p1535": {
+        "nb_articles": 18963,
+        "type": null,
+        "nom": "Théâtre"
+    },
+    "p940": {
+        "nb_articles": 244,
+        "type": null,
+        "nom": "Micronésie"
+    },
+    "p95": {
+        "nb_articles": 10346,
+        "type": null,
+        "nom": "Années 1960"
+    },
+    "p1222": {
+        "nb_articles": 174,
+        "type": null,
+        "nom": "Préfecture de Fukushima"
+    },
+    "p954": {
+        "nb_articles": 5649,
+        "type": null,
+        "nom": "Mode"
+    },
+    "p986": {
+        "nb_articles": 2187,
+        "type": null,
+        "nom": "Mort"
+    },
+    "p694": {
+        "nb_articles": 319,
+        "type": null,
+        "nom": "Île de Man"
+    },
+    "p216": {
+        "nb_articles": 1808,
+        "type": null,
+        "nom": "Biélorussie"
+    },
+    "p28": {
+        "nb_articles": 102,
+        "type": null,
+        "nom": "Åland"
+    },
+    "p1437": {
+        "nb_articles": 963,
+        "type": null,
+        "nom": "Les Simpson"
+    },
+    "p508": {
+        "nb_articles": 1027,
+        "type": "bon",
+        "nom": "Enluminure"
+    },
+    "p415": {
+        "nb_articles": 127,
+        "type": null,
+        "nom": "Crosse"
+    },
+    "p101": {
+        "nb_articles": 203,
+        "type": null,
+        "nom": "Annélides"
+    },
+    "p1257": {
+        "nb_articles": 648,
+        "type": null,
+        "nom": "Primates"
+    },
+    "p375": {
+        "nb_articles": 168,
+        "type": null,
+        "nom": "Commonwealth"
+    },
+    "p1626": {
+        "nb_articles": 2316,
+        "type": "bon",
+        "nom": "Volcanisme"
+    },
+    "p1054": {
+        "nb_articles": 2780,
+        "type": null,
+        "nom": "Nouveau-Brunswick"
+    },
+    "p818": {
+        "nb_articles": 141,
+        "type": null,
+        "nom": "Lima"
+    },
+    "p227": {
+        "nb_articles": 1588,
+        "type": null,
+        "nom": "Blues"
+    },
+    "p667": {
+        "nb_articles": 7205,
+        "type": null,
+        "nom": "Histoire de l'art"
+    },
+    "p1562": {
+        "nb_articles": 84003,
+        "type": "bon",
+        "nom": "Transports"
+    },
+    "p684": {
+        "nb_articles": 583,
+        "type": null,
+        "nom": "Horlogerie"
+    },
+    "p953": {
+        "nb_articles": 1078,
+        "type": "ébauche",
+        "nom": "Missouri"
+    },
+    "p1295": {
+        "nb_articles": 7298,
+        "type": null,
+        "nom": "Récompenses et distinctions"
+    },
+    "p699": {
+        "nb_articles": 523,
+        "type": null,
+        "nom": "Îles Baléares"
+    },
+    "p180": {
+        "nb_articles": 1035,
+        "type": null,
+        "nom": "Bangladesh"
+    },
+    "p1000": {
+        "nb_articles": 152,
+        "type": null,
+        "nom": "Musée des beaux-arts de Lyon"
+    },
+    "p883": {
+        "nb_articles": 1260,
+        "type": null,
+        "nom": "Manitoba"
+    },
+    "p721": {
+        "nb_articles": 3887,
+        "type": null,
+        "nom": "Industrie"
+    },
+    "p109": {
+        "nb_articles": 23581,
+        "type": null,
+        "nom": "Arachnologie"
+    },
+    "p1515": {
+        "nb_articles": 1146,
+        "type": null,
+        "nom": "Tennessee"
+    },
+    "p820": {
+        "nb_articles": 273,
+        "type": null,
+        "nom": "Limoges"
+    },
+    "p272": {
+        "nb_articles": 577,
+        "type": null,
+        "nom": "Caen"
+    },
+    "p1079": {
+        "nb_articles": 1895,
+        "type": null,
+        "nom": "Oise"
+    },
+    "p99": {
+        "nb_articles": 25646,
+        "type": null,
+        "nom": "Années 2000"
+    },
+    "p771": {
+        "nb_articles": 179,
+        "type": null,
+        "nom": "Kiribati"
+    },
+    "p1034": {
+        "nb_articles": 1474,
+        "type": null,
+        "nom": "Neurosciences"
+    },
+    "p697": {
+        "nb_articles": 8370,
+        "type": null,
+        "nom": "Îles"
+    },
+    "p446": {
+        "nb_articles": 557,
+        "type": null,
+        "nom": "Dessert"
+    },
+    "p1649": {
+        "nb_articles": 606,
+        "type": null,
+        "nom": "Yémen"
+    },
+    "p1188": {
+        "nb_articles": 5231,
+        "type": null,
+        "nom": "Politique aux États-Unis"
+    },
+    "p1653": {
+        "nb_articles": 684,
+        "type": null,
+        "nom": "Yorkshire"
+    },
+    "p441": {
+        "nb_articles": 163,
+        "type": "ébauche",
+        "nom": "Denver"
+    },
+    "p185": {
+        "nb_articles": 548,
+        "type": null,
+        "nom": "Bas-Canada"
+    },
+    "p71": {
+        "nb_articles": 992,
+        "type": null,
+        "nom": "Animaux de compagnie"
+    },
+    "p368": {
+        "nb_articles": 2421,
+        "type": null,
+        "nom": "Colombie-Britannique"
+    },
+    "p1093": {
+        "nb_articles": 164,
+        "type": null,
+        "nom": "Orlando (Floride)"
+    },
+    "p315": {
+        "nb_articles": 676,
+        "type": null,
+        "nom": "Cétacés"
+    },
+    "p630": {
+        "nb_articles": 413,
+        "type": null,
+        "nom": "Guyana"
+    },
+    "p358": {
+        "nb_articles": 163,
+        "type": null,
+        "nom": "Cistercien"
+    },
+    "p742": {
+        "nb_articles": 1232,
+        "type": null,
+        "nom": "Jamaïque"
+    },
+    "p1201": {
+        "nb_articles": 3112,
+        "type": null,
+        "nom": "Ponts"
+    },
+    "p526": {
+        "nb_articles": 588,
+        "type": null,
+        "nom": "Estrémadure"
+    },
+    "p1087": {
+        "nb_articles": 569,
+        "type": null,
+        "nom": "Or"
+    },
+    "p559": {
+        "nb_articles": 360,
+        "type": null,
+        "nom": "Football canadien"
+    },
+    "p1474": {
+        "nb_articles": 201,
+        "type": null,
+        "nom": "Sports gaéliques"
+    },
+    "p565": {
+        "nb_articles": 344781,
+        "type": null,
+        "nom": "France"
+    },
+    "p1362": {
+        "nb_articles": 3243,
+        "type": null,
+        "nom": "Saint-Empire romain germanique"
+    },
+    "p1418": {
+        "nb_articles": 1079,
+        "type": null,
+        "nom": "Seine-Saint-Denis"
+    },
+    "p878": {
+        "nb_articles": 1421,
+        "type": null,
+        "nom": "Management"
+    },
+    "p1301": {
+        "nb_articles": 7102,
+        "type": null,
+        "nom": "Région flamande"
+    },
+    "p1196": {
+        "nb_articles": 179,
+        "type": "ébauche",
+        "nom": "Politique sociale"
+    },
+    "p860": {
+        "nb_articles": 157,
+        "type": null,
+        "nom": "Maastricht"
+    },
+    "p397": {
+        "nb_articles": 3598,
+        "type": null,
+        "nom": "Côte d'Ivoire"
+    },
+    "p1382": {
+        "nb_articles": 119,
+        "type": null,
+        "nom": "Samoa américaines"
+    },
+    "p1039": {
+        "nb_articles": 5837,
+        "type": null,
+        "nom": "New York (État)"
+    },
+    "p821": {
+        "nb_articles": 3394,
+        "type": null,
+        "nom": "Limousin"
+    },
+    "p536": {
+        "nb_articles": 2321,
+        "type": null,
+        "nom": "Eurovision"
+    },
+    "p1306": {
+        "nb_articles": 9879,
+        "type": null,
+        "nom": "Renaissance"
+    },
+    "p459": {
+        "nb_articles": null,
+        "type": "ébauche",
+        "nom": "Données"
+    },
+    "p583": {
+        "nb_articles": 405,
+        "type": null,
+        "nom": "Gambie"
+    },
+    "p733": {
+        "nb_articles": 2923,
+        "type": null,
+        "nom": "Isère"
+    },
+    "p1324": {
+        "nb_articles": 1815,
+        "type": null,
+        "nom": "Rhénanie-du-Nord-Westphalie"
+    },
+    "p92": {
+        "nb_articles": 3202,
+        "type": null,
+        "nom": "Années 1930"
+    },
+    "p1143": {
+        "nb_articles": 1749,
+        "type": "ébauche",
+        "nom": "Pennsylvanie"
+    },
+    "p1405": {
+        "nb_articles": 2583,
+        "type": null,
+        "nom": "Sciences de l'information et des bibliothèques"
+    },
+    "p1116": {
+        "nb_articles": 566,
+        "type": "ébauche",
+        "nom": "Paraná"
+    },
+    "p1481": {
+        "nb_articles": 1474,
+        "type": null,
+        "nom": "Strasbourg"
+    },
+    "p1101": {
+        "nb_articles": 425,
+        "type": null,
+        "nom": "Ottawa"
+    },
+    "p560": {
+        "nb_articles": 113,
+        "type": null,
+        "nom": "Forces armées de Belgique"
+    },
+    "p1022": {
+        "nb_articles": 872,
+        "type": null,
+        "nom": "Naples"
+    },
+    "p1554": {
+        "nb_articles": 354,
+        "type": null,
+        "nom": "Toulon"
+    },
+    "p1238": {
+        "nb_articles": 135,
+        "type": null,
+        "nom": "Préfecture de Niigata"
+    },
+    "p711": {
+        "nb_articles": 2465,
+        "type": "ébauche",
+        "nom": "Ille-et-Vilaine"
+    },
+    "p1658": {
+        "nb_articles": 707,
+        "type": null,
+        "nom": "Zimbabwe"
+    },
+    "p53": {
+        "nb_articles": 233011,
+        "type": null,
+        "nom": "Amérique du Nord"
+    },
+    "p366": {
+        "nb_articles": 271,
+        "type": null,
+        "nom": "Cologne"
+    },
+    "p973": {
+        "nb_articles": 1479,
+        "type": null,
+        "nom": "Mongolie"
+    },
+    "p122": {
+        "nb_articles": 697,
+        "type": "ébauche",
+        "nom": "Arkansas"
+    },
+    "p887": {
+        "nb_articles": 341,
+        "type": null,
+        "nom": "Marionnette"
+    },
+    "p743": {
+        "nb_articles": 304,
+        "type": null,
+        "nom": "James Bond"
+    },
+    "p63": {
+        "nb_articles": 654,
+        "type": null,
+        "nom": "Andorre"
+    },
+    "p1210": {
+        "nb_articles": 80,
+        "type": null,
+        "nom": "Préfecture d'Akita"
+    },
+    "p970": {
+        "nb_articles": 17220,
+        "type": "de qualité",
+        "nom": "Monde indien"
+    },
+    "p1507": {
+        "nb_articles": 792,
+        "type": "ébauche",
+        "nom": "Tchécoslovaquie"
+    },
+    "p1281": {
+        "nb_articles": 3025,
+        "type": null,
+        "nom": "Pyrénées-Atlantiques"
+    },
+    "p1193": {
+        "nb_articles": 2476,
+        "type": null,
+        "nom": "Politique en Italie"
+    },
+    "p1510": {
+        "nb_articles": 4717,
+        "type": null,
+        "nom": "Télécommunications"
+    },
+    "p588": {
+        "nb_articles": 2533,
+        "type": null,
+        "nom": "Généalogie"
+    },
+    "p1463": {
+        "nb_articles": 1063,
+        "type": null,
+        "nom": "Spéléologie"
+    },
+    "p1294": {
+        "nb_articles": 12552,
+        "type": "de qualité",
+        "nom": "Réalisation audiovisuelle"
+    },
+    "p31": {
+        "nb_articles": 2494,
+        "type": null,
+        "nom": "Alberta"
+    },
+    "p1246": {
+        "nb_articles": 79,
+        "type": null,
+        "nom": "Préfecture de Tottori"
+    },
+    "p889": {
+        "nb_articles": 2276,
+        "type": null,
+        "nom": "Marne"
+    },
+    "p538": {
+        "nb_articles": 826,
+        "type": null,
+        "nom": "Exoplanètes"
+    },
+    "p290": {
+        "nb_articles": 133,
+        "type": null,
+        "nom": "Canton"
+    },
+    "p974": {
+        "nb_articles": 11214,
+        "type": null,
+        "nom": "Montagne"
+    },
+    "p445": {
+        "nb_articles": 854,
+        "type": null,
+        "nom": "Design"
+    },
+    "p465": {
+        "nb_articles": 1400,
+        "type": null,
+        "nom": "Drôme"
+    },
+    "p879": {
+        "nb_articles": 1940,
+        "type": null,
+        "nom": "Manche"
+    },
+    "p91": {
+        "nb_articles": 2118,
+        "type": null,
+        "nom": "Années 1920"
+    },
+    "p802": {
+        "nb_articles": 266,
+        "type": null,
+        "nom": "Légende arthurienne"
+    },
+    "p1088": {
+        "nb_articles": 1159,
+        "type": null,
+        "nom": "Ordre de Saint-Jean de Jérusalem"
+    },
+    "p839": {
+        "nb_articles": 929,
+        "type": "ébauche",
+        "nom": "Loir-et-Cher"
+    },
+    "p1383": {
+        "nb_articles": 121,
+        "type": "ébauche",
+        "nom": "San Antonio"
+    },
+    "p1325": {
+        "nb_articles": 3614,
+        "type": null,
+        "nom": "Rhénanie-Palatinat"
+    },
+    "p328": {
+        "nb_articles": 452,
+        "type": null,
+        "nom": "Château de Versailles"
+    },
+    "p732": {
+        "nb_articles": 1098,
+        "type": null,
+        "nom": "Irlande du Nord"
+    },
+    "p858": {
+        "nb_articles": 1001,
+        "type": null,
+        "nom": "Lutte"
+    },
+    "p463": {
+        "nb_articles": 5234,
+        "type": null,
+        "nom": "Droit français"
+    },
+    "p1446": {
+        "nb_articles": 5372,
+        "type": "bon",
+        "nom": "Slovaquie"
+    },
+    "p672": {
+        "nb_articles": 69889,
+        "type": null,
+        "nom": "Histoire militaire"
+    },
+    "p1430": {
+        "nb_articles": 384,
+        "type": null,
+        "nom": "Shanghai"
+    },
+    "p729": {
+        "nb_articles": 1276,
+        "type": null,
+        "nom": "Irak"
+    },
+    "p52": {
+        "nb_articles": 19860,
+        "type": null,
+        "nom": "Amérique centrale"
+    },
+    "p945": {
+        "nb_articles": 1205,
+        "type": "ébauche",
+        "nom": "Minas Gerais"
+    },
+    "p868": {
+        "nb_articles": 479,
+        "type": null,
+        "nom": "Maine"
+    },
+    "p486": {
+        "nb_articles": 241,
+        "type": null,
+        "nom": "Éducation au Québec"
+    },
+    "p877": {
+        "nb_articles": 7319,
+        "type": null,
+        "nom": "Mammifères"
+    },
+    "p1316": {
+        "nb_articles": 19988,
+        "type": null,
+        "nom": "République populaire de Chine"
+    },
+    "p1565": {
+        "nb_articles": 143,
+        "type": null,
+        "nom": "Transports à Los Angeles"
+    },
+    "p703": {
+        "nb_articles": 456,
+        "type": null,
+        "nom": "Îles Féroé"
+    },
+    "p1095": {
+        "nb_articles": 1330,
+        "type": "bon",
+        "nom": "Orne"
+    },
+    "p130": {
+        "nb_articles": 249,
+        "type": null,
+        "nom": "Art déco"
+    },
+    "p1311": {
+        "nb_articles": 654,
+        "type": null,
+        "nom": "République de Weimar"
+    },
+    "p1064": {
+        "nb_articles": 2183,
+        "type": null,
+        "nom": "Nucléaire"
+    },
+    "p553": {
+        "nb_articles": 115,
+        "type": "ébauche",
+        "nom": "Florianópolis"
+    },
+    "p150": {
+        "nb_articles": 498,
+        "type": null,
+        "nom": "Aurès"
+    },
+    "p1100": {
+        "nb_articles": 239,
+        "type": null,
+        "nom": "OTAN"
+    },
+    "p403": {
+        "nb_articles": 290,
+        "type": null,
+        "nom": "Côtière"
+    },
+    "p33": {
+        "nb_articles": 190,
+        "type": "ébauche",
+        "nom": "Algarve"
+    },
+    "p561": {
+        "nb_articles": 8149,
+        "type": null,
+        "nom": "Forces armées des États-Unis"
+    },
+    "p653": {
+        "nb_articles": 1603,
+        "type": null,
+        "nom": "Hauts-de-Seine"
+    },
+    "p1318": {
+        "nb_articles": 153,
+        "type": null,
+        "nom": "Réseaux informatiques"
+    },
+    "p1485": {
+        "nb_articles": 829,
+        "type": null,
+        "nom": "Suisse centrale"
+    },
+    "p223": {
+        "nb_articles": 2895,
+        "type": null,
+        "nom": "Biologie cellulaire et moléculaire"
+    },
+    "p80": {
+        "nb_articles": 743,
+        "type": null,
+        "nom": "Années 1810"
+    },
+    "p1212": {
+        "nb_articles": 79,
+        "type": null,
+        "nom": "Préfecture d'Ehime"
+    },
+    "p69": {
+        "nb_articles": 8457,
+        "type": null,
+        "nom": "Animation"
+    },
+    "p1464": {
+        "nb_articles": 998,
+        "type": "bon",
+        "nom": "Spiritualité"
+    },
+    "p1372": {
+        "nb_articles": 123,
+        "type": null,
+        "nom": "Saint-Pierre (La Réunion)"
+    },
+    "p513": {
+        "nb_articles": 220103,
+        "type": null,
+        "nom": "Époque contemporaine"
+    },
+    "p24": {
+        "nb_articles": 134,
+        "type": null,
+        "nom": "Aix-les-Bains"
+    },
+    "p489": {
+        "nb_articles": 3891,
+        "type": null,
+        "nom": "Électricité et électronique"
+    },
+    "p271": {
+        "nb_articles": 440,
+        "type": null,
+        "nom": "Burundi"
+    },
+    "p1051": {
+        "nb_articles": 12425,
+        "type": null,
+        "nom": "Normandie"
+    },
+    "p956": {
+        "nb_articles": 904,
+        "type": null,
+        "nom": "Moldavie"
+    },
+    "p1011": {
+        "nb_articles": 2855,
+        "type": null,
+        "nom": "Mycologie"
+    },
+    "p1530": {
+        "nb_articles": 3060,
+        "type": null,
+        "nom": "Texas"
+    },
+    "p894": {
+        "nb_articles": 942,
+        "type": null,
+        "nom": "Martinique"
+    },
+    "p1031": {
+        "nb_articles": 2196,
+        "type": null,
+        "nom": "Népal"
+    },
+    "p1558": {
+        "nb_articles": 502,
+        "type": null,
+        "nom": "Tours"
+    },
+    "p1194": {
+        "nb_articles": 34563,
+        "type": null,
+        "nom": "Politique française"
+    },
+    "p511": {
+        "nb_articles": 25874,
+        "type": null,
+        "nom": "Entreprises"
+    },
+    "p157": {
+        "nb_articles": 9712,
+        "type": "bon",
+        "nom": "Automobile"
+    },
+    "p1487": {
+        "nb_articles": 885,
+        "type": null,
+        "nom": "Suisse orientale"
+    },
+    "p1635": {
+        "nb_articles": 3205,
+        "type": null,
+        "nom": "Western"
+    },
+    "p176": {
+        "nb_articles": 362,
+        "type": null,
+        "nom": "Bamiléké"
+    },
+    "p133": {
+        "nb_articles": 322,
+        "type": null,
+        "nom": "Arts décoratifs"
+    },
+    "p622": {
+        "nb_articles": 124,
+        "type": null,
+        "nom": "Guam"
+    },
+    "p149": {
+        "nb_articles": 1726,
+        "type": "bon",
+        "nom": "Aude"
+    },
+    "p737": {
+        "nb_articles": 517,
+        "type": null,
+        "nom": "Israël antique et les Juifs dans l'Antiquité"
+    },
+    "p617": {
+        "nb_articles": 164,
+        "type": null,
+        "nom": "Grenade"
+    },
+    "p1046": {
+        "nb_articles": 973,
+        "type": null,
+        "nom": "Nintendo"
+    },
+    "p627": {
+        "nb_articles": 316,
+        "type": null,
+        "nom": "Guinée-Bissau"
+    },
+    "p582": {
+        "nb_articles": 1192,
+        "type": null,
+        "nom": "Galice"
+    },
+    "p1502": {
+        "nb_articles": 1317,
+        "type": null,
+        "nom": "Tarn"
+    },
+    "p1551": {
+        "nb_articles": 869,
+        "type": null,
+        "nom": "Toronto"
+    },
+    "p425": {
+        "nb_articles": 236,
+        "type": null,
+        "nom": "Culture ivoirienne"
+    },
+    "p121": {
+        "nb_articles": 1069,
+        "type": null,
+        "nom": "Arizona"
+    },
+    "p968": {
+        "nb_articles": 6243,
+        "type": null,
+        "nom": "Monde colonial"
+    },
+    "p504": {
+        "nb_articles": 6974,
+        "type": "bon",
+        "nom": "Énergie"
+    },
+    "p251": {
+        "nb_articles": 640,
+        "type": null,
+        "nom": "Brandebourg"
+    },
+    "p1555": {
+        "nb_articles": 1326,
+        "type": null,
+        "nom": "Toulouse"
+    },
+    "p859": {
+        "nb_articles": 2602,
+        "type": null,
+        "nom": "Luxembourg"
+    },
+    "p1457": {
+        "nb_articles": 355,
+        "type": null,
+        "nom": "Sotchi"
+    },
+    "p213": {
+        "nb_articles": 1000,
+        "type": null,
+        "nom": "Biathlon"
+    },
+    "p514": {
+        "nb_articles": 30482,
+        "type": null,
+        "nom": "Époque moderne"
+    },
+    "p407": {
+        "nb_articles": 225,
+        "type": null,
+        "nom": "Cracovie"
+    },
+    "p908": {
+        "nb_articles": 268,
+        "type": null,
+        "nom": "Mayas"
+    },
+    "p1424": {
+        "nb_articles": 87,
+        "type": "ébauche",
+        "nom": "Sergipe"
+    },
+    "p1305": {
+        "nb_articles": 72458,
+        "type": null,
+        "nom": "Religions et croyances"
+    },
+    "p753": {
+        "nb_articles": 859,
+        "type": null,
+        "nom": "Jeux de rôle"
+    },
+    "p15": {
+        "nb_articles": 6151,
+        "type": null,
+        "nom": "Afrique du Sud"
+    },
+    "p585": {
+        "nb_articles": 246,
+        "type": null,
+        "nom": "Gascogne"
+    },
+    "p404": {
+        "nb_articles": 700,
+        "type": null,
+        "nom": "Couleurs"
+    },
+    "p1636": {
+        "nb_articles": 508,
+        "type": null,
+        "nom": "Whedonverse"
+    },
+    "p317": {
+        "nb_articles": 142,
+        "type": "bon",
+        "nom": "Chambéry"
+    },
+    "p262": {
+        "nb_articles": 184,
+        "type": null,
+        "nom": "Brunei"
+    },
+    "p39": {
+        "nb_articles": 63062,
+        "type": null,
+        "nom": "Allemagne"
+    },
+    "p494": {
+        "nb_articles": 838,
+        "type": null,
+        "nom": "Émirats arabes unis"
+    },
+    "p442": {
+        "nb_articles": 1579,
+        "type": null,
+        "nom": "Département de la Loire"
+    },
+    "p1148": {
+        "nb_articles": 299,
+        "type": "ébauche",
+        "nom": "Pernambouc"
+    },
+    "p1328": {
+        "nb_articles": 68,
+        "type": null,
+        "nom": "Rihanna"
+    },
+    "p1656": {
+        "nb_articles": 2202,
+        "type": null,
+        "nom": "Yvelines"
+    },
+    "p503": {
+        "nb_articles": 3639,
+        "type": null,
+        "nom": "Endurance automobile"
+    },
+    "p1186": {
+        "nb_articles": 102498,
+        "type": null,
+        "nom": "Politique"
+    },
+    "p1091": {
+        "nb_articles": 1473,
+        "type": null,
+        "nom": "Orgue"
+    },
+    "p1634": {
+        "nb_articles": 159,
+        "type": null,
+        "nom": "Web sémantique"
+    },
+    "p1174": {
+        "nb_articles": 1109,
+        "type": null,
+        "nom": "Plantes du Cameroun"
+    },
+    "p1256": {
+        "nb_articles": 14598,
+        "type": null,
+        "nom": "Presse écrite"
+    },
+    "p1057": {
+        "nb_articles": 1700,
+        "type": null,
+        "nom": "Nouvelle-Calédonie"
+    },
+    "p1494": {
+        "nb_articles": 295,
+        "type": null,
+        "nom": "São Paulo"
+    },
+    "p1392": {
+        "nb_articles": 375,
+        "type": null,
+        "nom": "Sarre"
+    },
+    "p1127": {
+        "nb_articles": 175,
+        "type": null,
+        "nom": "Patronages sportifs catholiques"
+    },
+    "p933": {
+        "nb_articles": 9446,
+        "type": null,
+        "nom": "Mexique"
+    },
+    "p1249": {
+        "nb_articles": 125,
+        "type": null,
+        "nom": "Préfecture de Yamagata"
+    },
+    "p1452": {
+        "nb_articles": 4500,
+        "type": null,
+        "nom": "Sociologie"
+    },
+    "p136": {
+        "nb_articles": 167051,
+        "type": null,
+        "nom": "Asie"
+    },
+    "p1333": {
+        "nb_articles": 304,
+        "type": null,
+        "nom": "La Rioja"
+    },
+    "p787": {
+        "nb_articles": 217,
+        "type": null,
+        "nom": "Langues créoles et créolophonie"
+    },
+    "p371": {
+        "nb_articles": 871,
+        "type": null,
+        "nom": "Combiné nordique"
+    },
+    "p194": {
+        "nb_articles": 534,
+        "type": null,
+        "nom": "Bassin minier du Nord-Pas-de-Calais"
+    },
+    "p646": {
+        "nb_articles": 2938,
+        "type": null,
+        "nom": "Haute-Garonne"
+    },
+    "p431": {
+        "nb_articles": 552,
+        "type": null,
+        "nom": "Dakota du Sud"
+    },
+    "p1374": {
+        "nb_articles": 188,
+        "type": null,
+        "nom": "Saint-Vincent-et-les-Grenadines"
+    },
+    "p1132": {
+        "nb_articles": 317,
+        "type": null,
+        "nom": "Pays de Bitche"
+    },
+    "p1578": {
+        "nb_articles": 4733,
+        "type": null,
+        "nom": "Ukraine"
+    },
+    "p287": {
+        "nb_articles": 1434,
+        "type": null,
+        "nom": "Canoë-kayak"
+    },
+    "p1310": {
+        "nb_articles": 730,
+        "type": null,
+        "nom": "République centrafricaine"
+    },
+    "p131": {
+        "nb_articles": 775,
+        "type": "bon",
+        "nom": "Art nouveau"
+    },
+    "p1594": {
+        "nb_articles": 1004,
+        "type": "ébauche",
+        "nom": "Vampires"
+    },
+    "p218": {
+        "nb_articles": 1374,
+        "type": null,
+        "nom": "Bière"
+    },
+    "p1498": {
+        "nb_articles": 1479,
+        "type": null,
+        "nom": "Taïwan"
+    },
+    "p98": {
+        "nb_articles": 15927,
+        "type": null,
+        "nom": "Années 1990"
+    },
+    "p999": {
+        "nb_articles": 168,
+        "type": "ébauche",
+        "nom": "Musée d'Orsay"
+    },
+    "p1003": {
+        "nb_articles": 6855,
+        "type": null,
+        "nom": "Musées"
+    },
+    "p250": {
+        "nb_articles": 705,
+        "type": null,
+        "nom": "Brabant wallon"
+    },
+    "p1197": {
+        "nb_articles": 1255,
+        "type": null,
+        "nom": "Politique suisse"
+    },
+    "p348": {
+        "nb_articles": 4029,
+        "type": null,
+        "nom": "Cinéma allemand"
+    },
+    "p1250": {
+        "nb_articles": 73,
+        "type": null,
+        "nom": "Préfecture de Yamaguchi"
+    },
+    "p814": {
+        "nb_articles": 1552,
+        "type": null,
+        "nom": "Liège"
+    },
+    "p270": {
+        "nb_articles": 4025,
+        "type": null,
+        "nom": "Burkina Faso"
+    },
+    "p1659": {
+        "nb_articles": 99996,
+        "type": null,
+        "nom": "Zoologie"
+    },
+    "p1545": {
+        "nb_articles": 583,
+        "type": null,
+        "nom": "Tir à l'arc"
+    },
+    "p313": {
+        "nb_articles": 7833,
+        "type": null,
+        "nom": "Centre-Val de Loire"
+    },
+    "p607": {
+        "nb_articles": 1095,
+        "type": null,
+        "nom": "Golf"
+    },
+    "p1152": {
+        "nb_articles": 2162,
+        "type": null,
+        "nom": "Phares"
+    },
+    "p487": {
+        "nb_articles": 2552,
+        "type": null,
+        "nom": "Égypte"
+    },
+    "p1035": {
+        "nb_articles": 662,
+        "type": "ébauche",
+        "nom": "Nevada"
+    },
+    "p1115": {
+        "nb_articles": 518,
+        "type": null,
+        "nom": "Paranormal"
+    },
+    "p143": {
+        "nb_articles": 337,
+        "type": null,
+        "nom": "Athéisme"
+    },
+    "p96": {
+        "nb_articles": 11200,
+        "type": null,
+        "nom": "Années 1970"
+    },
+    "p1090": {
+        "nb_articles": 1082,
+        "type": "ébauche",
+        "nom": "Oregon"
+    },
+    "p1339": {
+        "nb_articles": 684,
+        "type": null,
+        "nom": "Roller et skateboard"
+    },
+    "p1406": {
+        "nb_articles": 55352,
+        "type": null,
+        "nom": "Sciences de la Terre et de l'Univers"
+    },
+    "p1233": {
+        "nb_articles": 143,
+        "type": null,
+        "nom": "Préfecture de Miyagi"
+    },
+    "p606": {
+        "nb_articles": 352,
+        "type": "ébauche",
+        "nom": "Goiás"
+    },
+    "p707": {
+        "nb_articles": 143,
+        "type": null,
+        "nom": "Îles Marshall"
+    },
+    "p730": {
+        "nb_articles": 4576,
+        "type": "de qualité",
+        "nom": "Iran"
+    },
+    "p1102": {
+        "nb_articles": 836,
+        "type": null,
+        "nom": "Ouganda"
+    },
+    "p226": {
+        "nb_articles": 266,
+        "type": null,
+        "nom": "Birmingham"
+    },
+    "p1453": {
+        "nb_articles": 586,
+        "type": null,
+        "nom": "Soins infirmiers et profession infirmière"
+    },
+    "p668": {
+        "nb_articles": 7504,
+        "type": "de qualité",
+        "nom": "Histoire de la zoologie et de la botanique"
+    },
+    "p72": {
+        "nb_articles": 2913,
+        "type": "bon",
+        "nom": "Anjou et Maine-et-Loire"
+    },
+    "p549": {
+        "nb_articles": 1463,
+        "type": null,
+        "nom": "Flandre-Occidentale"
+    },
+    "p1062": {
+        "nb_articles": 256,
+        "type": "ébauche",
+        "nom": "La Nouvelle-Orléans"
+    },
+    "p584": {
+        "nb_articles": 2380,
+        "type": null,
+        "nom": "Gard"
+    },
+    "p772": {
+        "nb_articles": 162,
+        "type": null,
+        "nom": "Košice"
+    },
+    "p1248": {
+        "nb_articles": 98,
+        "type": null,
+        "nom": "Préfecture de Wakayama"
+    },
+    "p1094": {
+        "nb_articles": 283,
+        "type": null,
+        "nom": "Orléans"
+    },
+    "p758": {
+        "nb_articles": 470,
+        "type": null,
+        "nom": "Jordanie"
+    },
+    "p192": {
+        "nb_articles": 619,
+        "type": null,
+        "nom": "Bassa"
+    },
+    "p609": {
+        "nb_articles": 492,
+        "type": "ébauche",
+        "nom": "Grand Casablanca"
+    },
+    "p398": {
+        "nb_articles": 656,
+        "type": null,
+        "nom": "Côte d'Opale"
+    },
+    "p423": {
+        "nb_articles": 61045,
+        "type": null,
+        "nom": "Culture américaine"
+    },
+    "p111": {
+        "nb_articles": 1389,
+        "type": null,
+        "nom": "Arbitrage sportif"
+    },
+    "p530": {
+        "nb_articles": 172323,
+        "type": null,
+        "nom": "États-Unis"
+    },
+    "p862": {
+        "nb_articles": 2727,
+        "type": null,
+        "nom": "Macédoine"
+    },
+    "p1638": {
+        "nb_articles": 58,
+        "type": null,
+        "nom": "Whitney Houston"
+    },
+    "p685": {
+        "nb_articles": 1232,
+        "type": null,
+        "nom": "Horreur"
+    },
+    "p1139": {
+        "nb_articles": 1474,
+        "type": null,
+        "nom": "Pays valencien"
+    },
+    "p1508": {
+        "nb_articles": 1633,
+        "type": null,
+        "nom": "Technologies"
+    },
+    "p452": {
+        "nb_articles": 1546,
+        "type": null,
+        "nom": "Dinosaures"
+    },
+    "p641": {
+        "nb_articles": 1476,
+        "type": null,
+        "nom": "Handisport"
+    },
+    "p1396": {
+        "nb_articles": 1072,
+        "type": null,
+        "nom": "Saut à ski"
+    },
+    "p119": {
+        "nb_articles": 1139,
+        "type": null,
+        "nom": "Ariège"
+    },
+    "p1651": {
+        "nb_articles": 187,
+        "type": null,
+        "nom": "Yoga"
+    },
+    "p267": {
+        "nb_articles": 430,
+        "type": "bon",
+        "nom": "Buffy contre les vampires"
+    },
+    "p173": {
+        "nb_articles": 289,
+        "type": null,
+        "nom": "Bahreïn"
+    },
+    "p516": {
+        "nb_articles": 416,
+        "type": null,
+        "nom": "Érythrée"
+    },
+    "p1633": {
+        "nb_articles": 845,
+        "type": null,
+        "nom": "Water-polo"
+    },
+    "p1486": {
+        "nb_articles": 1179,
+        "type": null,
+        "nom": "Suisse du Nord-Ouest"
+    },
+    "p75": {
+        "nb_articles": 220,
+        "type": null,
+        "nom": "Années 1760"
+    },
+    "p650": {
+        "nb_articles": 1144,
+        "type": null,
+        "nom": "Haute-Vienne"
+    },
+    "p473": {
+        "nb_articles": 1364,
+        "type": null,
+        "nom": "Échinodermes"
+    },
+    "p773": {
+        "nb_articles": 1832,
+        "type": null,
+        "nom": "Kosovo"
+    },
+    "p455": {
+        "nb_articles": 716,
+        "type": null,
+        "nom": "Doctor Who"
+    },
+    "p925": {
+        "nb_articles": 270,
+        "type": null,
+        "nom": "Métallurgie"
+    },
+    "p682": {
+        "nb_articles": 1764,
+        "type": null,
+        "nom": "Hong Kong"
+    },
+    "p1084": {
+        "nb_articles": 1404,
+        "type": null,
+        "nom": "ONU"
+    },
+    "p577": {
+        "nb_articles": 180,
+        "type": null,
+        "nom": "Froid et climatisation"
+    },
+    "p1037": {
+        "nb_articles": 997,
+        "type": null,
+        "nom": "New Jersey"
+    },
+    "p1270": {
+        "nb_articles": 3422,
+        "type": null,
+        "nom": "Province de Liège"
+    },
+    "p1288": {
+        "nb_articles": 209,
+        "type": null,
+        "nom": "Quimper"
+    },
+    "p1489": {
+        "nb_articles": 336,
+        "type": null,
+        "nom": "Suriname"
+    },
+    "p485": {
+        "nb_articles": 18795,
+        "type": null,
+        "nom": "Éducation"
+    },
+    "p342": {
+        "nb_articles": 3661,
+        "type": null,
+        "nom": "Chrétiens d'Orient"
+    },
+    "p1117": {
+        "nb_articles": 1314,
+        "type": null,
+        "nom": "Parasitologie"
+    },
+    "p1106": {
+        "nb_articles": 1668,
+        "type": null,
+        "nom": "Pakistan"
+    },
+    "p929": {
+        "nb_articles": 833,
+        "type": null,
+        "nom": "Metz"
+    },
+    "p259": {
+        "nb_articles": 190,
+        "type": "ébauche",
+        "nom": "Brisbane"
+    },
+    "p450": {
+        "nb_articles": 77,
+        "type": null,
+        "nom": "Digimon"
+    },
+    "p1211": {
+        "nb_articles": 137,
+        "type": null,
+        "nom": "Préfecture d'Aomori"
+    },
+    "p1623": {
+        "nb_articles": 493,
+        "type": "ébauche",
+        "nom": "Virginie-Occidentale"
+    },
+    "p590": {
+        "nb_articles": 2058,
+        "type": null,
+        "nom": "Genève"
+    },
+    "p886": {
+        "nb_articles": 551,
+        "type": null,
+        "nom": "Marches"
+    },
+    "p824": {
+        "nb_articles": 401,
+        "type": "ébauche",
+        "nom": "Lisbonne"
+    },
+    "p38": {
+        "nb_articles": 18561,
+        "type": null,
+        "nom": "Alimentation et gastronomie"
+    },
+    "p838": {
+        "nb_articles": 809,
+        "type": null,
+        "nom": "Logique"
+    },
+    "p706": {
+        "nb_articles": 77,
+        "type": "ébauche",
+        "nom": "Îles Mariannes du Nord"
+    },
+    "p284": {
+        "nb_articles": 59416,
+        "type": null,
+        "nom": "Canada"
+    },
+    "p640": {
+        "nb_articles": 1127,
+        "type": null,
+        "nom": "Handicap"
+    },
+    "p610": {
+        "nb_articles": 686,
+        "type": null,
+        "nom": "Grande Armée"
+    },
+    "p1122": {
+        "nb_articles": 1395,
+        "type": "ébauche",
+        "nom": "Patinage artistique"
+    },
+    "p456": {
+        "nb_articles": 249,
+        "type": null,
+        "nom": "Doha"
+    },
+    "p367": {
+        "nb_articles": 6471,
+        "type": "bon",
+        "nom": "Colombie"
+    },
+    "p488": {
+        "nb_articles": 3286,
+        "type": null,
+        "nom": "Égypte antique"
+    },
+    "p1123": {
+        "nb_articles": 551,
+        "type": null,
+        "nom": "Patinage de vitesse"
+    },
+    "p491": {
+        "nb_articles": 92,
+        "type": null,
+        "nom": "Elvis Presley"
+    },
+    "p764": {
+        "nb_articles": 910,
+        "type": null,
+        "nom": "Kabylie"
+    },
+    "p1616": {
+        "nb_articles": 1054,
+        "type": "ébauche",
+        "nom": "Vienne"
+    },
+    "p1654": {
+        "nb_articles": 1232,
+        "type": null,
+        "nom": "Yougoslavie"
+    },
+    "p144": {
+        "nb_articles": 852,
+        "type": null,
+        "nom": "Athènes"
+    },
+    "p761": {
+        "nb_articles": 1348,
+        "type": null,
+        "nom": "Judo"
+    },
+    "p522": {
+        "nb_articles": 38467,
+        "type": "de qualité",
+        "nom": "Espagne"
+    },
+    "p597": {
+        "nb_articles": 1396,
+        "type": null,
+        "nom": "Géorgie (États-Unis)"
+    },
+    "p243": {
+        "nb_articles": 4176,
+        "type": null,
+        "nom": "Bouches-du-Rhône"
+    },
+    "p1032": {
+        "nb_articles": null,
+        "type": "ébauche",
+        "nom": "Nettoyage et hygiène"
+    },
+    "p1322": {
+        "nb_articles": 614,
+        "type": null,
+        "nom": "Révolution américaine"
+    },
+    "p1440": {
+        "nb_articles": 6341,
+        "type": null,
+        "nom": "Ski"
+    },
+    "p269": {
+        "nb_articles": 3126,
+        "type": null,
+        "nom": "Bulgarie"
+    },
+    "p757": {
+        "nb_articles": 368,
+        "type": null,
+        "nom": "Johnny Hallyday"
+    },
+    "p1": {
+        "nb_articles": 96,
+        "type": null,
+        "nom": "Abbeville"
+    },
+    "p424": {
+        "nb_articles": 3843,
+        "type": null,
+        "nom": "Culture de la Suisse"
+    },
+    "p60": {
+        "nb_articles": 2087,
+        "type": null,
+        "nom": "Anarchisme"
+    },
+    "p1375": {
+        "nb_articles": 143,
+        "type": null,
+        "nom": "Sainte-Hélène, Ascension et Tristan da Cunha"
+    },
+    "p810": {
+        "nb_articles": 383,
+        "type": "ébauche",
+        "nom": "Liberia"
+    },
+    "p1029": {
+        "nb_articles": 2585,
+        "type": null,
+        "nom": "Nazisme"
+    },
+    "p1225": {
+        "nb_articles": 147,
+        "type": null,
+        "nom": "Préfecture de Hiroshima"
+    },
+    "p61": {
+        "nb_articles": 2084,
+        "type": null,
+        "nom": "Anatomie"
+    },
+    "p245": {
+        "nb_articles": 184,
+        "type": null,
+        "nom": "Bouddhisme zen"
+    },
+    "p283": {
+        "nb_articles": 1886,
+        "type": "ébauche",
+        "nom": "Campanie"
+    },
+    "p1296": {
+        "nb_articles": 96,
+        "type": null,
+        "nom": "Reconquista"
+    },
+    "p340": {
+        "nb_articles": 18266,
+        "type": "bon",
+        "nom": "Chimie"
+    },
+    "p1609": {
+        "nb_articles": 642,
+        "type": null,
+        "nom": "Versailles"
+    },
+    "p783": {
+        "nb_articles": 558,
+        "type": null,
+        "nom": "Langue catalane"
+    },
+    "p1184": {
+        "nb_articles": 6255,
+        "type": null,
+        "nom": "Polar"
+    },
+    "p1473": {
+        "nb_articles": 13150,
+        "type": null,
+        "nom": "Sports de raquette"
+    },
+    "p983": {
+        "nb_articles": 147,
+        "type": null,
+        "nom": "Monuments protégés du Portugal"
+    },
+    "p567": {
+        "nb_articles": 10165,
+        "type": null,
+        "nom": "France d'outre-mer"
+    },
+    "p720": {
+        "nb_articles": 1649,
+        "type": null,
+        "nom": "Indre-et-Loire"
+    },
+    "p377": {
+        "nb_articles": 38950,
+        "type": null,
+        "nom": "Communes de France"
+    },
+    "p1401": {
+        "nb_articles": 385,
+        "type": null,
+        "nom": "Scepticisme rationnel"
+    },
+    "p177": {
+        "nb_articles": 15645,
+        "type": null,
+        "nom": "Bande dessinée"
+    },
+    "p242": {
+        "nb_articles": 854,
+        "type": null,
+        "nom": "Botswana"
+    },
+    "p955": {
+        "nb_articles": 262,
+        "type": null,
+        "nom": "Modélisme"
+    },
+    "p341": {
+        "nb_articles": 295,
+        "type": null,
+        "nom": "Chocolat"
+    },
+    "p1085": {
+        "nb_articles": 6062,
+        "type": null,
+        "nom": "Opéra"
+    },
+    "p1361": {
+        "nb_articles": 310,
+        "type": null,
+        "nom": "Saint-Denis (La Réunion)"
+    },
+    "p717": {
+        "nb_articles": 267,
+        "type": "ébauche",
+        "nom": "Indianapolis"
+    },
+    "p972": {
+        "nb_articles": 40,
+        "type": "ébauche",
+        "nom": "Monde quantique"
+    },
+    "p1269": {
+        "nb_articles": 1558,
+        "type": null,
+        "nom": "Province d'Anvers"
+    },
+    "p572": {
+        "nb_articles": 451,
+        "type": null,
+        "nom": "Franco-Ontariens"
+    },
+    "p137": {
+        "nb_articles": 395,
+        "type": "ébauche",
+        "nom": "Assainissement"
+    },
+    "p1527": {
+        "nb_articles": 649,
+        "type": null,
+        "nom": "Tessin"
+    },
+    "p265": {
+        "nb_articles": 2160,
+        "type": null,
+        "nom": "Budapest"
+    },
+    "p1431": {
+        "nb_articles": 353,
+        "type": null,
+        "nom": "Shinto"
+    },
+    "p351": {
+        "nb_articles": 6222,
+        "type": null,
+        "nom": "Cinéma britannique"
+    },
+    "p1553": {
+        "nb_articles": 344,
+        "type": null,
+        "nom": "Toul"
+    },
+    "p1261": {
+        "nb_articles": 1514,
+        "type": "bon",
+        "nom": "Probabilités et statistiques"
+    },
+    "p427": {
+        "nb_articles": 732,
+        "type": null,
+        "nom": "Culture sourde"
+    },
+    "p1169": {
+        "nb_articles": 2945,
+        "type": null,
+        "nom": "Piémont"
+    },
+    "p1612": {
+        "nb_articles": 131,
+        "type": null,
+        "nom": "Vexin"
+    },
+    "p1016": {
+        "nb_articles": 1879,
+        "type": null,
+        "nom": "Mythologie grecque"
+    },
+    "p552": {
+        "nb_articles": 786,
+        "type": null,
+        "nom": "Florence"
+    },
+    "p171": {
+        "nb_articles": 420,
+        "type": null,
+        "nom": "Bahamas"
+    },
+    "p738": {
+        "nb_articles": 588,
+        "type": "ébauche",
+        "nom": "Istanbul"
+    },
+    "p1450": {
+        "nb_articles": 12487,
+        "type": null,
+        "nom": "Société"
+    },
+    "p620": {
+        "nb_articles": 466,
+        "type": null,
+        "nom": "Groenland"
+    },
+    "p354": {
+        "nb_articles": 5805,
+        "type": null,
+        "nom": "Cinéma italien"
+    },
+    "p1307": {
+        "nb_articles": 861,
+        "type": null,
+        "nom": "Rennes"
+    },
+    "p1073": {
+        "nb_articles": 1607,
+        "type": null,
+        "nom": "Océan Pacifique"
+    },
+    "p671": {
+        "nb_articles": 5626,
+        "type": null,
+        "nom": "Histoire du Japon"
+    },
+    "p307": {
+        "nb_articles": 34187,
+        "type": null,
+        "nom": "Catholicisme"
+    },
+    "p1208": {
+        "nb_articles": 478,
+        "type": "ébauche",
+        "nom": "Prague"
+    },
+    "p1228": {
+        "nb_articles": 144,
+        "type": null,
+        "nom": "Préfecture de Kagoshima"
+    },
+    "p665": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Histoire contemporaine"
+    },
+    "p1299": {
+        "nb_articles": 979,
+        "type": "ébauche",
+        "nom": "Reggae"
+    },
+    "p795": {
+        "nb_articles": 139,
+        "type": null,
+        "nom": "Laval (Québec)"
+    },
+    "p923": {
+        "nb_articles": 516,
+        "type": null,
+        "nom": "Mésopotamie"
+    },
+    "p175": {
+        "nb_articles": 200,
+        "type": "ébauche",
+        "nom": "Baltimore"
+    },
+    "p1323": {
+        "nb_articles": 7954,
+        "type": null,
+        "nom": "Révolution française"
+    },
+    "p964": {
+        "nb_articles": 783,
+        "type": null,
+        "nom": "Monde arabo-musulman"
+    },
+    "p318": {
+        "nb_articles": 246,
+        "type": "ébauche",
+        "nom": "Chamonix-Mont-Blanc"
+    },
+    "p882": {
+        "nb_articles": 133,
+        "type": null,
+        "nom": "Manille"
+    },
+    "p1061": {
+        "nb_articles": 2440,
+        "type": "ébauche",
+        "nom": "Nouvelle-Galles du Sud"
+    },
+    "p1567": {
+        "nb_articles": 758,
+        "type": null,
+        "nom": "Trentin-Haut-Adige"
+    },
+    "p656": {
+        "nb_articles": 866,
+        "type": null,
+        "nom": "Helsinki"
+    },
+    "p965": {
+        "nb_articles": 2110,
+        "type": null,
+        "nom": "Monde byzantin"
+    },
+    "p279": {
+        "nb_articles": 928,
+        "type": null,
+        "nom": "Cambodge"
+    },
+    "p432": {
+        "nb_articles": 304,
+        "type": null,
+        "nom": "Dallas"
+    },
+    "p1397": {
+        "nb_articles": 5207,
+        "type": "de qualité",
+        "nom": "Savoie"
+    },
+    "p309": {
+        "nb_articles": 345,
+        "type": null,
+        "nom": "Cayenne"
+    },
+    "p1642": {
+        "nb_articles": 463,
+        "type": null,
+        "nom": "Wyoming"
+    },
+    "p1598": {
+        "nb_articles": 1595,
+        "type": null,
+        "nom": "Var"
+    },
+    "p1280": {
+        "nb_articles": 4621,
+        "type": null,
+        "nom": "Pyrénées"
+    },
+    "p1309": {
+        "nb_articles": 229,
+        "type": null,
+        "nom": "République"
+    },
+    "p1514": {
+        "nb_articles": 1295,
+        "type": null,
+        "nom": "Temps"
+    },
+    "p389": {
+        "nb_articles": 379,
+        "type": "ébauche",
+        "nom": "Copenhague"
+    },
+    "p1214": {
+        "nb_articles": 73,
+        "type": null,
+        "nom": "Préfecture d'Ishikawa"
+    },
+    "p1251": {
+        "nb_articles": 97,
+        "type": null,
+        "nom": "Préfecture de Yamanashi"
+    },
+    "p997": {
+        "nb_articles": 605,
+        "type": null,
+        "nom": "Munich"
+    },
+    "p1569": {
+        "nb_articles": 536,
+        "type": null,
+        "nom": "Trinité-et-Tobago"
+    },
+    "p429": {
+        "nb_articles": 22259,
+        "type": null,
+        "nom": "Cyclisme"
+    },
+    "p914": {
+        "nb_articles": 76420,
+        "type": null,
+        "nom": "Médias"
+    },
+    "p167": {
+        "nb_articles": 2449,
+        "type": null,
+        "nom": "Bade-Wurtemberg"
+    },
+    "p1272": {
+        "nb_articles": 1235,
+        "type": null,
+        "nom": "Province de Namur"
+    },
+    "p558": {
+        "nb_articles": 114,
+        "type": null,
+        "nom": "Football australien"
+    },
+    "p724": {
+        "nb_articles": 1632,
+        "type": null,
+        "nom": "Informatique théorique"
+    },
+    "p120": {
+        "nb_articles": 923,
+        "type": "ébauche",
+        "nom": "Arithmétique et théorie des nombres"
+    },
+    "p693": {
+        "nb_articles": 26953,
+        "type": null,
+        "nom": "Île-de-France"
+    },
+    "p718": {
+        "nb_articles": 5240,
+        "type": null,
+        "nom": "Indonésie"
+    },
+    "p634": {
+        "nb_articles": 2628,
+        "type": null,
+        "nom": "Hainaut"
+    },
+    "p1340": {
+        "nb_articles": 362,
+        "type": null,
+        "nom": "Romantisme"
+    },
+    "p1358": {
+        "nb_articles": 88,
+        "type": null,
+        "nom": "Saint-Barthélemy (Antilles françaises)"
+    },
+    "p1441": {
+        "nb_articles": 418,
+        "type": null,
+        "nom": "Ski acrobatique"
+    },
+    "p690": {
+        "nb_articles": 112,
+        "type": "ébauche",
+        "nom": "Hyères"
+    },
+    "p1099": {
+        "nb_articles": 73,
+        "type": null,
+        "nom": "Ossétie du Sud"
+    },
+    "p1432": {
+        "nb_articles": 2259,
+        "type": "ébauche",
+        "nom": "Sibérie"
+    },
+    "p980": {
+        "nb_articles": 3586,
+        "type": null,
+        "nom": "Montréal"
+    },
+    "p49": {
+        "nb_articles": 97,
+        "type": "ébauche",
+        "nom": "Amapá"
+    },
+    "p256": {
+        "nb_articles": 574,
+        "type": null,
+        "nom": "Bresse"
+    },
+    "p1660": {
+        "nb_articles": 1200,
+        "type": null,
+        "nom": "Zurich"
+    },
+    "p1576": {
+        "nb_articles": 124,
+        "type": null,
+        "nom": "Tuvalu"
+    },
+    "p152": {
+        "nb_articles": 660,
+        "type": "ébauche",
+        "nom": "Australie-Méridionale"
+    },
+    "p1144": {
+        "nb_articles": 367,
+        "type": null,
+        "nom": "Pentathlon moderne"
+    },
+    "p2": {
+        "nb_articles": 541,
+        "type": null,
+        "nom": "Abitibi-Témiscamingue"
+    },
+    "p712": {
+        "nb_articles": 4388,
+        "type": null,
+        "nom": "Illinois"
+    },
+    "p977": {
+        "nb_articles": 1052,
+        "type": null,
+        "nom": "Montérégie"
+    },
+    "p857": {
+        "nb_articles": 31461,
+        "type": null,
+        "nom": "Lusophonie"
+    },
+    "p32": {
+        "nb_articles": 58,
+        "type": "ébauche",
+        "nom": "Albuquerque"
+    },
+    "p1591": {
+        "nb_articles": 208,
+        "type": null,
+        "nom": "Valence (Drôme)"
+    },
+    "p117": {
+        "nb_articles": 1871,
+        "type": null,
+        "nom": "Ardennes"
+    },
+    "p616": {
+        "nb_articles": 335,
+        "type": "bon",
+        "nom": "Grèce antique"
+    },
+    "p19": {
+        "nb_articles": 167,
+        "type": null,
+        "nom": "Agglomération de Châlons-en-Champagne"
+    },
+    "p476": {
+        "nb_articles": 830,
+        "type": null,
+        "nom": "Écoles"
+    },
+    "p1315": {
+        "nb_articles": 1057,
+        "type": null,
+        "nom": "République du Congo"
+    },
+    "p1631": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Washington (district de Columbia)"
+    },
+    "p412": {
+        "nb_articles": 3299,
+        "type": null,
+        "nom": "Criminologie"
+    },
+    "p401": {
+        "nb_articles": 319,
+        "type": null,
+        "nom": "Côte-Nord"
+    },
+    "p749": {
+        "nb_articles": 264,
+        "type": null,
+        "nom": "Jeu de go"
+    },
+    "p1279": {
+        "nb_articles": 1763,
+        "type": null,
+        "nom": "Puy-de-Dôme"
+    },
+    "p1465": {
+        "nb_articles": 670,
+        "type": null,
+        "nom": "Spirou"
+    },
+    "p1026": {
+        "nb_articles": 210,
+        "type": null,
+        "nom": "Natation synchronisée"
+    },
+    "p629": {
+        "nb_articles": 1126,
+        "type": null,
+        "nom": "Guitare"
+    },
+    "p662": {
+        "nb_articles": 1004,
+        "type": null,
+        "nom": "Hindouisme"
+    },
+    "p785": {
+        "nb_articles": 10150,
+        "type": null,
+        "nom": "Languedoc-Roussillon"
+    },
+    "p1462": {
+        "nb_articles": 362,
+        "type": null,
+        "nom": "South Park"
+    },
+    "p43": {
+        "nb_articles": 1342,
+        "type": null,
+        "nom": "Alpes-de-Haute-Provence"
+    },
+    "p978": {
+        "nb_articles": 154,
+        "type": "ébauche",
+        "nom": "Montevideo"
+    },
+    "p1191": {
+        "nb_articles": 5743,
+        "type": "bon",
+        "nom": "Politique canadienne"
+    },
+    "p460": {
+        "nb_articles": 2196,
+        "type": null,
+        "nom": "Dordogne"
+    },
+    "p1130": {
+        "nb_articles": 5609,
+        "type": null,
+        "nom": "Pays basque"
+    },
+    "p1044": {
+        "nb_articles": 2761,
+        "type": null,
+        "nom": "Nigeria"
+    },
+    "p1438": {
+        "nb_articles": 816,
+        "type": null,
+        "nom": "Singapour"
+    },
+    "p230": {
+        "nb_articles": 175,
+        "type": "ébauche",
+        "nom": "Bogota"
+    },
+    "p164": {
+        "nb_articles": 2160,
+        "type": null,
+        "nom": "Aviron"
+    },
+    "p741": {
+        "nb_articles": 227,
+        "type": "ébauche",
+        "nom": "Jaïnisme"
+    },
+    "p1163": {
+        "nb_articles": 5482,
+        "type": null,
+        "nom": "Photographie"
+    },
+    "p1023": {
+        "nb_articles": 341,
+        "type": null,
+        "nom": "NASCAR"
+    },
+    "p498": {
+        "nb_articles": 158,
+        "type": null,
+        "nom": "Empire colonial portugais"
+    },
+    "p127": {
+        "nb_articles": 4213,
+        "type": null,
+        "nom": "Armes"
+    },
+    "p1587": {
+        "nb_articles": 856,
+        "type": "ébauche",
+        "nom": "Utah"
+    },
+    "p402": {
+        "nb_articles": 1545,
+        "type": null,
+        "nom": "Côtes-d'Armor"
+    },
+    "p275": {
+        "nb_articles": 265,
+        "type": null,
+        "nom": "Calgary"
+    },
+    "p1589": {
+        "nb_articles": 892,
+        "type": null,
+        "nom": "Val-de-Marne"
+    },
+    "p496": {
+        "nb_articles": 287,
+        "type": null,
+        "nom": "Empire autrichien"
+    },
+    "p962": {
+        "nb_articles": 20801,
+        "type": null,
+        "nom": "Monde antique"
+    },
+    "p302": {
+        "nb_articles": 139,
+        "type": null,
+        "nom": "Cartoon Network"
+    },
+    "p12": {
+        "nb_articles": 16590,
+        "type": null,
+        "nom": "Aéronautique"
+    },
+    "p260": {
+        "nb_articles": 100,
+        "type": "ébauche",
+        "nom": "Brive-la-Gaillarde"
+    },
+    "p1618": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Vienne (Isère)"
+    },
+    "p1444": {
+        "nb_articles": 195,
+        "type": null,
+        "nom": "Skopje"
+    },
+    "p1158": {
+        "nb_articles": 7265,
+        "type": null,
+        "nom": "Philosophie"
+    },
+    "p842": {
+        "nb_articles": 1933,
+        "type": null,
+        "nom": "Loiret"
+    },
+    "p1173": {
+        "nb_articles": 24476,
+        "type": null,
+        "nom": "Planètes mineures et comètes"
+    },
+    "p235": {
+        "nb_articles": 162,
+        "type": null,
+        "nom": "Bologne"
+    },
+    "p1617": {
+        "nb_articles": 799,
+        "type": null,
+        "nom": "Vienne (Autriche)"
+    },
+    "p1624": {
+        "nb_articles": 695,
+        "type": null,
+        "nom": "Virologie"
+    },
+    "p1086": {
+        "nb_articles": 894,
+        "type": null,
+        "nom": "Optique"
+    },
+    "p1264": {
+        "nb_articles": 2396,
+        "type": null,
+        "nom": "Protection des cultures"
+    },
+    "p116": {
+        "nb_articles": 1556,
+        "type": "bon",
+        "nom": "Ardèche"
+    },
+    "p417": {
+        "nb_articles": 2737,
+        "type": "ébauche",
+        "nom": "Cuba"
+    },
+    "p1648": {
+        "nb_articles": 61666,
+        "type": null,
+        "nom": "XXIe siècle"
+    },
+    "p1312": {
+        "nb_articles": 1349,
+        "type": null,
+        "nom": "République démocratique allemande"
+    },
+    "p208": {
+        "nb_articles": 1220,
+        "type": "ébauche",
+        "nom": "Berry"
+    },
+    "p1384": {
+        "nb_articles": 378,
+        "type": null,
+        "nom": "San Diego"
+    },
+    "p1581": {
+        "nb_articles": 6965,
+        "type": null,
+        "nom": "Université"
+    },
+    "p1448": {
+        "nb_articles": 448,
+        "type": null,
+        "nom": "Snooker"
+    },
+    "p1076": {
+        "nb_articles": 766,
+        "type": null,
+        "nom": "Odeurs, senteurs et parfum"
+    },
+    "p25": {
+        "nb_articles": 340,
+        "type": null,
+        "nom": "Al-Andalus"
+    },
+    "p48": {
+        "nb_articles": 452,
+        "type": null,
+        "nom": "Altermondialisme"
+    },
+    "p1533": {
+        "nb_articles": 158,
+        "type": null,
+        "nom": "Thé"
+    },
+    "p1151": {
+        "nb_articles": 143,
+        "type": "ébauche",
+        "nom": "Perth"
+    },
+    "p1200": {
+        "nb_articles": 668,
+        "type": null,
+        "nom": "Pomme de terre"
+    },
+    "p1128": {
+        "nb_articles": 7983,
+        "type": null,
+        "nom": "Pays baltes"
+    },
+    "p554": {
+        "nb_articles": 3023,
+        "type": null,
+        "nom": "Floride"
+    },
+    "p89": {
+        "nb_articles": 2549,
+        "type": null,
+        "nom": "Années 1900"
+    },
+    "p1601": {
+        "nb_articles": 2022,
+        "type": "de qualité",
+        "nom": "Vaucluse"
+    },
+    "p854": {
+        "nb_articles": 313,
+        "type": null,
+        "nom": "Luge"
+    },
+    "p10": {
+        "nb_articles": 186,
+        "type": null,
+        "nom": "Adélaïde (Australie)"
+    },
+    "p645": {
+        "nb_articles": 2266,
+        "type": "bon",
+        "nom": "Haut-Rhin"
+    },
+    "p1520": {
+        "nb_articles": 367,
+        "type": null,
+        "nom": "Terres australes et antarctiques françaises"
+    },
+    "p895": {
+        "nb_articles": 1522,
+        "type": null,
+        "nom": "Marvel"
+    },
+    "p649": {
+        "nb_articles": 1605,
+        "type": null,
+        "nom": "Haute-Saône"
+    },
+    "p996": {
+        "nb_articles": 327,
+        "type": null,
+        "nom": "Mulhouse"
+    },
+    "p1015": {
+        "nb_articles": 294,
+        "type": null,
+        "nom": "Mythologie égyptienne"
+    },
+    "p1650": {
+        "nb_articles": 120,
+        "type": null,
+        "nom": "Yéyé"
+    },
+    "p918": {
+        "nb_articles": 130,
+        "type": null,
+        "nom": "Memphis (Tennessee)"
+    },
+    "p548": {
+        "nb_articles": 84,
+        "type": null,
+        "nom": "Firefly"
+    },
+    "p390": {
+        "nb_articles": 7650,
+        "type": null,
+        "nom": "Corée"
+    },
+    "p186": {
+        "nb_articles": 3337,
+        "type": null,
+        "nom": "Bas-Rhin"
+    },
+    "p193": {
+        "nb_articles": 1670,
+        "type": null,
+        "nom": "Basse-Saxe"
+    },
+    "p363": {
+        "nb_articles": 2396,
+        "type": null,
+        "nom": "Cnidaires"
+    },
+    "p1613": {
+        "nb_articles": 1354,
+        "type": null,
+        "nom": "Victoria"
+    },
+    "p1217": {
+        "nb_articles": 212,
+        "type": null,
+        "nom": "Préfecture d'Okinawa"
+    },
+    "p1550": {
+        "nb_articles": 391,
+        "type": null,
+        "nom": "Tonga"
+    },
+    "p1049": {
+        "nb_articles": 611,
+        "type": null,
+        "nom": "Nord-du-Québec"
+    },
+    "p1513": {
+        "nb_articles": 9469,
+        "type": null,
+        "nom": "Télévision française"
+    },
+    "p205": {
+        "nb_articles": 1174,
+        "type": null,
+        "nom": "Berbères"
+    },
+    "p294": {
+        "nb_articles": 234,
+        "type": null,
+        "nom": "Caracas"
+    },
+    "p1104": {
+        "nb_articles": 858,
+        "type": null,
+        "nom": "Ouzbékistan"
+    },
+    "p1048": {
+        "nb_articles": 2450,
+        "type": null,
+        "nom": "Nord-Amérindiens"
+    },
+    "p700": {
+        "nb_articles": 139,
+        "type": null,
+        "nom": "Îles Caïmans"
+    },
+    "p811": {
+        "nb_articles": 75,
+        "type": "ébauche",
+        "nom": "Liberté d'expression"
+    },
+    "p1459": {
+        "nb_articles": 356,
+        "type": null,
+        "nom": "Soudan du Sud"
+    },
+    "p1134": {
+        "nb_articles": 150,
+        "type": null,
+        "nom": "Pays de Gex"
+    },
+    "p322": {
+        "nb_articles": 2005,
+        "type": null,
+        "nom": "Charente-Maritime"
+    },
+    "p907": {
+        "nb_articles": 778,
+        "type": null,
+        "nom": "Mauritanie"
+    },
+    "p1159": {
+        "nb_articles": 264,
+        "type": null,
+        "nom": "Philosophie analytique"
+    },
+    "p211": {
+        "nb_articles": 117,
+        "type": null,
+        "nom": "Beyoncé"
+    },
+    "p702": {
+        "nb_articles": 275,
+        "type": null,
+        "nom": "Îles Cook"
+    },
+    "p1072": {
+        "nb_articles": 1756,
+        "type": null,
+        "nom": "Océan Indien"
+    },
+    "p816": {
+        "nb_articles": 865,
+        "type": null,
+        "nom": "Ligurie"
+    },
+    "p1253": {
+        "nb_articles": 4964,
+        "type": null,
+        "nom": "Premier Empire"
+    },
+    "p950": {
+        "nb_articles": 2000,
+        "type": null,
+        "nom": "Minorités"
+    },
+    "p613": {
+        "nb_articles": 3433,
+        "type": "bon",
+        "nom": "Gratte-ciel"
+    },
+    "p1024": {
+        "nb_articles": 155,
+        "type": null,
+        "nom": "Nashville"
+    },
+    "p1074": {
+        "nb_articles": 32954,
+        "type": null,
+        "nom": "Océanie"
+    },
+    "p1291": {
+        "nb_articles": 5136,
+        "type": null,
+        "nom": "Radio"
+    },
+    "p220": {
+        "nb_articles": 235,
+        "type": null,
+        "nom": "Bioéthique"
+    },
+    "p677": {
+        "nb_articles": 139,
+        "type": null,
+        "nom": "Hô-Chi-Minh-Ville"
+    },
+    "p41": {
+        "nb_articles": 1603,
+        "type": null,
+        "nom": "Allier"
+    },
+    "p777": {
+        "nb_articles": 493,
+        "type": null,
+        "nom": "Kurdistan"
+    },
+    "p546": {
+        "nb_articles": 2326,
+        "type": null,
+        "nom": "Finistère"
+    },
+    "p1047": {
+        "nb_articles": 82,
+        "type": null,
+        "nom": "Niue"
+    },
+    "p106": {
+        "nb_articles": 577,
+        "type": null,
+        "nom": "Apple"
+    },
+    "p264": {
+        "nb_articles": 298,
+        "type": null,
+        "nom": "Bucarest"
+    },
+    "p232": {
+        "nb_articles": 6782,
+        "type": null,
+        "nom": "Boisson"
+    },
+    "p921": {
+        "nb_articles": 370,
+        "type": null,
+        "nom": "Mer du Nord"
+    },
+    "p1207": {
+        "nb_articles": 584,
+        "type": null,
+        "nom": "Pouilles"
+    },
+    "p93": {
+        "nb_articles": 28044,
+        "type": null,
+        "nom": "Années 1940"
+    },
+    "p5": {
+        "nb_articles": 646,
+        "type": null,
+        "nom": "Abysses"
+    },
+    "p915": {
+        "nb_articles": 1915,
+        "type": "ébauche",
+        "nom": "Mégalithisme"
+    },
+    "p166": {
+        "nb_articles": 261,
+        "type": null,
+        "nom": "Aztèques"
+    },
+    "p291": {
+        "nb_articles": 178,
+        "type": null,
+        "nom": "Cap-Breton"
+    },
+    "p823": {
+        "nb_articles": 4172,
+        "type": null,
+        "nom": "Linguistique"
+    },
+    "p1276": {
+        "nb_articles": 6600,
+        "type": null,
+        "nom": "Psychotrope"
+    },
+    "p1006": {
+        "nb_articles": 24585,
+        "type": null,
+        "nom": "Musique classique"
+    },
+    "p568": {
+        "nb_articles": 3064,
+        "type": null,
+        "nom": "France du Grand Siècle"
+    },
+    "p172": {
+        "nb_articles": 784,
+        "type": "ébauche",
+        "nom": "Bahia"
+    },
+    "p551": {
+        "nb_articles": 12927,
+        "type": null,
+        "nom": "Flandres"
+    },
+    "p277": {
+        "nb_articles": 2807,
+        "type": null,
+        "nom": "Calvados"
+    },
+    "p1141": {
+        "nb_articles": 25450,
+        "type": "bon",
+        "nom": "Peinture"
+    },
+    "p198": {
+        "nb_articles": 926,
+        "type": null,
+        "nom": "BBC"
+    },
+    "p462": {
+        "nb_articles": 19136,
+        "type": null,
+        "nom": "Droit"
+    },
+    "p1156": {
+        "nb_articles": 754,
+        "type": null,
+        "nom": "Philatélie"
+    },
+    "p525": {
+        "nb_articles": 4083,
+        "type": null,
+        "nom": "Estonie"
+    },
+    "p113": {
+        "nb_articles": 20206,
+        "type": null,
+        "nom": "Architecture chrétienne"
+    },
+    "p490": {
+        "nb_articles": 2181,
+        "type": null,
+        "nom": "Élevage"
+    },
+    "p1083": {
+        "nb_articles": 5510,
+        "type": null,
+        "nom": "Ontario"
+    },
+    "p1585": {
+        "nb_articles": 6719,
+        "type": null,
+        "nom": "URSS"
+    },
+    "p62": {
+        "nb_articles": 2116,
+        "type": null,
+        "nom": "Andalousie"
+    },
+    "p154": {
+        "nb_articles": 310,
+        "type": null,
+        "nom": "Autisme"
+    },
+    "p411": {
+        "nb_articles": 660,
+        "type": null,
+        "nom": "Cricket"
+    },
+    "p18": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Âge des Vikings"
+    },
+    "p187": {
+        "nb_articles": 715,
+        "type": null,
+        "nom": "Bas-Saint-Laurent"
+    },
+    "p145": {
+        "nb_articles": 16805,
+        "type": null,
+        "nom": "Athlétisme"
+    },
+    "p1435": {
+        "nb_articles": 291,
+        "type": null,
+        "nom": "Sierra Leone"
+    },
+    "p1331": {
+        "nb_articles": 224,
+        "type": "ébauche",
+        "nom": "Rio Grande do Norte"
+    },
+    "p1213": {
+        "nb_articles": 112,
+        "type": null,
+        "nom": "Préfecture d'Ibaraki"
+    },
+    "p1370": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Saint-Paul (La Réunion)"
+    },
+    "p1330": {
+        "nb_articles": 1074,
+        "type": null,
+        "nom": "Rio de Janeiro"
+    },
+    "p985": {
+        "nb_articles": 159,
+        "type": null,
+        "nom": "Mormonisme"
+    },
+    "p273": {
+        "nb_articles": 381,
+        "type": "ébauche",
+        "nom": "Café"
+    },
+    "p853": {
+        "nb_articles": 169,
+        "type": null,
+        "nom": "Ludwig van Beethoven"
+    },
+    "p308": {
+        "nb_articles": 746,
+        "type": null,
+        "nom": "Caucase"
+    },
+    "p82": {
+        "nb_articles": 589,
+        "type": null,
+        "nom": "Années 1830"
+    },
+    "p6": {
+        "nb_articles": 909,
+        "type": null,
+        "nom": "Académie française"
+    },
+    "p1232": {
+        "nb_articles": 138,
+        "type": null,
+        "nom": "Préfecture de Mie"
+    },
+    "p217": {
+        "nb_articles": 321,
+        "type": null,
+        "nom": "Biens d'intérêt culturel d'Espagne"
+    },
+    "p1111": {
+        "nb_articles": 1842,
+        "type": null,
+        "nom": "Papouasie-Nouvelle-Guinée"
+    },
+    "p323": {
+        "nb_articles": 312,
+        "type": null,
+        "nom": "Charleroi"
+    },
+    "p643": {
+        "nb_articles": 263,
+        "type": null,
+        "nom": "Haut-Karabagh"
+    },
+    "p755": {
+        "nb_articles": 180,
+        "type": "ébauche",
+        "nom": "Jeux télévisés"
+    },
+    "p905": {
+        "nb_articles": 960,
+        "type": null,
+        "nom": "Maurice"
+    },
+    "p1419": {
+        "nb_articles": 39,
+        "type": null,
+        "nom": "Sel comtois"
+    },
+    "p1521": {
+        "nb_articles": 369,
+        "type": null,
+        "nom": "Territoire de Belfort"
+    },
+    "p790": {
+        "nb_articles": 333,
+        "type": "ébauche",
+        "nom": "Las Vegas"
+    },
+    "p1454": {
+        "nb_articles": 545,
+        "type": null,
+        "nom": "Somalie"
+    },
+    "p850": {
+        "nb_articles": 1205,
+        "type": null,
+        "nom": "Louisiane"
+    },
+    "p1089": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Ordre du Temple"
+    },
+    "p17": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Âge d'or de l'Islam"
+    },
+    "p1345": {
+        "nb_articles": 354,
+        "type": null,
+        "nom": "Rotterdam"
+    },
+    "p958": {
+        "nb_articles": 4491,
+        "type": null,
+        "nom": "Monachisme"
+    },
+    "p23": {
+        "nb_articles": 629,
+        "type": null,
+        "nom": "Aix-en-Provence"
+    },
+    "p1552": {
+        "nb_articles": 2241,
+        "type": null,
+        "nom": "Toscane"
+    },
+    "p74": {
+        "nb_articles": 176,
+        "type": null,
+        "nom": "Annecy"
+    },
+    "p725": {
+        "nb_articles": 261,
+        "type": null,
+        "nom": "Innsbruck"
+    },
+    "p1409": {
+        "nb_articles": 6921,
+        "type": null,
+        "nom": "Sculpture"
+    },
+    "p600": {
+        "nb_articles": 1306,
+        "type": null,
+        "nom": "Gers"
+    },
+    "p1579": {
+        "nb_articles": 113,
+        "type": null,
+        "nom": "Uniformologie militaire"
+    },
+    "p399": {
+        "nb_articles": 2108,
+        "type": null,
+        "nom": "Côte-d'Or"
+    },
+    "p1341": {
+        "nb_articles": 2439,
+        "type": null,
+        "nom": "Rome"
+    },
+    "p1371": {
+        "nb_articles": 809,
+        "type": null,
+        "nom": "Saint-Pétersbourg"
+    },
+    "p1378": {
+        "nb_articles": 163,
+        "type": "ébauche",
+        "nom": "Salsa"
+    },
+    "p1622": {
+        "nb_articles": 1082,
+        "type": "ébauche",
+        "nom": "Virginie"
+    },
+    "p994": {
+        "nb_articles": 30630,
+        "type": "de qualité",
+        "nom": "Moyen-Orient"
+    },
+    "p1219": {
+        "nb_articles": 241,
+        "type": null,
+        "nom": "Préfecture de Chiba"
+    },
+    "p754": {
+        "nb_articles": 7719,
+        "type": null,
+        "nom": "Jeux olympiques"
+    },
+    "p715": {
+        "nb_articles": 9103,
+        "type": null,
+        "nom": "Inde"
+    },
+    "p13": {
+        "nb_articles": 1151,
+        "type": null,
+        "nom": "Afghanistan"
+    },
+    "p349": {
+        "nb_articles": 38588,
+        "type": null,
+        "nom": "Cinéma américain"
+    },
+    "p1190": {
+        "nb_articles": 2637,
+        "type": "bon",
+        "nom": "Politique britannique"
+    },
+    "p387": {
+        "nb_articles": 1104,
+        "type": null,
+        "nom": "Contes"
+    },
+    "p1192": {
+        "nb_articles": 2725,
+        "type": null,
+        "nom": "Politique en Espagne"
+    },
+    "p1373": {
+        "nb_articles": 135,
+        "type": null,
+        "nom": "Saint-Pierre-et-Miquelon"
+    },
+    "p1235": {
+        "nb_articles": 378,
+        "type": null,
+        "nom": "Préfecture de Nagano"
+    },
+    "p214": {
+        "nb_articles": 2083,
+        "type": null,
+        "nom": "Bible"
+    },
+    "p7": {
+        "nb_articles": 1871,
+        "type": null,
+        "nom": "Acadie"
+    },
+    "p467": {
+        "nb_articles": 283,
+        "type": null,
+        "nom": "Dublin"
+    },
+    "p1063": {
+        "nb_articles": 5193,
+        "type": null,
+        "nom": "Nouvelle-Zélande"
+    },
+    "p1469": {
+        "nb_articles": 1782,
+        "type": null,
+        "nom": "Sport motocycliste"
+    },
+    "p206": {
+        "nb_articles": 1776,
+        "type": null,
+        "nom": "Berlin"
+    },
+    "p801": {
+        "nb_articles": 57,
+        "type": null,
+        "nom": "Légendaire"
+    },
+    "p1379": {
+        "nb_articles": 177,
+        "type": "ébauche",
+        "nom": "Salt Lake City"
+    },
+    "p161": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Auvergne-Rhône-Alpes"
+    },
+    "p310": {
+        "nb_articles": 311,
+        "type": "ébauche",
+        "nom": "Ceará"
+    },
+    "p40": {
+        "nb_articles": 1240,
+        "type": null,
+        "nom": "Allemagne au XIXe siècle"
+    },
+    "p382": {
+        "nb_articles": 458,
+        "type": null,
+        "nom": "Conflit israélo-arabe"
+    },
+    "p569": {
+        "nb_articles": 357,
+        "type": null,
+        "nom": "Francfort-sur-le-Main"
+    },
+    "p1524": {
+        "nb_articles": 1517,
+        "type": "ébauche",
+        "nom": "Territoires britanniques d'outre-mer"
+    },
+    "p1010": {
+        "nb_articles": 4957,
+        "type": "bon",
+        "nom": "Musiques du monde"
+    },
+    "p788": {
+        "nb_articles": 325,
+        "type": null,
+        "nom": "Langues germaniques"
+    },
+    "p817": {
+        "nb_articles": 1892,
+        "type": null,
+        "nom": "Lille Métropole"
+    },
+    "p1045": {
+        "nb_articles": 551,
+        "type": null,
+        "nom": "Nîmes"
+    },
+    "p1621": {
+        "nb_articles": 1296,
+        "type": null,
+        "nom": "Ville de Québec"
+    },
+    "p767": {
+        "nb_articles": 1608,
+        "type": null,
+        "nom": "Kazakhstan"
+    },
+    "p453": {
+        "nb_articles": 4602,
+        "type": "bon",
+        "nom": "Disney"
+    },
+    "p960": {
+        "nb_articles": 32689,
+        "type": null,
+        "nom": "Monarchie"
+    },
+    "p420": {
+        "nb_articles": 392,
+        "type": "ébauche",
+        "nom": "Cuisine italienne"
+    },
+    "p1640": {
+        "nb_articles": 186,
+        "type": null,
+        "nom": "Winnipeg"
+    },
+    "p1342": {
+        "nb_articles": null,
+        "type": null,
+        "nom": "Rome antique"
+    },
+    "p165": {
+        "nb_articles": 1336,
+        "type": null,
+        "nom": "Azerbaïdjan"
+    },
+    "p605": {
+        "nb_articles": 512,
+        "type": null,
+        "nom": "GNU/Linux"
+    }
+}
