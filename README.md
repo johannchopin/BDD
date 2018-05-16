@@ -7,7 +7,7 @@
 * [ ] Réalisation technique
     + [ ] Récupération des données et traitement en json
         - [x] Traitement des portails
-            - [ ] Quelques exceptions (nb_articles) => conversion int 
+            - [x] Quelques exceptions (nb_articles) => conversion int 
         - [ ] Traitement des catégories
         - [x] Traitement des bots
         - [ ] Traitement des articles
