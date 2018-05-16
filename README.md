@@ -6,7 +6,7 @@
 * [ ] Finir la TODO list
 * [ ] Réalisation technique
     + [ ] Récupération des données et traitement en json
-        - [ ] Traitement des portails
+        - [x] Traitement des portails
             - [ ] Quelques exceptions (nb_articles) => conversion int 
         - [ ] Traitement des catégories
         - [x] Traitement des bots
