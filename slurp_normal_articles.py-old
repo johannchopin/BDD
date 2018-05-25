@@ -1,0 +1,47 @@
+from sys import exit, argv
+from os import mkdir, listdir
+from datetime import datetime 
+from urllib.request import unquote
+try:
+    import wikipedia
+except ImportError:
+    print('Please install the wikipedia\'s API for python\n$ pip install wikipedia')
+    exit()
+
+# ===========
+# initization 
+# ===========
+
+wikipedia.set_lang('fr')
+wikipedia.set_rate_limiting(True) # Avoid spamming to the server
+
+ADQ = set(open('all_titles_article_de_qualite.txt').read().lower().split('\n'))
+BA_ADQ = set(open('all_titles_bon_article.txt').read().lower().split('\n')).union(ADQ)
+downloaded = set([e.lower() for e in listdir('articles/normal')])
+
+BOUND = 200000
+
+
+# ====
+# core 
+# ====
+
+def download_articles():
+    while len(downloaded) <= BOUND:
+        try:
+            # Get the title of the first reference in wikipedia, avoid some DisambiguationError
+            title = wikipedia.search(wikipedia.random(), results=1)[0]
+            article = wikipedia.WikipediaPage(title).html()
+        except:
+            continue
+        else:
+            if title.lower() not in downloaded:
+                try:
+                    with open("articles/normal/" + title, 'x') as f:
+                        f.write(article)
+                except:
+                    continue
+                downloaded.add(title.lower())
+                print(f"{title}")
+
+download_articles()
