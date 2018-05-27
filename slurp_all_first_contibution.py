@@ -9,6 +9,7 @@ with open('contributeurs_data.json') as json_data:
     data_dict = json.load(json_data)
 print('data_dict is created')
 
+
 global counter
 global len_data_dict
 counter = 0
@@ -21,7 +22,7 @@ def add_first_contribution(data_dict):
 	for element in data_dict:
 		url_name = quote(data_dict[element]['name'].replace(' ', '_'))
 		url = 'https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Contributions/'+ url_name + '&dir=prev&limit=20'
-		date = find_first_contribution(url)		
+		date = find_first_contribution(url)
 		data_dict[element]['first_contr'] = date
 		print(str(counter) + ' / ' + len_data_dict)
 		counter += 1	
@@ -43,5 +44,6 @@ def make_the_soup(page):
 	url = urlopen(page)
 	soup = BeautifulSoup(url, 'lxml')
 	return soup
+
 
 add_first_contribution(data_dict)
