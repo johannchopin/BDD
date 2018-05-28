@@ -2,13 +2,18 @@ import bs4 as Beautiful
 from urllib.request import urlopen, quote
 from json import loads, dumps
 from os import listdir, mkdir
+from os.path import isfile, isdir
+
+"""
+    Just normal articles are processed (PATH_ARTICLES)
+"""
 
 STATS_ARTICLE_URL = "https://xtools.wmflabs.org/articleinfo/fr.wikipedia.org/" # Add  url wikipedia
 GOAL = 1
 FILE = open("stats_normal_articles.json", "w")
 PATH_ARTICLES = "articles/normal/"
 PATH_JSON = "temp_articles/"
-REACH_SOURCES = ['id="Notes_et_références"', 'id="Voir_aussi"', 'id="Liens_externes"']
+REACH_SOURCES = ['id="Références', 'id="Notes_et_références"', 'id="Voir_aussi"', 'id="Liens_externes"']
 
 
 def make_the_soup_online(page):
@@ -58,26 +63,25 @@ def find_nb_langues(page):
     if additionnal != None:
         return count + int(additionnal.get_text())
     else:
-        return count
+        return max(count, 1) # Minimum French language so 1
 
 def find_nb_sources(page):
     page = str(page.find("div", id="content"))
-    for tag in REACH_SOURCES:
-        pos = page.find(tag)
-        if tag != -1:
-            return page.count("</li>", pos)
-    return 0
+    sources_possible = [page.find(tag) for tag in REACH_SOURCES]
+    return max(0, max(sources_possible))
 
-if not os.path.isdir(PATH_JSON):
+if not isdir(PATH_JSON):
     mkdir(PATH_JSON)
 
 stats = {}
 files = listdir(PATH_ARTICLES)
-target_number = len(files)
+bound = len(files)
 for (count, name) in enumerate(files, 1):
-    print(target_number, count, name)
-    article = make_the_soup_local(PATH_ARTICLES + name)
     id_article = "art" + str(count)
+    print(bound, count, name)
+    if isfile(PATH_JSON + id_article):
+        continue
+    article = make_the_soup_local(PATH_ARTICLES + name)
     stats[id_article] = {}
     stats[id_article]["nom"] = name
     stats[id_article]["type"] = find_type(article)
@@ -89,5 +93,7 @@ for (count, name) in enumerate(files, 1):
     stats[id_article]["nb_langues"] = find_nb_langues(article)
     stats[id_article]["nb_sources"] = find_nb_sources(article)
 
-    open(PATH_JSON + id_article).write(dumps(stats[id_article], indent=4, ensure_ascii=False))
+    open(PATH_JSON + id_article, 'w').write(dumps(stats[id_article], indent=4, ensure_ascii=False))
     # TODO: Append at the end  of the file
+
+open(PATH_JSON)
