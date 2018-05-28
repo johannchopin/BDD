@@ -11,7 +11,7 @@
         - [ ] Traitement des catégories
         - [x] Traitement des bots
         - [ ] Traitement des articles
-        - [ ] Traitement des contributeurs
+        - [x] Traitement des contributeurs
         - [ ] Traitement des liens
     + [ ] Réalisation de la BDD
         - [x] Structure de la base
