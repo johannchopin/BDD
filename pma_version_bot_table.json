@@ -1,0 +1,3679 @@
+{
+    "bot16": {
+        "is_active": "Endormi",
+        "bot_name": "Aptenodibot",
+        "createur": "Diti",
+        "date_creation": null,
+        "nb_modif": 20
+    },
+    "bot399": {
+        "is_active": "Retraité",
+        "bot_name": "Minsbot",
+        "createur": "ko:Ha98574",
+        "date_creation": "2011-12-12",
+        "nb_modif": 2634
+    },
+    "bot253": {
+        "is_active": "Retraité",
+        "contr_id": "contr498",
+        "bot_name": "Blockbot",
+        "date_creation": "2013-03-31",
+        "nb_modif": 36451,
+        "createur": "Akeron"
+    },
+    "bot102": {
+        "is_active": "Retraité",
+        "contr_id": "contr8549",
+        "bot_name": "LeCardibot",
+        "date_creation": "2012-04-14",
+        "nb_modif": 6073,
+        "createur": "LeCardinal"
+    },
+    "bot120": {
+        "is_active": "Endormi",
+        "bot_name": "AddihockeyBot",
+        "createur": "Addihockey10",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot46": {
+        "is_active": "Endormi",
+        "bot_name": "Homobot",
+        "createur": "Homo2",
+        "date_creation": null,
+        "nb_modif": 13
+    },
+    "bot433": {
+        "is_active": "Retraité",
+        "bot_name": "StigBot",
+        "createur": "no:Stigmj",
+        "date_creation": "2008-01-19",
+        "nb_modif": 5016
+    },
+    "bot383": {
+        "is_active": "Endormi",
+        "bot_name": "SreeBot",
+        "createur": "en:Sreejithk2000",
+        "date_creation": null,
+        "nb_modif": 8
+    },
+    "bot212": {
+        "is_active": "Endormi",
+        "bot_name": "CommonsBot",
+        "createur": "jd",
+        "date_creation": null,
+        "nb_modif": 1059
+    },
+    "bot287": {
+        "is_active": "Retraité",
+        "bot_name": "EgonBOT~frwiki",
+        "createur": "Egon",
+        "date_creation": "2007-02-09",
+        "nb_modif": 822
+    },
+    "bot415": {
+        "is_active": "Retraité",
+        "contr_id": "contr10374",
+        "bot_name": "MirgolthBot",
+        "date_creation": "2007-04-21",
+        "nb_modif": 157162,
+        "createur": "Mirgolth"
+    },
+    "bot369": {
+        "is_active": "Retraité",
+        "bot_name": "Sahimrobot",
+        "createur": "fa:Sahim",
+        "date_creation": "2012-01-03",
+        "nb_modif": 1060
+    },
+    "bot3": {
+        "is_active": "Retraité",
+        "bot_name": "Jotterbot",
+        "createur": "ml:Jyothis",
+        "date_creation": "2008-08-16",
+        "nb_modif": 8346
+    },
+    "bot71": {
+        "is_active": "Endormi",
+        "bot_name": "M-Bot",
+        "createur": "th:Mopza",
+        "date_creation": null,
+        "nb_modif": 5
+    },
+    "bot161": {
+        "is_active": "Endormi",
+        "bot_name": "FloggerBot",
+        "createur": "A-Taul",
+        "date_creation": null,
+        "nb_modif": 42
+    },
+    "bot211": {
+        "is_active": "Retraité",
+        "bot_name": "Mjbmrbot",
+        "createur": "fa:Mjbmr",
+        "date_creation": "2010-10-19",
+        "nb_modif": 13840
+    },
+    "bot331": {
+        "is_active": "Endormi",
+        "bot_name": "TrBot",
+        "createur": "ar:TRD",
+        "date_creation": null,
+        "nb_modif": 76
+    },
+    "bot514": {
+        "is_active": "Retraité",
+        "bot_name": "GZ-Bot",
+        "createur": "lv:GreenZeb",
+        "date_creation": "2011-07-04",
+        "nb_modif": 539
+    },
+    "bot25": {
+        "is_active": "Retraité",
+        "bot_name": "Xibot",
+        "createur": "Pabix",
+        "date_creation": "2007-05-18",
+        "nb_modif": 4884
+    },
+    "bot435": {
+        "is_active": "Endormi",
+        "bot_name": "AdQ Bot",
+        "createur": "Tavernier",
+        "date_creation": null,
+        "nb_modif": 4890
+    },
+    "bot91": {
+        "is_active": "Actif",
+        "contr_id": "contr7192",
+        "bot_name": "ErfgoedBot",
+        "date_creation": null,
+        "nb_modif": 3199,
+        "createur": "Jean-Frédéric"
+    },
+    "bot303": {
+        "is_active": "Actif",
+        "bot_name": "LinedBot",
+        "createur": "Linedwell",
+        "date_creation": "2011-01-18",
+        "nb_modif": 49316
+    },
+    "bot484": {
+        "is_active": "Retraité",
+        "contr_id": "contr129",
+        "bot_name": "A2bot",
+        "date_creation": "2013-03-17",
+        "nb_modif": 2228,
+        "createur": "A2"
+    },
+    "bot280": {
+        "is_active": "Retraité",
+        "bot_name": "TobeBot",
+        "createur": "ja:Mymelo",
+        "date_creation": "2009-07-09",
+        "nb_modif": 46362
+    },
+    "bot412": {
+        "is_active": "Retraité",
+        "bot_name": "Escalabot",
+        "createur": "Escaladix",
+        "date_creation": "2006-10-30",
+        "nb_modif": 51541
+    },
+    "bot170": {
+        "is_active": "Retraité",
+        "bot_name": "Salecabot",
+        "createur": "Poleta33",
+        "date_creation": "2006-10-06",
+        "nb_modif": 7539
+    },
+    "bot260": {
+        "is_active": "Retraité",
+        "bot_name": "FlaBot",
+        "createur": "de:Flacus",
+        "date_creation": "2005-01-01",
+        "nb_modif": 109701
+    },
+    "bot343": {
+        "is_active": "Actif",
+        "bot_name": "TechBot",
+        "createur": "Techman224",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot470": {
+        "is_active": "Retraité",
+        "bot_name": "K.J.Bot~frwiki",
+        "createur": "pl:Krzysiu Jarzyna",
+        "date_creation": "2007-01-12",
+        "nb_modif": 157
+    },
+    "bot171": {
+        "is_active": "Endormi",
+        "bot_name": "Kaiger",
+        "createur": "Gribeco",
+        "date_creation": "2007-11-08",
+        "nb_modif": 1
+    },
+    "bot33": {
+        "is_active": "Retraité",
+        "bot_name": "Hxhbot",
+        "createur": "hxh",
+        "date_creation": "2007-07-21",
+        "nb_modif": 2411
+    },
+    "bot67": {
+        "is_active": "Endormi",
+        "bot_name": "BoTieno",
+        "createur": "Tieno",
+        "date_creation": null,
+        "nb_modif": 3
+    },
+    "bot391": {
+        "is_active": "Endormi",
+        "bot_name": "FaleBot",
+        "createur": "it:Fale",
+        "date_creation": null,
+        "nb_modif": 251
+    },
+    "bot197": {
+        "is_active": "Endormi",
+        "bot_name": "AlkhemaBot",
+        "createur": "Crazy_runner",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot162": {
+        "is_active": "Retraité",
+        "bot_name": "ChuispastonBot",
+        "createur": "Grimlock",
+        "date_creation": "2012-04-26",
+        "nb_modif": 76102
+    },
+    "bot57": {
+        "is_active": "Retraité",
+        "contr_id": "contr9623",
+        "bot_name": "MMBot",
+        "date_creation": "2005-01-01",
+        "nb_modif": 118345,
+        "createur": "Marc Mongenet"
+    },
+    "bot106": {
+        "is_active": "Retraité",
+        "bot_name": "MoriBot~frwiki",
+        "createur": "Moribunt",
+        "date_creation": "2005-07-29",
+        "nb_modif": 128
+    },
+    "bot53": {
+        "is_active": "Retraité",
+        "bot_name": "Vini 17bot5",
+        "createur": "pt:Vini 175",
+        "date_creation": "2008-08-26",
+        "nb_modif": 751
+    },
+    "bot385": {
+        "is_active": "Retraité",
+        "bot_name": "LSG1-Bot",
+        "createur": "de:LSG1",
+        "date_creation": "2009-11-06",
+        "nb_modif": 148
+    },
+    "bot357": {
+        "is_active": "Actif",
+        "bot_name": "ZéroBot",
+        "createur": "Toto Azéro",
+        "date_creation": "2010-03-27",
+        "nb_modif": 1338854
+    },
+    "bot220": {
+        "is_active": "Actif",
+        "bot_name": "SuprememangaBot",
+        "createur": "Suprememangaka",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot103": {
+        "is_active": "Endormi",
+        "bot_name": "TethBot",
+        "createur": "Teth",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot353": {
+        "is_active": "Retraité",
+        "bot_name": "Zorrobot",
+        "createur": "no:ZorroIII",
+        "date_creation": "2007-09-29",
+        "nb_modif": 144251
+    },
+    "bot358": {
+        "is_active": "Retraité",
+        "bot_name": "CeraBot",
+        "createur": "en:Ceradon",
+        "date_creation": "2012-05-01",
+        "nb_modif": 637
+    },
+    "bot469": {
+        "is_active": "Retraité",
+        "bot_name": "Purbo T",
+        "createur": "ksh:Purodha",
+        "date_creation": "2008-01-30",
+        "nb_modif": 4635
+    },
+    "bot422": {
+        "is_active": "Retraité",
+        "bot_name": "DumZiBoT",
+        "createur": "NicDumZ",
+        "date_creation": "2007-09-01",
+        "nb_modif": 616853
+    },
+    "bot77": {
+        "is_active": "Retraité",
+        "bot_name": "BenzolBot",
+        "createur": "de:Benzen",
+        "date_creation": "2009-05-03",
+        "nb_modif": 12536
+    },
+    "bot132": {
+        "is_active": "Retraité",
+        "bot_name": "SashatoBot",
+        "createur": "sr:Саша Стефановић",
+        "date_creation": "2006-02-02",
+        "nb_modif": 61667
+    },
+    "bot115": {
+        "is_active": "Retraité",
+        "bot_name": "AStarBot",
+        "createur": "ko:Asta",
+        "date_creation": "2009-04-18",
+        "nb_modif": 3204
+    },
+    "bot159": {
+        "is_active": "Retraité",
+        "bot_name": "ZiziBot",
+        "createur": "irønie",
+        "date_creation": "2007-11-23",
+        "nb_modif": 15694
+    },
+    "bot185": {
+        "is_active": "Retraité",
+        "bot_name": "SoxBot",
+        "createur": "en:X!",
+        "date_creation": "2008-02-24",
+        "nb_modif": 1119
+    },
+    "bot486": {
+        "is_active": "Retraité",
+        "bot_name": "TaBOT-zerem",
+        "createur": "he:טבעת-זרם",
+        "date_creation": "2008-10-30",
+        "nb_modif": 11137
+    },
+    "bot424": {
+        "is_active": "Retraité",
+        "bot_name": "Jbot~frwiki",
+        "createur": "ILJR",
+        "date_creation": "2008-03-12",
+        "nb_modif": 443
+    },
+    "bot413": {
+        "is_active": "Actif",
+        "contr_id": "contr12990",
+        "bot_name": "Roland45-Bot",
+        "date_creation": "2014-01-06",
+        "nb_modif": 169961,
+        "createur": "Roland45"
+    },
+    "bot476": {
+        "is_active": "Endormi",
+        "bot_name": "SamoaBot",
+        "createur": "m:Ricordisamoa",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot370": {
+        "is_active": "Endormi",
+        "bot_name": "MarkkoBot",
+        "createur": "Markko",
+        "date_creation": null,
+        "nb_modif": 3590
+    },
+    "bot445": {
+        "is_active": "Actif",
+        "contr_id": "contr6360",
+        "bot_name": "HerculeBot",
+        "date_creation": "2008-02-23",
+        "nb_modif": 2557240,
+        "createur": "Hercule"
+    },
+    "bot411": {
+        "is_active": "Retraité",
+        "contr_id": "contr11159",
+        "bot_name": "NodBot",
+        "date_creation": "2011-11-07",
+        "nb_modif": 3398,
+        "createur": "Nodulation"
+    },
+    "bot278": {
+        "is_active": "Retraité",
+        "bot_name": "RedBot",
+        "createur": "de:Redf0x",
+        "date_creation": "2009-07-12",
+        "nb_modif": 100532
+    },
+    "bot400": {
+        "is_active": "Retraité",
+        "bot_name": "Micbot",
+        "createur": "Micthev",
+        "date_creation": "2008-07-17",
+        "nb_modif": 354243
+    },
+    "bot153": {
+        "is_active": "Endormi",
+        "bot_name": "Robot du 90",
+        "createur": "Simon-kempf",
+        "date_creation": "2005-01-01",
+        "nb_modif": 846
+    },
+    "bot35": {
+        "is_active": "Actif",
+        "bot_name": "Arkbot",
+        "createur": "Arkanosis",
+        "date_creation": "2010-06-26",
+        "nb_modif": 3311
+    },
+    "bot23": {
+        "is_active": "Endormi",
+        "contr_id": "contr864",
+        "bot_name": "HyuBoT",
+        "date_creation": "2009-07-24",
+        "nb_modif": 43362,
+        "createur": "Ambigraphe"
+    },
+    "bot34": {
+        "is_active": "Actif",
+        "contr_id": "contr14861",
+        "bot_name": "InfoRobBot",
+        "date_creation": "2013-09-21",
+        "nb_modif": 1896,
+        "createur": "TomT0m"
+    },
+    "bot112": {
+        "is_active": "Endormi",
+        "bot_name": "PokeBot1",
+        "createur": "PokeMontreal12",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot473": {
+        "is_active": "Retraité",
+        "bot_name": "Botz",
+        "createur": "Sebcaen",
+        "date_creation": "2006-09-26",
+        "nb_modif": 15760
+    },
+    "bot417": {
+        "is_active": "Retraité",
+        "bot_name": "AstaBOTh15",
+        "createur": "es:Manuelt15",
+        "date_creation": "2009-09-26",
+        "nb_modif": 3425
+    },
+    "bot129": {
+        "is_active": "Endormi",
+        "bot_name": "Fajrbot",
+        "createur": "fa:Fajr18",
+        "date_creation": "2012-12-18",
+        "nb_modif": 219
+    },
+    "bot348": {
+        "is_active": "Endormi",
+        "bot_name": "Test-tools~frwiki",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 555
+    },
+    "bot36": {
+        "is_active": "Actif",
+        "bot_name": "MyBot",
+        "createur": "IAlex",
+        "date_creation": "2006-12-04",
+        "nb_modif": 93571
+    },
+    "bot246": {
+        "is_active": "Actif",
+        "contr_id": "contr9098",
+        "bot_name": "Ltrbot",
+        "date_creation": null,
+        "nb_modif": 303,
+        "createur": "Ltrlg"
+    },
+    "bot304": {
+        "is_active": "Endormi",
+        "contr_id": "contr3678",
+        "bot_name": "OxBot",
+        "date_creation": null,
+        "nb_modif": 3,
+        "createur": "DavidL"
+    },
+    "bot237": {
+        "is_active": "Endormi",
+        "bot_name": "Perebot~frwiki",
+        "createur": "ko:Peremen",
+        "date_creation": null,
+        "nb_modif": 12
+    },
+    "bot468": {
+        "is_active": "Actif",
+        "contr_id": "contr5958",
+        "bot_name": "GratusBot",
+        "date_creation": "2013-12-29",
+        "nb_modif": 14013,
+        "createur": "Gratus"
+    },
+    "bot193": {
+        "is_active": "Retraité",
+        "bot_name": "Dr Bot",
+        "createur": "Dr Brains",
+        "date_creation": "2012-04-12",
+        "nb_modif": 65346
+    },
+    "bot198": {
+        "is_active": "Endormi",
+        "contr_id": "contr6958",
+        "bot_name": "Jack Rabbot",
+        "date_creation": null,
+        "nb_modif": 2,
+        "createur": "Jack Rabbit Slim's"
+    },
+    "bot151": {
+        "is_active": "Endormi",
+        "bot_name": "EdwardsBot",
+        "createur": "MZMcBride",
+        "date_creation": "2013-03-07",
+        "nb_modif": 4514
+    },
+    "bot322": {
+        "is_active": "Endormi",
+        "bot_name": "Djobot",
+        "createur": "djo0012",
+        "date_creation": null,
+        "nb_modif": 389
+    },
+    "bot250": {
+        "is_active": "Retraité",
+        "bot_name": "AlphaBot",
+        "createur": "Korg",
+        "date_creation": "2005-09-18",
+        "nb_modif": 8431
+    },
+    "bot420": {
+        "is_active": "Retraité",
+        "bot_name": "Kyle the bot",
+        "createur": "Kyle_the_hacker",
+        "date_creation": "2006-07-04",
+        "nb_modif": 137471
+    },
+    "bot313": {
+        "is_active": "Retraité",
+        "bot_name": "HiW-Bot",
+        "createur": null,
+        "date_creation": "2011-09-04",
+        "nb_modif": 4668
+    },
+    "bot314": {
+        "is_active": "Actif",
+        "contr_id": "contr6138",
+        "bot_name": "Gzen92Bot",
+        "date_creation": "2015-08-27",
+        "nb_modif": 11380,
+        "createur": "Gzen92"
+    },
+    "bot441": {
+        "is_active": "Actif",
+        "bot_name": "Aptenodybot A",
+        "createur": "Diti",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot122": {
+        "is_active": "Retraité",
+        "bot_name": "Gerakibot",
+        "createur": "el:Geraki",
+        "date_creation": "2007-08-14",
+        "nb_modif": 8097
+    },
+    "bot108": {
+        "is_active": "Endormi",
+        "bot_name": "Sembot",
+        "createur": "Semicolon",
+        "date_creation": null,
+        "nb_modif": 619
+    },
+    "bot377": {
+        "is_active": "Retraité",
+        "bot_name": "Dinamik-bot",
+        "createur": "ru:Dinamik",
+        "date_creation": "2010-11-15",
+        "nb_modif": 11744
+    },
+    "bot234": {
+        "is_active": "Endormi",
+        "bot_name": "SAMI.Bot",
+        "createur": "S.M.Samee",
+        "date_creation": null,
+        "nb_modif": 29
+    },
+    "bot474": {
+        "is_active": "Retraité",
+        "bot_name": "Botx",
+        "createur": "es:Jorgechp",
+        "date_creation": "2007-04-10",
+        "nb_modif": 372
+    },
+    "bot336": {
+        "is_active": "Retraité",
+        "bot_name": "Idioma-bot",
+        "createur": "lt:Hugo.arg",
+        "date_creation": "2007-01-12",
+        "nb_modif": 44228
+    },
+    "bot248": {
+        "is_active": "Retraité",
+        "bot_name": "Tanhabot",
+        "createur": "fa:Mardetanha",
+        "date_creation": "2008-07-09",
+        "nb_modif": 1334
+    },
+    "bot28": {
+        "is_active": "Retraité",
+        "bot_name": "WikiDreamer Bot",
+        "createur": "WikiDreamer",
+        "date_creation": "2008-07-02",
+        "nb_modif": 9014
+    },
+    "bot239": {
+        "is_active": "Actif",
+        "contr_id": "contr3632",
+        "bot_name": "Loveless",
+        "date_creation": "2005-12-09",
+        "nb_modif": 1794512,
+        "createur": "Darkoneko"
+    },
+    "bot156": {
+        "is_active": "Retraité",
+        "bot_name": "Autobot",
+        "createur": "sr:BokicaK",
+        "date_creation": "2011-12-08",
+        "nb_modif": 5355
+    },
+    "bot269": {
+        "is_active": "Endormi",
+        "bot_name": "Papa6-bot",
+        "createur": "papa6",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot392": {
+        "is_active": "Retraité",
+        "bot_name": "DaBot~frwiki",
+        "createur": "lv:Dainis",
+        "date_creation": "2007-09-29",
+        "nb_modif": 2607
+    },
+    "bot213": {
+        "is_active": "Retraité",
+        "bot_name": "Broadbot",
+        "createur": "Broadbeer",
+        "date_creation": "2008-06-25",
+        "nb_modif": 12997
+    },
+    "bot496": {
+        "is_active": "Retraité",
+        "bot_name": "MalarzBOT",
+        "createur": "pl:malarz pl",
+        "date_creation": "2012-10-07",
+        "nb_modif": 48
+    },
+    "bot356": {
+        "is_active": "Endormi",
+        "bot_name": "FrescoBot",
+        "createur": "it:Basilicofresco",
+        "date_creation": null,
+        "nb_modif": 5
+    },
+    "bot308": {
+        "is_active": "Actif",
+        "bot_name": "KoehlBot",
+        "createur": "Dan Koehl",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot105": {
+        "is_active": "Retraité",
+        "bot_name": "ChenzwBot",
+        "createur": "simple:Chenzw",
+        "date_creation": "2008-09-14",
+        "nb_modif": 3798
+    },
+    "bot191": {
+        "is_active": "Actif",
+        "bot_name": "タチコマ robot",
+        "createur": "とある白い猫",
+        "date_creation": "2005-01-01",
+        "nb_modif": 23800
+    },
+    "bot323": {
+        "is_active": "Endormi",
+        "bot_name": "Lt-wiki-bot~frwiki",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 1561
+    },
+    "bot381": {
+        "is_active": "Retraité",
+        "bot_name": "Rameshngbot",
+        "createur": "ml:Rameshng",
+        "date_creation": "2009-09-04",
+        "nb_modif": 103
+    },
+    "bot97": {
+        "is_active": "Endormi",
+        "contr_id": "contr15225",
+        "bot_name": "Viticulteur",
+        "date_creation": null,
+        "nb_modif": 1,
+        "createur": "VIGNERON"
+    },
+    "bot243": {
+        "is_active": "Endormi",
+        "bot_name": "Lait ribot",
+        "createur": "Ludo29",
+        "date_creation": "2009-04-26",
+        "nb_modif": 10686
+    },
+    "bot423": {
+        "is_active": "Endormi",
+        "bot_name": "DragonBot",
+        "createur": "ml:Jacob.jose",
+        "date_creation": "2013-01-13",
+        "nb_modif": 30005
+    },
+    "bot27": {
+        "is_active": "Retraité",
+        "bot_name": "IluvatarBot",
+        "createur": "ru:Iluvatar",
+        "date_creation": "2012-01-08",
+        "nb_modif": 3225
+    },
+    "bot462": {
+        "is_active": "Retraité",
+        "bot_name": ".anacondabot",
+        "createur": "it:.anaconda",
+        "date_creation": "2006-08-20",
+        "nb_modif": 21086
+    },
+    "bot5": {
+        "is_active": "Retraité",
+        "bot_name": "Orthogaffe",
+        "createur": "Looxix",
+        "date_creation": "2005-01-01",
+        "nb_modif": 60629
+    },
+    "bot263": {
+        "is_active": "Retraité",
+        "bot_name": "AttoBot",
+        "createur": "AttoRenato",
+        "date_creation": "2010-02-06",
+        "nb_modif": 4943
+    },
+    "bot100": {
+        "is_active": "Actif",
+        "bot_name": "Tinm bot",
+        "createur": "Tinm",
+        "date_creation": "2015-09-01",
+        "nb_modif": 767
+    },
+    "bot379": {
+        "is_active": "Retraité",
+        "bot_name": "Gacbot~frwiki",
+        "createur": "it:Gacbot",
+        "date_creation": "2006-04-27",
+        "nb_modif": 7586
+    },
+    "bot398": {
+        "is_active": "Retraité",
+        "bot_name": "TuvicBot",
+        "createur": "Tuvic",
+        "date_creation": "2006-07-08",
+        "nb_modif": 4295
+    },
+    "bot301": {
+        "is_active": "Retraité",
+        "bot_name": "Pic-Bot",
+        "createur": "Pic-Sou",
+        "date_creation": "2011-12-08",
+        "nb_modif": 13123
+    },
+    "bot244": {
+        "is_active": "Endormi",
+        "bot_name": "Invadibot",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot235": {
+        "is_active": "Retraité",
+        "bot_name": "LinkFA-Bot",
+        "createur": "de:Guandalug",
+        "date_creation": "2009-06-26",
+        "nb_modif": 9995
+    },
+    "bot204": {
+        "is_active": "Endormi",
+        "bot_name": "Robodoc.at-fr",
+        "createur": "Korg",
+        "date_creation": null,
+        "nb_modif": 19
+    },
+    "bot65": {
+        "is_active": "Actif",
+        "contr_id": "contr8793",
+        "bot_name": "Analphabot",
+        "date_creation": "2007-05-15",
+        "nb_modif": 170881,
+        "createur": "Like tears in rain"
+    },
+    "bot478": {
+        "is_active": "Retraité",
+        "bot_name": "Nono le petit robot",
+        "createur": "Manchot",
+        "date_creation": "2007-01-20",
+        "nb_modif": 2654
+    },
+    "bot338": {
+        "is_active": "Endormi",
+        "bot_name": "CalakBot",
+        "createur": "ckb:Calak",
+        "date_creation": null,
+        "nb_modif": 8
+    },
+    "bot493": {
+        "is_active": "Endormi",
+        "bot_name": "Patator Bot",
+        "createur": "Mr Patate",
+        "date_creation": null,
+        "nb_modif": 95
+    },
+    "bot416": {
+        "is_active": "Retraité",
+        "bot_name": "WarddrBOT",
+        "createur": "nl:Warddr",
+        "date_creation": "2007-02-05",
+        "nb_modif": 3305
+    },
+    "bot245": {
+        "is_active": "Retraité",
+        "bot_name": "MastiBot",
+        "createur": "masti",
+        "date_creation": "2009-06-24",
+        "nb_modif": 59448
+    },
+    "bot361": {
+        "is_active": "Retraité",
+        "bot_name": "Yonidebot",
+        "createur": "he:Yonidebest",
+        "date_creation": "2008-10-07",
+        "nb_modif": 3422
+    },
+    "bot495": {
+        "is_active": "Retraité",
+        "bot_name": "MenasimBot",
+        "createur": "ar:Menasim",
+        "date_creation": "2007-01-12",
+        "nb_modif": 998
+    },
+    "bot395": {
+        "is_active": "Retraité",
+        "bot_name": "Rubinbot",
+        "createur": "Rubin16",
+        "date_creation": "2009-02-14",
+        "nb_modif": 32342
+    },
+    "bot502": {
+        "is_active": "Retraité",
+        "bot_name": "AlnoktaBOT",
+        "createur": "ar:alnokta",
+        "date_creation": "2007-01-12",
+        "nb_modif": 18729
+    },
+    "bot7": {
+        "is_active": "Retraité",
+        "bot_name": "Rei-bot",
+        "createur": "pt:Rei-artur",
+        "date_creation": "2006-12-01",
+        "nb_modif": 31316
+    },
+    "bot302": {
+        "is_active": "Endormi",
+        "bot_name": "Orgullobot~frwiki",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 48
+    },
+    "bot241": {
+        "is_active": "Endormi",
+        "bot_name": "CactusBot",
+        "createur": "de:Cactus26",
+        "date_creation": "2011-09-03",
+        "nb_modif": 472
+    },
+    "bot332": {
+        "is_active": "Retraité",
+        "bot_name": "ChessBOT",
+        "createur": "es:Mr.Ajedrez",
+        "date_creation": "2011-06-09",
+        "nb_modif": 398
+    },
+    "bot199": {
+        "is_active": "Retraité",
+        "bot_name": "Eden",
+        "createur": "Eden2004",
+        "date_creation": "2006-04-22",
+        "nb_modif": 4119
+    },
+    "bot262": {
+        "is_active": "Retraité",
+        "bot_name": "MSBOT",
+        "createur": "fa:میثم",
+        "date_creation": "2006-09-09",
+        "nb_modif": 4827
+    },
+    "bot367": {
+        "is_active": "Endormi",
+        "bot_name": "Great Bot on Fire",
+        "createur": "Shaddam 5",
+        "date_creation": null,
+        "nb_modif": 39
+    },
+    "bot117": {
+        "is_active": "Endormi",
+        "bot_name": "NyappyBOT",
+        "createur": "Carrousel",
+        "date_creation": null,
+        "nb_modif": 6
+    },
+    "bot390": {
+        "is_active": "Endormi",
+        "bot_name": "Addihockey10 (automated)",
+        "createur": "Addihockey10",
+        "date_creation": "2012-01-06",
+        "nb_modif": 440
+    },
+    "bot363": {
+        "is_active": "Endormi",
+        "bot_name": "FariBot",
+        "createur": "Faramarz",
+        "date_creation": null,
+        "nb_modif": 56
+    },
+    "bot507": {
+        "is_active": "Endormi",
+        "bot_name": "OctraBot",
+        "createur": "th:octahedron80",
+        "date_creation": null,
+        "nb_modif": 10
+    },
+    "bot87": {
+        "is_active": "Retraité",
+        "bot_name": "Ficbot",
+        "createur": "meta:Ficell",
+        "date_creation": "2007-10-29",
+        "nb_modif": 894
+    },
+    "bot351": {
+        "is_active": "Endormi",
+        "contr_id": "contr10302",
+        "bot_name": "MikaniBot",
+        "date_creation": null,
+        "nb_modif": 2,
+        "createur": "Mikani"
+    },
+    "bot73": {
+        "is_active": "Retraité",
+        "bot_name": "Eybot",
+        "createur": "EyOne",
+        "date_creation": "2006-10-18",
+        "nb_modif": 29534
+    },
+    "bot89": {
+        "is_active": "Retraité",
+        "bot_name": "BotduKiwi",
+        "createur": "BenduKiwi",
+        "date_creation": "2006-09-09",
+        "nb_modif": 675
+    },
+    "bot163": {
+        "is_active": "Endormi",
+        "contr_id": "contr15874",
+        "bot_name": "Xavier Combelle Bot",
+        "date_creation": "2012-08-20",
+        "nb_modif": 10808,
+        "createur": "Xavier Combelle"
+    },
+    "bot512": {
+        "is_active": "Retraité",
+        "bot_name": "PimpBot",
+        "createur": "Neuceu",
+        "date_creation": "2009-07-24",
+        "nb_modif": 2620
+    },
+    "bot90": {
+        "is_active": "Endormi",
+        "bot_name": "Memty Bot",
+        "createur": "Memty",
+        "date_creation": null,
+        "nb_modif": 43
+    },
+    "bot283": {
+        "is_active": "Endormi",
+        "bot_name": "GyaBot",
+        "createur": "yanngeffrotin",
+        "date_creation": null,
+        "nb_modif": 20
+    },
+    "bot292": {
+        "is_active": "Retraité",
+        "bot_name": "Alexbot",
+        "createur": "zh:Alexsh",
+        "date_creation": "2008-01-25",
+        "nb_modif": 137179
+    },
+    "bot401": {
+        "is_active": "Endormi",
+        "bot_name": "Bonobot",
+        "createur": "JeanBono",
+        "date_creation": null,
+        "nb_modif": 5
+    },
+    "bot266": {
+        "is_active": "Actif",
+        "contr_id": "contr11492",
+        "bot_name": "OrikriBot",
+        "date_creation": "2005-01-01",
+        "nb_modif": 177051,
+        "createur": "Orikrin1998"
+    },
+    "bot306": {
+        "is_active": "Retraité",
+        "bot_name": "Obersachsebot",
+        "createur": "ru:Obersachse",
+        "date_creation": "2009-03-02",
+        "nb_modif": 18125
+    },
+    "bot258": {
+        "is_active": "Endormi",
+        "bot_name": "Bublebot",
+        "createur": "bublegun",
+        "date_creation": null,
+        "nb_modif": 7
+    },
+    "bot490": {
+        "is_active": "Retraité",
+        "bot_name": "Alecs.bot",
+        "createur": "Alecs.y",
+        "date_creation": "2007-07-13",
+        "nb_modif": 237863
+    },
+    "bot54": {
+        "is_active": "Endormi",
+        "bot_name": "江",
+        "createur": "Gribeco",
+        "date_creation": "2007-11-08",
+        "nb_modif": 1
+    },
+    "bot146": {
+        "is_active": "Retraité",
+        "bot_name": "WinstonBot",
+        "createur": "it:WinstonSmith",
+        "date_creation": "2006-07-17",
+        "nb_modif": 61
+    },
+    "bot133": {
+        "is_active": "Actif",
+        "bot_name": "HunsuBot",
+        "createur": "Hunsu",
+        "date_creation": "2014-02-15",
+        "nb_modif": 353186
+    },
+    "bot284": {
+        "is_active": "Actif",
+        "bot_name": "Phe-bot",
+        "createur": "phe",
+        "date_creation": "2005-01-01",
+        "nb_modif": 724475
+    },
+    "bot165": {
+        "is_active": "Retraité",
+        "bot_name": "Amirobot",
+        "createur": "fa:Ladsgroup",
+        "date_creation": "2008-10-24",
+        "nb_modif": 37233
+    },
+    "bot450": {
+        "is_active": "Endormi",
+        "bot_name": "Shuaib-bot",
+        "createur": "ur:امحمد شعیب",
+        "date_creation": null,
+        "nb_modif": 24
+    },
+    "bot128": {
+        "is_active": "Retraité",
+        "bot_name": "SieBot",
+        "createur": "nl:Siebrand",
+        "date_creation": "2007-04-14",
+        "nb_modif": 299865
+    },
+    "bot449": {
+        "is_active": "Endormi",
+        "contr_id": "contr4747",
+        "bot_name": "EuseBot",
+        "date_creation": null,
+        "nb_modif": 7,
+        "createur": "Eusebius"
+    },
+    "bot334": {
+        "is_active": "Endormi",
+        "bot_name": "SoraBot",
+        "createur": "Tejgad",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot442": {
+        "is_active": "Endormi",
+        "bot_name": "ViskonBot",
+        "createur": "Viskonsas",
+        "date_creation": null,
+        "nb_modif": 7
+    },
+    "bot460": {
+        "is_active": "Retraité",
+        "bot_name": "Fmbot",
+        "createur": "Fmaunier",
+        "date_creation": "2006-09-01",
+        "nb_modif": 1562
+    },
+    "bot288": {
+        "is_active": "Actif",
+        "contr_id": "contr1129",
+        "bot_name": "AntonyB-Bot",
+        "date_creation": "2010-11-09",
+        "nb_modif": 179029,
+        "createur": "AntonyB"
+    },
+    "bot427": {
+        "is_active": "Retraité",
+        "bot_name": "Movses-bot",
+        "createur": "ru:Movses",
+        "date_creation": "2010-12-20",
+        "nb_modif": 4439
+    },
+    "bot189": {
+        "is_active": "Endormi",
+        "bot_name": "TAP Bot",
+        "createur": "en: Thine Antique Pen",
+        "date_creation": null,
+        "nb_modif": 15
+    },
+    "bot99": {
+        "is_active": "Retraité",
+        "bot_name": "D'ohBot",
+        "createur": "ru:Dnikitin",
+        "date_creation": "2009-06-05",
+        "nb_modif": 28793
+    },
+    "bot238": {
+        "is_active": "Retraité",
+        "bot_name": "LucienBOT",
+        "createur": "Lucien leGrey",
+        "date_creation": "2009-03-17",
+        "nb_modif": 59013
+    },
+    "bot405": {
+        "is_active": "Endormi",
+        "bot_name": "XwBot",
+        "createur": "O-zoniac",
+        "date_creation": null,
+        "nb_modif": 9
+    },
+    "bot55": {
+        "is_active": "Endormi",
+        "contr_id": "contr6786",
+        "bot_name": "Sanolnacobot",
+        "date_creation": null,
+        "nb_modif": 597,
+        "createur": "Isaac Sanolnacov"
+    },
+    "bot254": {
+        "is_active": "Endormi",
+        "bot_name": "BOTones",
+        "createur": "Er Komandante",
+        "date_creation": null,
+        "nb_modif": 143
+    },
+    "bot497": {
+        "is_active": "Actif",
+        "bot_name": "JackieBot",
+        "createur": "ru:Jackie",
+        "date_creation": "2011-01-13",
+        "nb_modif": 36339
+    },
+    "bot26": {
+        "is_active": "Retraité",
+        "bot_name": "Erabot",
+        "createur": "Erasoft24",
+        "date_creation": "2007-04-14",
+        "nb_modif": 62530
+    },
+    "bot350": {
+        "is_active": "Retraité",
+        "bot_name": "Pokbot",
+        "createur": "Pok148",
+        "date_creation": "2010-10-10",
+        "nb_modif": 5425
+    },
+    "bot41": {
+        "is_active": "Actif",
+        "bot_name": "Rahl43bot",
+        "createur": "Rahl43",
+        "date_creation": "2012-09-07",
+        "nb_modif": 11244
+    },
+    "bot273": {
+        "is_active": "Retraité",
+        "bot_name": "Ugur Basak Bot~frwiki",
+        "createur": "tr:Ugur Basak Bot",
+        "date_creation": "2006-03-28",
+        "nb_modif": 770
+    },
+    "bot209": {
+        "is_active": "Endormi",
+        "contr_id": "contr2868",
+        "bot_name": "Chicobot",
+        "date_creation": "2012-05-03",
+        "nb_modif": 308970,
+        "createur": "Chico75"
+    },
+    "bot318": {
+        "is_active": "Retraité",
+        "bot_name": "JhsBot",
+        "createur": "no:Jon Harald Søby",
+        "date_creation": "2011-10-03",
+        "nb_modif": 1933
+    },
+    "bot321": {
+        "is_active": "Retraité",
+        "bot_name": "NaBot",
+        "createur": "Jgremillot",
+        "date_creation": "2006-04-22",
+        "nb_modif": 2426
+    },
+    "bot222": {
+        "is_active": "Endormi",
+        "bot_name": "CocuBot",
+        "createur": "no:Cocu",
+        "date_creation": "2011-05-02",
+        "nb_modif": 8867
+    },
+    "bot172": {
+        "is_active": "Actif",
+        "contr_id": "contr1123",
+        "bot_name": "ScoopBot",
+        "date_creation": "2014-02-12",
+        "nb_modif": 57137,
+        "createur": "AntonierCH"
+    },
+    "bot339": {
+        "is_active": "Retraité",
+        "bot_name": "H92Bot",
+        "createur": "no:H92",
+        "date_creation": "2008-05-06",
+        "nb_modif": 1727
+    },
+    "bot491": {
+        "is_active": "Endormi",
+        "bot_name": "Guanabot~frwiki",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 12
+    },
+    "bot337": {
+        "is_active": "Retraité",
+        "bot_name": "Koyuki",
+        "createur": "Ryo",
+        "date_creation": "2004-03-18",
+        "nb_modif": 34961
+    },
+    "bot477": {
+        "is_active": "Endormi",
+        "bot_name": "Ryan-Bot",
+        "createur": "Ryan Ajie",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot208": {
+        "is_active": "Retraité",
+        "bot_name": "Proxybot",
+        "createur": "Gribeco",
+        "date_creation": "2009-03-17",
+        "nb_modif": 52039
+    },
+    "bot164": {
+        "is_active": "Actif",
+        "contr_id": "contr5248",
+        "bot_name": "PastilleBot",
+        "date_creation": "2012-05-13",
+        "nb_modif": 137036,
+        "createur": "Frakir"
+    },
+    "bot107": {
+        "is_active": "Retraité",
+        "bot_name": "Thijs!bot",
+        "createur": "nl:Thijs!",
+        "date_creation": "2006-06-14",
+        "nb_modif": 307989
+    },
+    "bot22": {
+        "is_active": "Endormi",
+        "bot_name": "RotlinkBot",
+        "createur": "Rotlink",
+        "date_creation": null,
+        "nb_modif": 22
+    },
+    "bot134": {
+        "is_active": "Endormi",
+        "contr_id": "contr5985",
+        "bot_name": "Amabot",
+        "date_creation": null,
+        "nb_modif": 118,
+        "createur": "Gribeco"
+    },
+    "bot24": {
+        "is_active": "Endormi",
+        "bot_name": "Prabot",
+        "createur": "jv:Pras",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot247": {
+        "is_active": "Actif",
+        "bot_name": "SuggestBot",
+        "createur": "en:Nettrom",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot118": {
+        "is_active": "Retraité",
+        "bot_name": "VolkovBot",
+        "createur": "ru:Volkov",
+        "date_creation": "2007-01-20",
+        "nb_modif": 331839
+    },
+    "bot148": {
+        "is_active": "Retraité",
+        "bot_name": "Diego Grez Bot",
+        "createur": "Diego Grez",
+        "date_creation": "2010-07-23",
+        "nb_modif": 2266
+    },
+    "bot203": {
+        "is_active": "Endormi",
+        "bot_name": "K.bot",
+        "createur": "Samsa",
+        "date_creation": null,
+        "nb_modif": 1169
+    },
+    "bot104": {
+        "is_active": "Endormi",
+        "bot_name": "Chobot",
+        "createur": "ko:ChongDae",
+        "date_creation": "2005-01-01",
+        "nb_modif": 48989
+    },
+    "bot9": {
+        "is_active": "Retraité",
+        "contr_id": "contr6584",
+        "bot_name": "Zyxwvut-Bot",
+        "date_creation": "2006-07-15",
+        "nb_modif": 7761,
+        "createur": "Hégésippe Cormier"
+    },
+    "bot384": {
+        "is_active": "Endormi",
+        "bot_name": "BotMultichillT",
+        "createur": "Multichill",
+        "date_creation": null,
+        "nb_modif": 70
+    },
+    "bot328": {
+        "is_active": "Endormi",
+        "bot_name": "Patrick87-Bot",
+        "createur": "Patrick87",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot195": {
+        "is_active": "Endormi",
+        "bot_name": "Locobot",
+        "createur": "es:Locos epraix",
+        "date_creation": null,
+        "nb_modif": 41
+    },
+    "bot349": {
+        "is_active": "Endormi",
+        "contr_id": "contr9168",
+        "bot_name": "Ludo29bot",
+        "date_creation": null,
+        "nb_modif": 42,
+        "createur": "Ludo29"
+    },
+    "bot364": {
+        "is_active": "Retraité",
+        "bot_name": "Probot",
+        "createur": "Dake",
+        "date_creation": "2005-01-01",
+        "nb_modif": 169241
+    },
+    "bot42": {
+        "is_active": "Endormi",
+        "contr_id": "contr12239",
+        "bot_name": "BotMyShinyMetalAss",
+        "date_creation": "2012-01-07",
+        "nb_modif": 10561,
+        "createur": "Pleclown"
+    },
+    "bot135": {
+        "is_active": "Endormi",
+        "bot_name": "CoolMaster12345",
+        "createur": "CoolMaster12345",
+        "date_creation": null,
+        "nb_modif": 11
+    },
+    "bot154": {
+        "is_active": "Retraité",
+        "bot_name": "SassoBot",
+        "createur": "en:Djsasso",
+        "date_creation": "2009-01-11",
+        "nb_modif": 15667
+    },
+    "bot376": {
+        "is_active": "Retraité",
+        "contr_id": "contr3794",
+        "bot_name": "Larco",
+        "date_creation": "2008-01-19",
+        "nb_modif": 1827,
+        "createur": "Dereckson"
+    },
+    "bot88": {
+        "is_active": "Actif",
+        "contr_id": "contr14933",
+        "bot_name": "Totorobot",
+        "date_creation": "2013-02-10",
+        "nb_modif": 3490,
+        "createur": "Totodu74"
+    },
+    "bot307": {
+        "is_active": "Actif",
+        "bot_name": "HAL",
+        "createur": "stanlekub",
+        "date_creation": "2007-03-31",
+        "nb_modif": 1949802
+    },
+    "bot330": {
+        "is_active": "Retraité",
+        "bot_name": "SalebotJunior",
+        "createur": "Nakor",
+        "date_creation": "2010-10-02",
+        "nb_modif": 1007
+    },
+    "bot169": {
+        "is_active": "Retraité",
+        "bot_name": "Addbot",
+        "createur": "Addshore",
+        "date_creation": "2013-03-10",
+        "nb_modif": 1132545
+    },
+    "bot368": {
+        "is_active": "Retraité",
+        "bot_name": "MisterMatt Bot",
+        "createur": "MisterMatt",
+        "date_creation": "2005-05-01",
+        "nb_modif": 11686
+    },
+    "bot81": {
+        "is_active": "Endormi",
+        "bot_name": "STymBot",
+        "createur": "STyx",
+        "date_creation": null,
+        "nb_modif": 582
+    },
+    "bot192": {
+        "is_active": "Retraité",
+        "bot_name": "HasharBot",
+        "createur": "Hashar",
+        "date_creation": "2005-01-01",
+        "nb_modif": 33067
+    },
+    "bot344": {
+        "is_active": "Retraité",
+        "bot_name": "Innocent iwbot",
+        "createur": "sv:Lavallen",
+        "date_creation": "2011-07-25",
+        "nb_modif": 192
+    },
+    "bot270": {
+        "is_active": "Actif",
+        "contr_id": "contr8868",
+        "bot_name": "Homon-Bot-Ohohoho",
+        "date_creation": "2014-06-21",
+        "nb_modif": 145534,
+        "createur": "Litlok"
+    },
+    "bot255": {
+        "is_active": "Retraité",
+        "bot_name": "Kwjbot",
+        "createur": "ko:kwj2772",
+        "date_creation": "2008-06-25",
+        "nb_modif": 1245
+    },
+    "bot333": {
+        "is_active": "Retraité",
+        "bot_name": "DarafshBot",
+        "createur": "fa:درفش کاویانی",
+        "date_creation": "2012-04-19",
+        "nb_modif": 2630
+    },
+    "bot19": {
+        "is_active": "Endormi",
+        "bot_name": "MerlLinkBot",
+        "createur": "de:Merlissimo",
+        "date_creation": "2009-06-14",
+        "nb_modif": 1539
+    },
+    "bot320": {
+        "is_active": "Endormi",
+        "bot_name": "BotAniste",
+        "createur": "Olivier Mengué",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot396": {
+        "is_active": "Endormi",
+        "bot_name": "Montibot",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot10": {
+        "is_active": "Endormi",
+        "bot_name": "Dinybot",
+        "createur": "Martin Kozák",
+        "date_creation": null,
+        "nb_modif": 198
+    },
+    "bot404": {
+        "is_active": "Retraité",
+        "bot_name": "BetBot~frwiki",
+        "createur": "sq:Bet_0",
+        "date_creation": "2006-10-12",
+        "nb_modif": 1845
+    },
+    "bot144": {
+        "is_active": "Actif",
+        "contr_id": "contr12426",
+        "bot_name": "ProméthéeBot",
+        "date_creation": "2014-11-30",
+        "nb_modif": 10763,
+        "createur": "Prométhée"
+    },
+    "bot92": {
+        "is_active": "Actif",
+        "bot_name": "Hexabot",
+        "createur": "Hexasoft",
+        "date_creation": "2006-01-25",
+        "nb_modif": 174048
+    },
+    "bot261": {
+        "is_active": "Endormi",
+        "bot_name": "Palica",
+        "createur": "sk:Palica",
+        "date_creation": null,
+        "nb_modif": 647
+    },
+    "bot111": {
+        "is_active": "Actif",
+        "bot_name": "ABotSupreme",
+        "createur": "Mossburg",
+        "date_creation": "2009-09-04",
+        "nb_modif": 4364
+    },
+    "bot223": {
+        "is_active": "Retraité",
+        "bot_name": "GrouchoBot",
+        "createur": "nl:Groucho_NL",
+        "date_creation": "2008-08-13",
+        "nb_modif": 162418
+    },
+    "bot389": {
+        "is_active": "Endormi",
+        "bot_name": "Wikinews Importer Bot",
+        "createur": "Misza13",
+        "date_creation": null,
+        "nb_modif": 75785
+    },
+    "bot68": {
+        "is_active": "Endormi",
+        "bot_name": "Huzzlet the bot",
+        "createur": "ko:PuzzletChung",
+        "date_creation": null,
+        "nb_modif": 725
+    },
+    "bot18": {
+        "is_active": "Retraité",
+        "bot_name": "Snaevar-bot",
+        "createur": "is:Snaevar",
+        "date_creation": "2011-07-21",
+        "nb_modif": 884
+    },
+    "bot315": {
+        "is_active": "Retraité",
+        "bot_name": "KocjoBot~frwiki",
+        "createur": "Klemen Kocjancic",
+        "date_creation": "2005-12-09",
+        "nb_modif": 741
+    },
+    "bot83": {
+        "is_active": "Retraité",
+        "bot_name": "Bocianski.bot",
+        "createur": "pl:Bocianski",
+        "date_creation": "2006-10-07",
+        "nb_modif": 883
+    },
+    "bot201": {
+        "is_active": "Endormi",
+        "bot_name": "MasterMatt-Bot",
+        "createur": "MasterMatt",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot121": {
+        "is_active": "Retraité",
+        "bot_name": "Savant-bot",
+        "createur": "Savant-fou",
+        "date_creation": "2011-04-11",
+        "nb_modif": 58
+    },
+    "bot316": {
+        "is_active": "Retraité",
+        "bot_name": "NjardarBot",
+        "createur": "nn:Njardarlogar",
+        "date_creation": "2008-04-26",
+        "nb_modif": 4982
+    },
+    "bot84": {
+        "is_active": "Retraité",
+        "bot_name": "Bot de Sept Lieues",
+        "createur": "guillom",
+        "date_creation": "2006-05-03",
+        "nb_modif": 2602
+    },
+    "bot110": {
+        "is_active": "Endormi",
+        "bot_name": "Correcteur de redirection",
+        "createur": null,
+        "date_creation": "2005-01-01",
+        "nb_modif": 16134
+    },
+    "bot312": {
+        "is_active": "Retraité",
+        "bot_name": "DixonDBot",
+        "createur": "uk:DixonD",
+        "date_creation": "2009-09-04",
+        "nb_modif": 5801
+    },
+    "bot458": {
+        "is_active": "Retraité",
+        "contr_id": "contr7951",
+        "bot_name": "KelBot",
+        "date_creation": "2007-09-22",
+        "nb_modif": 38877,
+        "createur": "Kelson"
+    },
+    "bot114": {
+        "is_active": "Endormi",
+        "bot_name": "SKbot",
+        "createur": "ru:Sergey kudryavtsev",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot1": {
+        "is_active": "Endormi",
+        "bot_name": "Leperebot",
+        "createur": "Lepere",
+        "date_creation": "2013-11-15",
+        "nb_modif": 93315
+    },
+    "bot480": {
+        "is_active": "Retraité",
+        "bot_name": "CaBot",
+        "createur": "Quentinv57",
+        "date_creation": "2009-09-05",
+        "nb_modif": 33331
+    },
+    "bot210": {
+        "is_active": "Endormi",
+        "bot_name": "MerlIwBot",
+        "createur": "de:Merlissimo",
+        "date_creation": "2011-03-21",
+        "nb_modif": 381196
+    },
+    "bot74": {
+        "is_active": "Endormi",
+        "bot_name": "RjpBot",
+        "createur": "Rojypala",
+        "date_creation": null,
+        "nb_modif": 81
+    },
+    "bot152": {
+        "is_active": "Endormi",
+        "bot_name": "Khabot",
+        "createur": "Khardan",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot276": {
+        "is_active": "Endormi",
+        "bot_name": "Synthebot",
+        "createur": "en:Julian Mendez",
+        "date_creation": "2007-04-21",
+        "nb_modif": 15921
+    },
+    "bot375": {
+        "is_active": "Retraité",
+        "bot_name": "NobelBot",
+        "createur": "ar:تاكر بلاكج",
+        "date_creation": "2009-01-06",
+        "nb_modif": 687
+    },
+    "bot60": {
+        "is_active": "Endormi",
+        "contr_id": "contr14495",
+        "bot_name": "The RedBot",
+        "date_creation": null,
+        "nb_modif": 1002,
+        "createur": "The RedBurn"
+    },
+    "bot82": {
+        "is_active": "Endormi",
+        "bot_name": "YolanCbot",
+        "createur": "YolanC",
+        "date_creation": null,
+        "nb_modif": 376
+    },
+    "bot176": {
+        "is_active": "Retraité",
+        "bot_name": "EpopBot",
+        "createur": "Epop",
+        "date_creation": "2009-02-24",
+        "nb_modif": 27732
+    },
+    "bot275": {
+        "is_active": "Retraité",
+        "bot_name": "OKBot",
+        "createur": "ar:Osamak",
+        "date_creation": "2007-06-18",
+        "nb_modif": 20019
+    },
+    "bot481": {
+        "is_active": "Actif",
+        "bot_name": "CommonsDelinker",
+        "createur": "Magnus Manske",
+        "date_creation": "2007-02-08",
+        "nb_modif": 167721
+    },
+    "bot52": {
+        "is_active": "Endormi",
+        "bot_name": "Ent~frwiki",
+        "createur": "Holycharly",
+        "date_creation": null,
+        "nb_modif": 3
+    },
+    "bot131": {
+        "is_active": "Retraité",
+        "bot_name": "DanBot",
+        "createur": "de:Daniel73480",
+        "date_creation": "2008-04-26",
+        "nb_modif": 1043
+    },
+    "bot96": {
+        "is_active": "Actif",
+        "contr_id": "contr14589",
+        "bot_name": "RobokoBot",
+        "date_creation": "2015-03-06",
+        "nb_modif": 27814,
+        "createur": "Thibaut120094"
+    },
+    "bot130": {
+        "is_active": "Actif",
+        "bot_name": "Xqbot",
+        "createur": "xqt",
+        "date_creation": "2009-01-11",
+        "nb_modif": 439115
+    },
+    "bot194": {
+        "is_active": "Actif",
+        "bot_name": "BCUbot",
+        "createur": "schutz",
+        "date_creation": null,
+        "nb_modif": 1894
+    },
+    "bot224": {
+        "is_active": "Endormi",
+        "bot_name": "Alph Bot",
+        "createur": "pt:Alchimista",
+        "date_creation": null,
+        "nb_modif": 54
+    },
+    "bot30": {
+        "is_active": "Retraité",
+        "bot_name": "RebelRobot",
+        "createur": "ro:Rebel",
+        "date_creation": "2006-08-12",
+        "nb_modif": 4987
+    },
+    "bot509": {
+        "is_active": "Endormi",
+        "bot_name": "Le plus bot",
+        "createur": "Coyau",
+        "date_creation": "2010-03-15",
+        "nb_modif": 668
+    },
+    "bot393": {
+        "is_active": "Retraité",
+        "bot_name": "Alirezabot",
+        "createur": "fa:AliReza",
+        "date_creation": "2012-06-07",
+        "nb_modif": 263
+    },
+    "bot190": {
+        "is_active": "Retraité",
+        "bot_name": "Maksim-bot",
+        "createur": "Maksim",
+        "date_creation": "2008-11-16",
+        "nb_modif": 7987
+    },
+    "bot382": {
+        "is_active": "Retraité",
+        "bot_name": "ToePeu.bot",
+        "createur": "ko:퇴프",
+        "date_creation": "2008-03-17",
+        "nb_modif": 3081
+    },
+    "bot58": {
+        "is_active": "Retraité",
+        "bot_name": "Soulbot",
+        "createur": "nb:Soulkeeper",
+        "date_creation": "2007-03-07",
+        "nb_modif": 3180
+    },
+    "bot61": {
+        "is_active": "Endormi",
+        "bot_name": "CekPotBot",
+        "createur": "Cekli829",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot85": {
+        "is_active": "Retraité",
+        "bot_name": "BOTarate",
+        "createur": "es:Rastrojo",
+        "date_creation": "2007-12-10",
+        "nb_modif": 26917
+    },
+    "bot94": {
+        "is_active": "Retraité",
+        "bot_name": "LoveBot",
+        "createur": "Agamitsudo",
+        "date_creation": "2011-04-29",
+        "nb_modif": 56622
+    },
+    "bot407": {
+        "is_active": "Endormi",
+        "bot_name": "Bot-Jagwar",
+        "createur": "Jagwar",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot62": {
+        "is_active": "Retraité",
+        "bot_name": "AlmabotJunior",
+        "createur": "Nakor",
+        "date_creation": "2009-04-18",
+        "nb_modif": 35754
+    },
+    "bot217": {
+        "is_active": "Retraité",
+        "bot_name": "Muro Bot",
+        "createur": "Muro de Aguas",
+        "date_creation": "2008-06-25",
+        "nb_modif": 11385
+    },
+    "bot346": {
+        "is_active": "Retraité",
+        "bot_name": "Justincheng12345-bot",
+        "createur": "zh:Justincheng12345",
+        "date_creation": "2012-05-13",
+        "nb_modif": 6543
+    },
+    "bot147": {
+        "is_active": "Actif",
+        "bot_name": "Sebk-Bot",
+        "createur": "Sebk",
+        "date_creation": "2014-12-04",
+        "nb_modif": 11805
+    },
+    "bot15": {
+        "is_active": "Endormi",
+        "contr_id": "contr3353",
+        "bot_name": "Crochet.david.bot",
+        "date_creation": "2012-09-07",
+        "nb_modif": 50215,
+        "createur": "Crochet.david"
+    },
+    "bot506": {
+        "is_active": "Actif",
+        "bot_name": "NeoBOT",
+        "createur": null,
+        "date_creation": "2015-03-23",
+        "nb_modif": 116
+    },
+    "bot436": {
+        "is_active": "Actif",
+        "bot_name": "Bub's wikibot",
+        "createur": "Bub's",
+        "date_creation": "2009-05-26",
+        "nb_modif": 341901
+    },
+    "bot299": {
+        "is_active": "Retraité",
+        "bot_name": "AdrilleBot",
+        "createur": "Adrille",
+        "date_creation": "2009-05-26",
+        "nb_modif": 257
+    },
+    "bot145": {
+        "is_active": "Retraité",
+        "bot_name": "Egmontbot",
+        "createur": "el:Egmontaz",
+        "date_creation": "2010-05-05",
+        "nb_modif": 62
+    },
+    "bot4": {
+        "is_active": "Retraité",
+        "bot_name": "Bot-Schafter",
+        "createur": "de:Mandavi",
+        "date_creation": "2006-11-29",
+        "nb_modif": 5768
+    },
+    "bot372": {
+        "is_active": "Endormi",
+        "bot_name": "PearlBot",
+        "createur": "Meodudlye",
+        "date_creation": null,
+        "nb_modif": 5
+    },
+    "bot319": {
+        "is_active": "Retraité",
+        "bot_name": "Wybot",
+        "createur": "en:Bonafide2004",
+        "date_creation": "2007-09-29",
+        "nb_modif": 1455
+    },
+    "bot79": {
+        "is_active": "Retraité",
+        "bot_name": "DodekBot~frwiki",
+        "createur": "pl:Dodek",
+        "date_creation": "2006-12-31",
+        "nb_modif": 27673
+    },
+    "bot196": {
+        "is_active": "Retraité",
+        "bot_name": "Fabbot",
+        "createur": "Fabien1309",
+        "date_creation": "2005-10-13",
+        "nb_modif": 1142
+    },
+    "bot75": {
+        "is_active": "Actif",
+        "contr_id": "contr9395",
+        "bot_name": "R2-D2 Bot",
+        "date_creation": null,
+        "nb_modif": 357,
+        "createur": "Macadam1"
+    },
+    "bot95": {
+        "is_active": "Retraité",
+        "bot_name": "MagnusA.Bot",
+        "createur": "sv:MagnusA",
+        "date_creation": "2008-11-17",
+        "nb_modif": 417
+    },
+    "bot160": {
+        "is_active": "Retraité",
+        "bot_name": "AsgardBot",
+        "createur": "hu:Bdanee",
+        "date_creation": "2006-09-01",
+        "nb_modif": 276
+    },
+    "bot49": {
+        "is_active": "Retraité",
+        "bot_name": "BOT-Superzerocool",
+        "createur": "es:Superzerocool",
+        "date_creation": "2006-07-31",
+        "nb_modif": 15331
+    },
+    "bot157": {
+        "is_active": "Retraité",
+        "bot_name": "TottyBot",
+        "createur": "su:Irwangatot",
+        "date_creation": "2007-06-23",
+        "nb_modif": 1406
+    },
+    "bot51": {
+        "is_active": "Endormi",
+        "bot_name": "Bean49Bot",
+        "createur": "hu:Bean49",
+        "date_creation": null,
+        "nb_modif": 133
+    },
+    "bot457": {
+        "is_active": "Endormi",
+        "bot_name": "Tahir-bot",
+        "createur": "Tahir mq",
+        "date_creation": null,
+        "nb_modif": 3
+    },
+    "bot214": {
+        "is_active": "Retraité",
+        "bot_name": "Solbot",
+        "createur": "Solensean",
+        "date_creation": "2005-09-05",
+        "nb_modif": 12456
+    },
+    "bot443": {
+        "is_active": "Retraité",
+        "bot_name": "BendelacBOT",
+        "createur": "he:יונה בנדלאק",
+        "date_creation": "2011-07-14",
+        "nb_modif": 987
+    },
+    "bot448": {
+        "is_active": "Actif",
+        "bot_name": "Caypartisbot",
+        "createur": "w:en:Caypartis",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot125": {
+        "is_active": "Retraité",
+        "bot_name": "Athybot",
+        "createur": "Athymik",
+        "date_creation": "2003-04-01",
+        "nb_modif": 14
+    },
+    "bot43": {
+        "is_active": "Retraité",
+        "bot_name": "Robbot",
+        "createur": "nl:Andre Engels",
+        "date_creation": "2005-01-01",
+        "nb_modif": 23415
+    },
+    "bot418": {
+        "is_active": "Retraité",
+        "bot_name": "Lockalbot",
+        "createur": "ru:Lockal",
+        "date_creation": "2008-03-12",
+        "nb_modif": 123
+    },
+    "bot285": {
+        "is_active": "Retraité",
+        "bot_name": "Korribot",
+        "createur": "Korrigan",
+        "date_creation": "2007-10-02",
+        "nb_modif": 2891
+    },
+    "bot402": {
+        "is_active": "Retraité",
+        "bot_name": "AlleborgoBot",
+        "createur": "it:Alleborgo",
+        "date_creation": "2007-03-30",
+        "nb_modif": 55999
+    },
+    "bot229": {
+        "is_active": "Retraité",
+        "bot_name": "GnawnBot",
+        "createur": "ko:StormDaebak",
+        "date_creation": "2008-12-22",
+        "nb_modif": 482
+    },
+    "bot294": {
+        "is_active": "Retraité",
+        "bot_name": "Jujubot",
+        "createur": "Juju2000",
+        "date_creation": "2008-01-30",
+        "nb_modif": 994
+    },
+    "bot141": {
+        "is_active": "Retraité",
+        "bot_name": "Albambot",
+        "createur": "ko:알밤한대",
+        "date_creation": "2008-06-25",
+        "nb_modif": 2532
+    },
+    "bot366": {
+        "is_active": "Actif",
+        "contr_id": "contr4722",
+        "bot_name": "EtiennekdBot",
+        "date_creation": "2014-04-07",
+        "nb_modif": 5850,
+        "createur": "Etiennekd"
+    },
+    "bot359": {
+        "is_active": "Retraité",
+        "bot_name": "BodhisattvaBot",
+        "createur": "m:Dalibor_Bosits",
+        "date_creation": "2008-02-24",
+        "nb_modif": 7113
+    },
+    "bot503": {
+        "is_active": "Retraité",
+        "contr_id": "contr7284",
+        "bot_name": "DasBot",
+        "date_creation": "2005-09-07",
+        "nb_modif": 33330,
+        "createur": "Jef-Infojef"
+    },
+    "bot259": {
+        "is_active": "Retraité",
+        "bot_name": "Geobot",
+        "createur": "Gribeco",
+        "date_creation": "2010-11-07",
+        "nb_modif": 54360
+    },
+    "bot455": {
+        "is_active": "Endormi",
+        "bot_name": "Unterseebot",
+        "createur": "Lachaume",
+        "date_creation": null,
+        "nb_modif": 37
+    },
+    "bot365": {
+        "is_active": "Endormi",
+        "contr_id": "contr11968",
+        "bot_name": "Peter17-Bot",
+        "date_creation": "2014-03-19",
+        "nb_modif": 462,
+        "createur": "Peter17"
+    },
+    "bot140": {
+        "is_active": "Actif",
+        "bot_name": "KasparBot",
+        "createur": "en:T.seppelt",
+        "date_creation": "2015-06-02",
+        "nb_modif": 51224
+    },
+    "bot461": {
+        "is_active": "Retraité",
+        "bot_name": "Riccardobot",
+        "createur": "riccardov",
+        "date_creation": "2006-11-30",
+        "nb_modif": 151
+    },
+    "bot463": {
+        "is_active": "Retraité",
+        "bot_name": "WikiBotas",
+        "createur": "Matasg",
+        "date_creation": "2007-07-27",
+        "nb_modif": 1436
+    },
+    "bot47": {
+        "is_active": "Endormi",
+        "bot_name": "Andrewbot~frwiki",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 144
+    },
+    "bot439": {
+        "is_active": "Retraité",
+        "bot_name": "RobotQuistnix",
+        "createur": "nl:Quistnix",
+        "date_creation": "2005-01-01",
+        "nb_modif": 241981
+    },
+    "bot272": {
+        "is_active": "Retraité",
+        "bot_name": "YonaBot",
+        "createur": "Yonatan",
+        "date_creation": "2007-04-15",
+        "nb_modif": 4864
+    },
+    "bot437": {
+        "is_active": "Retraité",
+        "bot_name": "MahdiBot",
+        "createur": "fa:Mahdiz",
+        "date_creation": "2012-05-28",
+        "nb_modif": 1676
+    },
+    "bot425": {
+        "is_active": "Retraité",
+        "bot_name": "BokimBot",
+        "createur": "sr:Bokim",
+        "date_creation": "2009-08-17",
+        "nb_modif": 1747
+    },
+    "bot483": {
+        "is_active": "Endormi",
+        "bot_name": "Aibot",
+        "createur": "uk:A1",
+        "date_creation": "2007-02-05",
+        "nb_modif": 27381
+    },
+    "bot277": {
+        "is_active": "Retraité",
+        "bot_name": "JAnDbot",
+        "createur": "cs:JAn Dudík",
+        "date_creation": "2006-08-17",
+        "nb_modif": 116424
+    },
+    "bot188": {
+        "is_active": "Retraité",
+        "bot_name": "DirlBot",
+        "createur": "en:Chesnok",
+        "date_creation": "2008-11-26",
+        "nb_modif": 2403
+    },
+    "bot387": {
+        "is_active": "Actif",
+        "contr_id": "contr9063",
+        "bot_name": "Louperibot",
+        "date_creation": "2007-04-23",
+        "nb_modif": 164500,
+        "createur": "Louperivois"
+    },
+    "bot233": {
+        "is_active": "Retraité",
+        "bot_name": "BotSottile",
+        "createur": "it:FiloSottile",
+        "date_creation": "2008-02-12",
+        "nb_modif": 6986
+    },
+    "bot329": {
+        "is_active": "Retraité",
+        "bot_name": "DorganBot",
+        "createur": "hu:Dorgan",
+        "date_creation": "2007-01-12",
+        "nb_modif": 10776
+    },
+    "bot66": {
+        "is_active": "Retraité",
+        "bot_name": "Thollybot",
+        "createur": "simple:Tholly",
+        "date_creation": "2008-10-24",
+        "nb_modif": 266
+    },
+    "bot249": {
+        "is_active": "Endormi",
+        "bot_name": "Al Maghi Bot",
+        "createur": "Al Maghi",
+        "date_creation": null,
+        "nb_modif": 122
+    },
+    "bot149": {
+        "is_active": "Retraité",
+        "bot_name": "MelancholieBot",
+        "createur": "als:Melancholie",
+        "date_creation": "2008-06-25",
+        "nb_modif": 36207
+    },
+    "bot200": {
+        "is_active": "Retraité",
+        "bot_name": "RibotBOT",
+        "createur": "Loupeter",
+        "date_creation": "2009-01-30",
+        "nb_modif": 53042
+    },
+    "bot143": {
+        "is_active": "Endormi",
+        "bot_name": "115 Glitch",
+        "createur": "Gribeco",
+        "date_creation": "2014-04-25",
+        "nb_modif": 14
+    },
+    "bot326": {
+        "is_active": "Retraité",
+        "bot_name": "ArthurBot",
+        "createur": "meta:Mercy",
+        "date_creation": "2008-12-02",
+        "nb_modif": 221662
+    },
+    "bot69": {
+        "is_active": "Endormi",
+        "bot_name": "Bot Tox",
+        "createur": "Manoillon",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot513": {
+        "is_active": "Endormi",
+        "contr_id": "contr9520",
+        "bot_name": "Mabot",
+        "date_creation": null,
+        "nb_modif": 293,
+        "createur": "Maloq"
+    },
+    "bot309": {
+        "is_active": "Retraité",
+        "bot_name": "SpillingBot",
+        "createur": "is:Jóna Þórunn",
+        "date_creation": "2009-05-17",
+        "nb_modif": 105
+    },
+    "bot251": {
+        "is_active": "Retraité",
+        "bot_name": "GrrrrBot",
+        "createur": "IcemanGrrrr",
+        "date_creation": "2009-10-26",
+        "nb_modif": 16340
+    },
+    "bot127": {
+        "is_active": "Actif",
+        "contr_id": "contr6965",
+        "bot_name": "JackBot",
+        "date_creation": "2011-07-25",
+        "nb_modif": 334877,
+        "createur": "JackPotte"
+    },
+    "bot498": {
+        "is_active": "Actif",
+        "bot_name": "Elfobot",
+        "createur": "Elfix",
+        "date_creation": "2012-01-23",
+        "nb_modif": 1618
+    },
+    "bot466": {
+        "is_active": "Retraité",
+        "bot_name": "Ripchip Bot",
+        "createur": "pt:Beria",
+        "date_creation": "2009-11-27",
+        "nb_modif": 30634
+    },
+    "bot394": {
+        "is_active": "Endormi",
+        "bot_name": "Vivi-bot",
+        "createur": "Vivi-1",
+        "date_creation": null,
+        "nb_modif": 6
+    },
+    "bot403": {
+        "is_active": "Endormi",
+        "bot_name": "MystBot",
+        "createur": "Myst",
+        "date_creation": "2015-08-02",
+        "nb_modif": 148939
+    },
+    "bot21": {
+        "is_active": "Actif",
+        "contr_id": "contr1751",
+        "bot_name": "Bastenbasbot",
+        "date_creation": null,
+        "nb_modif": 1854,
+        "createur": "Bastenbas"
+    },
+    "bot93": {
+        "is_active": "Actif",
+        "contr_id": "contr4289",
+        "bot_name": "ProsperoBot",
+        "date_creation": null,
+        "nb_modif": 36,
+        "createur": "EdouardHue"
+    },
+    "bot29": {
+        "is_active": "Endormi",
+        "bot_name": "SebrevBOT",
+        "createur": "es:Sebrev",
+        "date_creation": null,
+        "nb_modif": 8
+    },
+    "bot504": {
+        "is_active": "Actif",
+        "bot_name": "Aptenodybot",
+        "createur": "Diti",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot230": {
+        "is_active": "Retraité",
+        "bot_name": "GhalyBot",
+        "createur": "arz:Ghaly",
+        "date_creation": "2009-02-02",
+        "nb_modif": 4007
+    },
+    "bot80": {
+        "is_active": "Retraité",
+        "bot_name": "TXiKiBoT",
+        "createur": "eu:TXiKi",
+        "date_creation": "2007-02-14",
+        "nb_modif": 446828
+    },
+    "bot48": {
+        "is_active": "Retraité",
+        "bot_name": "Riad.Bot~frwiki",
+        "createur": "Riadismet",
+        "date_creation": "2008-07-21",
+        "nb_modif": 462
+    },
+    "bot397": {
+        "is_active": "Retraité",
+        "bot_name": "ZX81-bot",
+        "createur": "TiChou",
+        "date_creation": "2007-04-23",
+        "nb_modif": 103068
+    },
+    "bot291": {
+        "is_active": "Retraité",
+        "bot_name": "ElMeBot",
+        "createur": "vec:L.V.",
+        "date_creation": "2008-02-24",
+        "nb_modif": 911
+    },
+    "bot335": {
+        "is_active": "Retraité",
+        "bot_name": "Almabot",
+        "createur": "Nakor",
+        "date_creation": "2009-01-08",
+        "nb_modif": 26987
+    },
+    "bot264": {
+        "is_active": "Retraité",
+        "bot_name": "FANSTARbot",
+        "createur": "nl:CrazyPhunk",
+        "date_creation": "2007-03-23",
+        "nb_modif": 889
+    },
+    "bot471": {
+        "is_active": "Retraité",
+        "bot_name": "PipepBot",
+        "createur": "it:Pipep",
+        "date_creation": "2007-08-16",
+        "nb_modif": 19078
+    },
+    "bot429": {
+        "is_active": "Actif",
+        "bot_name": "Rpabot",
+        "createur": "Rpa",
+        "date_creation": "2009-08-17",
+        "nb_modif": 162595
+    },
+    "bot352": {
+        "is_active": "Retraité",
+        "bot_name": "KamikazeBot",
+        "createur": "pl:Karol007",
+        "date_creation": "2010-06-26",
+        "nb_modif": 27114
+    },
+    "bot38": {
+        "is_active": "Retraité",
+        "bot_name": "Ken123BOT",
+        "createur": "ken123",
+        "date_creation": "2007-08-18",
+        "nb_modif": 2855
+    },
+    "bot282": {
+        "is_active": "Endormi",
+        "contr_id": "contr15897",
+        "bot_name": "BoToX",
+        "date_creation": null,
+        "nb_modif": 1,
+        "createur": "Xfigpower"
+    },
+    "bot501": {
+        "is_active": "Retraité",
+        "bot_name": "Nallimbot",
+        "createur": "ko:adrenalin",
+        "date_creation": "2008-10-01",
+        "nb_modif": 13338
+    },
+    "bot136": {
+        "is_active": "Retraité",
+        "bot_name": "RobotE",
+        "createur": "nl:Ellywa",
+        "date_creation": "2005-01-01",
+        "nb_modif": 12486
+    },
+    "bot324": {
+        "is_active": "Retraité",
+        "bot_name": "AmaraBot",
+        "createur": "am:Codex Sinaiticus",
+        "date_creation": "2007-02-16",
+        "nb_modif": 14369
+    },
+    "bot138": {
+        "is_active": "Endormi",
+        "bot_name": "M4x0uBot",
+        "createur": "Maxou1012",
+        "date_creation": null,
+        "nb_modif": 149
+    },
+    "bot419": {
+        "is_active": "Retraité",
+        "bot_name": ".snoopybot.",
+        "createur": ".snoopy.",
+        "date_creation": "2007-12-29",
+        "nb_modif": 49
+    },
+    "bot205": {
+        "is_active": "Actif",
+        "contr_id": "contr11499",
+        "bot_name": "OrlodrimBot",
+        "date_creation": "2011-05-17",
+        "nb_modif": 1677062,
+        "createur": "Orlodrim"
+    },
+    "bot240": {
+        "is_active": "Endormi",
+        "bot_name": "MaatyBot",
+        "createur": "ar:AhMedRMaaty",
+        "date_creation": null,
+        "nb_modif": 81
+    },
+    "bot173": {
+        "is_active": "Retraité",
+        "bot_name": "Ludo Thécaire",
+        "createur": "bayo",
+        "date_creation": "2006-04-30",
+        "nb_modif": 403440
+    },
+    "bot388": {
+        "is_active": "Endormi",
+        "bot_name": "BaBoT",
+        "createur": "Pako-",
+        "date_creation": null,
+        "nb_modif": 3
+    },
+    "bot499": {
+        "is_active": "Endormi",
+        "bot_name": "Numbo3",
+        "createur": "eo:Espéranto",
+        "date_creation": null,
+        "nb_modif": 8365
+    },
+    "bot342": {
+        "is_active": "Retraité",
+        "bot_name": "NiavBot",
+        "createur": "Delhovlyn",
+        "date_creation": "2008-07-02",
+        "nb_modif": 1848
+    },
+    "bot479": {
+        "is_active": "Actif",
+        "contr_id": "contr14014",
+        "bot_name": "StarusBot",
+        "date_creation": "2012-11-04",
+        "nb_modif": 143697,
+        "createur": "Starus"
+    },
+    "bot59": {
+        "is_active": "Retraité",
+        "bot_name": "Botozor",
+        "createur": "Zorlot",
+        "date_creation": "2009-08-20",
+        "nb_modif": 16504
+    },
+    "bot178": {
+        "is_active": "Endormi",
+        "bot_name": "SharafBot",
+        "createur": "ar:Sharaf Al Deen",
+        "date_creation": null,
+        "nb_modif": 106
+    },
+    "bot279": {
+        "is_active": "Actif",
+        "contr_id": "contr13735",
+        "bot_name": "DSisyphBot",
+        "date_creation": "2008-11-17",
+        "nb_modif": 620393,
+        "createur": "Sisyph"
+    },
+    "bot45": {
+        "is_active": "Retraité",
+        "bot_name": "LaaknorBot",
+        "createur": "no:Laaknor",
+        "date_creation": "2008-05-06",
+        "nb_modif": 85895
+    },
+    "bot257": {
+        "is_active": "Retraité",
+        "bot_name": "EnzaiBot",
+        "createur": "eu:Enzaiklopedia",
+        "date_creation": "2012-04-04",
+        "nb_modif": 635
+    },
+    "bot472": {
+        "is_active": "Endormi",
+        "bot_name": "KidsBot",
+        "createur": "Aviyal",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot50": {
+        "is_active": "Retraité",
+        "bot_name": "MetalliBot",
+        "createur": "Pamplelune",
+        "date_creation": "2008-07-21",
+        "nb_modif": 1246
+    },
+    "bot341": {
+        "is_active": "Endormi",
+        "bot_name": "TrustNoBot",
+        "createur": "Spooky",
+        "date_creation": null,
+        "nb_modif": 141
+    },
+    "bot166": {
+        "is_active": "Retraité",
+        "bot_name": "Kal-El-Bot",
+        "createur": "bs:Kal-El",
+        "date_creation": "2008-10-20",
+        "nb_modif": 237
+    },
+    "bot231": {
+        "is_active": "Endormi",
+        "bot_name": "Muhaiminkudou",
+        "createur": "ms:muhaiminkudou",
+        "date_creation": null,
+        "nb_modif": 6
+    },
+    "bot174": {
+        "is_active": "Endormi",
+        "bot_name": "ZuBot",
+        "createur": "Zubro",
+        "date_creation": null,
+        "nb_modif": 41
+    },
+    "bot70": {
+        "is_active": "Endormi",
+        "bot_name": "H2Bot",
+        "createur": "RuHaffman",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot155": {
+        "is_active": "Actif",
+        "bot_name": "FloBot",
+        "createur": "fa:فلورانس",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot453": {
+        "is_active": "Endormi",
+        "bot_name": "WeftBot",
+        "createur": null,
+        "date_creation": null,
+        "nb_modif": 4
+    },
+    "bot444": {
+        "is_active": "Retraité",
+        "bot_name": "DEagleBot",
+        "createur": "en:Dark Eagle",
+        "date_creation": "2011-04-01",
+        "nb_modif": 265
+    },
+    "bot256": {
+        "is_active": "Retraité",
+        "bot_name": "Thehelpfulbot",
+        "createur": "meta:Thehelpfulone",
+        "date_creation": "2012-04-20",
+        "nb_modif": 10033
+    },
+    "bot293": {
+        "is_active": "Retraité",
+        "bot_name": "ReigneBOT",
+        "createur": "es:Reignerok",
+        "date_creation": "2009-09-26",
+        "nb_modif": 74
+    },
+    "bot492": {
+        "is_active": "Retraité",
+        "contr_id": "contr9457",
+        "bot_name": "MagnetiK-BoT",
+        "date_creation": "2006-02-21",
+        "nb_modif": 6252,
+        "createur": "MagnetiK"
+    },
+    "bot354": {
+        "is_active": "Retraité",
+        "bot_name": "SpBot",
+        "createur": "de:Euku",
+        "date_creation": "2008-06-02",
+        "nb_modif": 11718
+    },
+    "bot362": {
+        "is_active": "Retraité",
+        "contr_id": "contr1873",
+        "bot_name": "BenjiBot",
+        "date_creation": "2007-03-14",
+        "nb_modif": 43583,
+        "createur": "Benjism89"
+    },
+    "bot78": {
+        "is_active": "Réactivé",
+        "bot_name": "BotMultichill",
+        "createur": "nl:Multichill",
+        "date_creation": "2007-04-19",
+        "nb_modif": 55321
+    },
+    "bot218": {
+        "is_active": "Retraité",
+        "bot_name": "Le Pied-bot",
+        "createur": "EDUCA33E",
+        "date_creation": "2006-07-15",
+        "nb_modif": 115271
+    },
+    "bot116": {
+        "is_active": "Endormi",
+        "bot_name": "Crash bot",
+        "createur": "Julienjig",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot13": {
+        "is_active": "Retraité",
+        "bot_name": "Kasirbot",
+        "createur": "kasir",
+        "date_creation": "2011-03-23",
+        "nb_modif": 5496
+    },
+    "bot298": {
+        "is_active": "Réactivé",
+        "contr_id": "contr15298",
+        "bot_name": "Escarbot",
+        "date_creation": "2006-06-12",
+        "nb_modif": 394026,
+        "createur": "Vargenau"
+    },
+    "bot446": {
+        "is_active": "Actif",
+        "bot_name": "AkeronBot",
+        "createur": "Akeron",
+        "date_creation": "2012-12-24",
+        "nb_modif": 15443
+    },
+    "bot265": {
+        "is_active": "Retraité",
+        "contr_id": "contr4893",
+        "bot_name": "HariBot",
+        "date_creation": "2006-10-30",
+        "nb_modif": 1268,
+        "createur": "Fabrice Ferrer"
+    },
+    "bot378": {
+        "is_active": "Retraité",
+        "bot_name": "RatBOT",
+        "createur": "Ludovic89",
+        "date_creation": "2009-03-15",
+        "nb_modif": 9662
+    },
+    "bot183": {
+        "is_active": "Retraité",
+        "bot_name": "MedBot",
+        "createur": "Med",
+        "date_creation": "2004-04-11",
+        "nb_modif": 149785
+    },
+    "bot386": {
+        "is_active": "Actif",
+        "bot_name": "BeGasy-Bot",
+        "createur": "BeGasy-Bot",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot76": {
+        "is_active": "Endormi",
+        "contr_id": "contr13902",
+        "bot_name": "Bitobot",
+        "date_creation": null,
+        "nb_modif": 3,
+        "createur": "Soufron"
+    },
+    "bot124": {
+        "is_active": "Endormi",
+        "bot_name": "TptBot",
+        "createur": "Tpt",
+        "date_creation": null,
+        "nb_modif": 272
+    },
+    "bot180": {
+        "is_active": "Retraité",
+        "bot_name": "YurikBot",
+        "createur": "en:yurik",
+        "date_creation": "2005-08-09",
+        "nb_modif": 164742
+    },
+    "bot345": {
+        "is_active": "Retraité",
+        "bot_name": "Liquid-aim-bot",
+        "createur": "Liquid_2003",
+        "date_creation": "2006-04-30",
+        "nb_modif": 66831
+    },
+    "bot8": {
+        "is_active": "Retraité",
+        "bot_name": "BotdeSki",
+        "createur": "VanBrooken",
+        "date_creation": "2009-12-30",
+        "nb_modif": 18328
+    },
+    "bot494": {
+        "is_active": "Endormi",
+        "bot_name": "Hawk-Eye-Bot",
+        "createur": "Hawk-Eye",
+        "date_creation": "2012-11-17",
+        "nb_modif": 78275
+    },
+    "bot274": {
+        "is_active": "Actif",
+        "contr_id": "contr515",
+        "bot_name": "Al1bot",
+        "date_creation": null,
+        "nb_modif": 10025,
+        "createur": "Al1"
+    },
+    "bot225": {
+        "is_active": "Endormi",
+        "bot_name": "Apocatequil~frwiki",
+        "createur": "Chaemera",
+        "date_creation": null,
+        "nb_modif": 5
+    },
+    "bot421": {
+        "is_active": "Endormi",
+        "bot_name": "HRoestBot",
+        "createur": "de:Hannes Röst",
+        "date_creation": "2010-03-15",
+        "nb_modif": 34283
+    },
+    "bot447": {
+        "is_active": "Actif",
+        "bot_name": "Tokrkbot",
+        "createur": "Tokorokoko",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot295": {
+        "is_active": "Retraité",
+        "bot_name": "MenoBot",
+        "createur": "en:Meno25",
+        "date_creation": "2007-12-10",
+        "nb_modif": 2427
+    },
+    "bot39": {
+        "is_active": "Retraité",
+        "bot_name": "STBot~frwiki",
+        "createur": "ST47",
+        "date_creation": "2007-06-18",
+        "nb_modif": 9040
+    },
+    "bot297": {
+        "is_active": "Retraité",
+        "bot_name": "Hephgebot",
+        "createur": "Messire Hephgé",
+        "date_creation": "2006-11-18",
+        "nb_modif": 530
+    },
+    "bot150": {
+        "is_active": "Endormi",
+        "contr_id": "contr4005",
+        "bot_name": "DomBot~frwiki",
+        "date_creation": null,
+        "nb_modif": 2268,
+        "createur": "Dom"
+    },
+    "bot467": {
+        "is_active": "Retraité",
+        "bot_name": "Je suis trop bot",
+        "createur": "Kyro",
+        "date_creation": "2010-03-04",
+        "nb_modif": 7682
+    },
+    "bot311": {
+        "is_active": "Retraité",
+        "bot_name": "Zxabot",
+        "createur": "de:JaynFM",
+        "date_creation": "2008-10-01",
+        "nb_modif": 694
+    },
+    "bot426": {
+        "is_active": "Retraité",
+        "bot_name": "RoboServien",
+        "createur": "nl:Servien",
+        "date_creation": "2006-06-19",
+        "nb_modif": 1432
+    },
+    "bot63": {
+        "is_active": "Endormi",
+        "contr_id": "contr8216",
+        "bot_name": "KunMilanoRobot",
+        "date_creation": "2014-01-14",
+        "nb_modif": 3694,
+        "createur": "Kvardek du"
+    },
+    "bot406": {
+        "is_active": "Retraité",
+        "bot_name": "Gpvosbot",
+        "createur": "nl:Gpvos",
+        "date_creation": "2005-01-01",
+        "nb_modif": 7773
+    },
+    "bot101": {
+        "is_active": "Actif",
+        "bot_name": "EmausBot",
+        "createur": "ru:Emaus",
+        "date_creation": "2010-04-09",
+        "nb_modif": 831514
+    },
+    "bot409": {
+        "is_active": "Retraité",
+        "bot_name": "Amolbot",
+        "createur": "fa:Mehdi",
+        "date_creation": "2012-04-08",
+        "nb_modif": 569
+    },
+    "bot182": {
+        "is_active": "Retraité",
+        "bot_name": "PieRRoBoT",
+        "createur": "PieRRoMaN",
+        "date_creation": "2006-04-03",
+        "nb_modif": 46482
+    },
+    "bot44": {
+        "is_active": "Endormi",
+        "bot_name": "PsBot",
+        "createur": "ml:ezhuttukari",
+        "date_creation": null,
+        "nb_modif": 15
+    },
+    "bot175": {
+        "is_active": "Retraité",
+        "bot_name": "BOTijo",
+        "createur": "en:emijrp",
+        "date_creation": "2007-03-11",
+        "nb_modif": 3365
+    },
+    "bot451": {
+        "is_active": "Retraité",
+        "bot_name": "Zwobot",
+        "createur": "de:Head",
+        "date_creation": "2005-01-01",
+        "nb_modif": 7987
+    },
+    "bot98": {
+        "is_active": "Retraité",
+        "bot_name": "MauritsBot",
+        "createur": "nl:Maurits",
+        "date_creation": "2009-05-17",
+        "nb_modif": 9969
+    },
+    "bot126": {
+        "is_active": "Actif",
+        "contr_id": "contr12221",
+        "bot_name": "Ir4ubot",
+        "date_creation": "2008-06-25",
+        "nb_modif": 70252,
+        "createur": "Pixeltoo"
+    },
+    "bot139": {
+        "is_active": "Retraité",
+        "bot_name": "AkhtaBot",
+        "createur": "ar:Bassem JARKAS",
+        "date_creation": "2008-04-12",
+        "nb_modif": 7480
+    },
+    "bot410": {
+        "is_active": "Actif",
+        "contr_id": "contr5907",
+        "bot_name": "Boten Anna",
+        "date_creation": "2013-12-18",
+        "nb_modif": 988,
+        "createur": "Gonzolito"
+    },
+    "bot500": {
+        "is_active": "Retraité",
+        "bot_name": "Catalysebot",
+        "createur": "Catalyse",
+        "date_creation": "2007-07-06",
+        "nb_modif": 5162
+    },
+    "bot31": {
+        "is_active": "Retraité",
+        "bot_name": "CyeZBot~frwiki",
+        "createur": "nl:CyeZ",
+        "date_creation": "2005-07-26",
+        "nb_modif": 636
+    },
+    "bot305": {
+        "is_active": "Retraité",
+        "bot_name": "StéBot",
+        "createur": "Sbrunner",
+        "date_creation": "2005-09-01",
+        "nb_modif": 1382
+    },
+    "bot123": {
+        "is_active": "Actif",
+        "contr_id": "contr7605",
+        "bot_name": "DickensBot",
+        "date_creation": "2014-06-02",
+        "nb_modif": 50094,
+        "createur": "Jrcourtois"
+    },
+    "bot12": {
+        "is_active": "Retraité",
+        "bot_name": "Diderobot",
+        "createur": "m:Sam Hocevar",
+        "date_creation": "2005-04-17",
+        "nb_modif": 1202
+    },
+    "bot289": {
+        "is_active": "Actif",
+        "contr_id": "contr11320",
+        "bot_name": "Bottine",
+        "date_creation": "2010-09-23",
+        "nb_modif": 19146,
+        "createur": "Od1n"
+    },
+    "bot456": {
+        "is_active": "Retraité",
+        "bot_name": "Aca-bot",
+        "createur": "Bvs-aca",
+        "date_creation": "2012-02-08",
+        "nb_modif": 4846
+    },
+    "bot464": {
+        "is_active": "Retraité",
+        "bot_name": "Makecat-bot",
+        "createur": "zh:Makecat",
+        "date_creation": "2012-06-30",
+        "nb_modif": 63445
+    },
+    "bot17": {
+        "is_active": "Retraité",
+        "bot_name": "NonaBot",
+        "createur": "Erkethan",
+        "date_creation": "2012-01-23",
+        "nb_modif": 14647
+    },
+    "bot64": {
+        "is_active": "Retraité",
+        "bot_name": "-Nmdbot",
+        "createur": "-Nmd",
+        "date_creation": "2012-03-04",
+        "nb_modif": 6095
+    },
+    "bot168": {
+        "is_active": "Retraité",
+        "contr_id": "contr15610",
+        "bot_name": "WartBot",
+        "date_creation": "2006-04-12",
+        "nb_modif": 5324,
+        "createur": "Wart Dark"
+    },
+    "bot221": {
+        "is_active": "Endormi",
+        "bot_name": "BotNautilus",
+        "createur": "La Cigale",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot482": {
+        "is_active": "Endormi",
+        "bot_name": "Erwin85Bot",
+        "createur": "Erwin",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot252": {
+        "is_active": "Actif",
+        "bot_name": "Piglobot",
+        "createur": "Piglop",
+        "date_creation": "2007-11-02",
+        "nb_modif": 17856
+    },
+    "bot186": {
+        "is_active": "Endormi",
+        "bot_name": "IndvTbot",
+        "createur": "mw:Devunt",
+        "date_creation": null,
+        "nb_modif": 133
+    },
+    "bot310": {
+        "is_active": "Retraité",
+        "bot_name": "MondalorBot",
+        "createur": "ru:Mondalor",
+        "date_creation": "2009-08-17",
+        "nb_modif": 10502
+    },
+    "bot487": {
+        "is_active": "Retraité",
+        "bot_name": "Byrialbot",
+        "createur": "Byrial",
+        "date_creation": "2007-06-18",
+        "nb_modif": 1870
+    },
+    "bot14": {
+        "is_active": "Retraité",
+        "bot_name": "Bototomatix",
+        "createur": "Nemoi",
+        "date_creation": "2011-10-24",
+        "nb_modif": 2574
+    },
+    "bot286": {
+        "is_active": "Retraité",
+        "bot_name": "AvocatoBot",
+        "createur": "ar:Avocato",
+        "date_creation": "2011-07-14",
+        "nb_modif": 34732
+    },
+    "bot86": {
+        "is_active": "Retraité",
+        "bot_name": "QualiaBot",
+        "createur": "hsb:Qualia",
+        "date_creation": "2007-05-09",
+        "nb_modif": 320
+    },
+    "bot488": {
+        "is_active": "Retraité",
+        "bot_name": "ElphiBot",
+        "createur": "fa:Elph",
+        "date_creation": "2012-04-19",
+        "nb_modif": 3596
+    },
+    "bot228": {
+        "is_active": "Retraité",
+        "bot_name": "Peti610bot",
+        "createur": "hu:Peti610",
+        "date_creation": "2008-08-04",
+        "nb_modif": 1381
+    },
+    "bot475": {
+        "is_active": "Endormi",
+        "bot_name": "Botones",
+        "createur": "Er Komandante",
+        "date_creation": null,
+        "nb_modif": 133
+    },
+    "bot428": {
+        "is_active": "Actif",
+        "contr_id": "contr16224",
+        "bot_name": "ZetudBot",
+        "date_creation": "2009-05-03",
+        "nb_modif": 610931,
+        "createur": "Zetud"
+    },
+    "bot465": {
+        "is_active": "Endormi",
+        "bot_name": "Le Chat BotTé",
+        "createur": "Lacivelle",
+        "date_creation": null,
+        "nb_modif": 63
+    },
+    "bot242": {
+        "is_active": "Retraité",
+        "bot_name": "Luckas-bot",
+        "createur": "pt:Luckas Blade",
+        "date_creation": "2008-07-02",
+        "nb_modif": 661566
+    },
+    "bot430": {
+        "is_active": "Retraité",
+        "bot_name": "EdoBot",
+        "createur": "en:EdoDodo",
+        "date_creation": "2010-09-12",
+        "nb_modif": 4673
+    },
+    "bot452": {
+        "is_active": "Actif",
+        "bot_name": "FBot",
+        "createur": "Akeron",
+        "date_creation": "2012-01-05",
+        "nb_modif": 9747
+    },
+    "bot296": {
+        "is_active": "Actif",
+        "bot_name": "NoclaimsBot",
+        "createur": "Multichill",
+        "date_creation": null,
+        "nb_modif": 72
+    },
+    "bot32": {
+        "is_active": "Retraité",
+        "bot_name": "Chlewbot",
+        "createur": "es:Chlewey",
+        "date_creation": "2006-01-24",
+        "nb_modif": 10551
+    },
+    "bot72": {
+        "is_active": "Actif",
+        "contr_id": "contr16196",
+        "bot_name": "Zebulon84bot",
+        "date_creation": "2013-11-14",
+        "nb_modif": 9098,
+        "createur": "Zebulon84"
+    },
+    "bot179": {
+        "is_active": "Retraité",
+        "bot_name": "EivindBot",
+        "createur": "no:EivindJ",
+        "date_creation": "2008-05-06",
+        "nb_modif": 1169
+    },
+    "bot432": {
+        "is_active": "Retraité",
+        "bot_name": "SilvonenBot",
+        "createur": "fi:Silvonen",
+        "date_creation": "2008-02-24",
+        "nb_modif": 32695
+    },
+    "bot374": {
+        "is_active": "Endormi",
+        "contr_id": "contr2561",
+        "bot_name": "Talabot",
+        "date_creation": "2010-10-18",
+        "nb_modif": 10329,
+        "createur": "Cantons-de-l'Est"
+    },
+    "bot167": {
+        "is_active": "Actif",
+        "contr_id": "contr5756",
+        "bot_name": "GhosterBot",
+        "date_creation": "2014-07-10",
+        "nb_modif": 7709,
+        "createur": "Ghoster"
+    },
+    "bot215": {
+        "is_active": "Actif",
+        "contr_id": "contr1232",
+        "bot_name": "Salebot III",
+        "date_creation": null,
+        "nb_modif": 0,
+        "createur": "Arkanosis"
+    },
+    "bot119": {
+        "is_active": "Retraité",
+        "bot_name": "Mentibot",
+        "createur": "Mentifisto",
+        "date_creation": "2010-08-18",
+        "nb_modif": 4657
+    },
+    "bot434": {
+        "is_active": "Retraité",
+        "bot_name": "LordAnubisBOT",
+        "createur": "Lord Anubis",
+        "date_creation": "2007-07-13",
+        "nb_modif": 12810
+    },
+    "bot219": {
+        "is_active": "Actif",
+        "contr_id": "contr13018",
+        "bot_name": "BeBot",
+        "date_creation": "2013-08-22",
+        "nb_modif": 42364,
+        "createur": "Romainhk"
+    },
+    "bot226": {
+        "is_active": "Retraité",
+        "bot_name": "PolarBot",
+        "createur": "de:Polarlys",
+        "date_creation": "2007-05-12",
+        "nb_modif": 2420
+    },
+    "bot373": {
+        "is_active": "Retraité",
+        "contr_id": "contr5647",
+        "bot_name": "Ptbotgourou",
+        "date_creation": "2007-04-21",
+        "nb_modif": 236137,
+        "createur": "Gdgourou"
+    },
+    "bot371": {
+        "is_active": "Actif",
+        "contr_id": "contr11011",
+        "bot_name": "WikiCleanerBot",
+        "date_creation": "2008-02-12",
+        "nb_modif": 373968,
+        "createur": "NicoV"
+    },
+    "bot300": {
+        "is_active": "Retraité",
+        "bot_name": "DeepBot",
+        "createur": "Deep silence",
+        "date_creation": "2007-10-07",
+        "nb_modif": 24704
+    },
+    "bot2": {
+        "is_active": "Retraité",
+        "bot_name": "Ebrambot",
+        "createur": "fa:ebraminio",
+        "date_creation": "2010-10-02",
+        "nb_modif": 4566
+    },
+    "bot438": {
+        "is_active": "Actif",
+        "bot_name": "Legobot",
+        "createur": "Legoktm",
+        "date_creation": null,
+        "nb_modif": 0
+    },
+    "bot290": {
+        "is_active": "Endormi",
+        "bot_name": "Dpkbot",
+        "createur": "ml:dpkpm007",
+        "date_creation": null,
+        "nb_modif": 7
+    },
+    "bot485": {
+        "is_active": "Retraité",
+        "bot_name": "BenoniBot~frwiki",
+        "createur": "Benoni",
+        "date_creation": "2007-08-14",
+        "nb_modif": 4427
+    },
+    "bot440": {
+        "is_active": "Retraité",
+        "bot_name": "SteenthIWbot",
+        "createur": "da:Steenth",
+        "date_creation": "2012-10-21",
+        "nb_modif": 2994
+    },
+    "bot347": {
+        "is_active": "Endormi",
+        "bot_name": "Chikamichi",
+        "createur": "jd",
+        "date_creation": null,
+        "nb_modif": 315
+    },
+    "bot158": {
+        "is_active": "Endormi",
+        "contr_id": "contr15302",
+        "bot_name": "Varbot",
+        "date_creation": "2013-04-28",
+        "nb_modif": 14845,
+        "createur": "Varmin"
+    },
+    "bot380": {
+        "is_active": "Endormi",
+        "bot_name": "Pasquebot",
+        "createur": "Poleta33",
+        "date_creation": null,
+        "nb_modif": 1852
+    },
+    "bot142": {
+        "is_active": "Retraité",
+        "bot_name": "SantoshBot",
+        "createur": "mr:संतोष दहिवळ",
+        "date_creation": "2012-11-06",
+        "nb_modif": 824
+    },
+    "bot317": {
+        "is_active": "Actif",
+        "contr_id": "contr13699",
+        "bot_name": "LuaBot",
+        "date_creation": "2015-07-09",
+        "nb_modif": 99781,
+        "createur": "Simon Villeneuve"
+    },
+    "bot271": {
+        "is_active": "Retraité",
+        "bot_name": "Rezabot",
+        "createur": "fa:reza1615",
+        "date_creation": "2011-08-15",
+        "nb_modif": 14516
+    },
+    "bot355": {
+        "is_active": "Retraité",
+        "bot_name": "PixelBot",
+        "createur": "de:Pixelfire",
+        "date_creation": "2011-06-29",
+        "nb_modif": 24216
+    },
+    "bot137": {
+        "is_active": "Endormi",
+        "bot_name": "Knedlik-Pod",
+        "createur": "be-x-old:Renessaince",
+        "date_creation": null,
+        "nb_modif": 79
+    },
+    "bot340": {
+        "is_active": "Retraité",
+        "bot_name": "Darkicebot",
+        "createur": "Razorflame",
+        "date_creation": "2008-01-30",
+        "nb_modif": 7487
+    },
+    "bot408": {
+        "is_active": "Retraité",
+        "bot_name": "Adlerbot",
+        "createur": "fa:Adler.fa",
+        "date_creation": "2010-04-09",
+        "nb_modif": 766
+    },
+    "bot360": {
+        "is_active": "Actif",
+        "bot_name": "AvicBot",
+        "createur": "en:Avicennasis",
+        "date_creation": "2015-07-28",
+        "nb_modif": 7185
+    },
+    "bot459": {
+        "is_active": "Endormi",
+        "bot_name": "LeonardoRob0t",
+        "createur": "pt:LeonardoG",
+        "date_creation": null,
+        "nb_modif": 7907
+    },
+    "bot40": {
+        "is_active": "Actif",
+        "contr_id": "contr4333",
+        "bot_name": "NaggoBot",
+        "date_creation": "2014-09-20",
+        "nb_modif": 57399,
+        "createur": "El pitareio"
+    },
+    "bot187": {
+        "is_active": "Retraité",
+        "bot_name": "Razibot",
+        "createur": "ml:razimantv",
+        "date_creation": "2012-10-15",
+        "nb_modif": 718
+    },
+    "bot184": {
+        "is_active": "Retraité",
+        "bot_name": "EleferenBot",
+        "createur": "ru:Eleferen",
+        "date_creation": "2012-03-31",
+        "nb_modif": 2212
+    },
+    "bot177": {
+        "is_active": "Retraité",
+        "bot_name": "Eskimbot",
+        "createur": "Eskimo",
+        "date_creation": "2005-09-24",
+        "nb_modif": 84709
+    },
+    "bot511": {
+        "is_active": "Retraité",
+        "bot_name": "AHbot",
+        "createur": "uk:Ahonc",
+        "date_creation": "2009-06-29",
+        "nb_modif": 152
+    },
+    "bot268": {
+        "is_active": "Endormi",
+        "contr_id": "contr4131",
+        "bot_name": "Drng-bot",
+        "date_creation": null,
+        "nb_modif": 12,
+        "createur": "Drongou"
+    },
+    "bot431": {
+        "is_active": "Actif",
+        "bot_name": "M4nuxBot",
+        "createur": "Nanebiard",
+        "date_creation": null,
+        "nb_modif": 1
+    },
+    "bot56": {
+        "is_active": "Retraité",
+        "contr_id": "contr4134",
+        "bot_name": "DroopigBot",
+        "date_creation": "2009-12-06",
+        "nb_modif": 856,
+        "createur": "Droop"
+    },
+    "bot327": {
+        "is_active": "Retraité",
+        "bot_name": "QcBot",
+        "createur": "Pincourt",
+        "date_creation": "2011-01-22",
+        "nb_modif": 87
+    },
+    "bot236": {
+        "is_active": "Retraité",
+        "bot_name": "Estirabot",
+        "createur": "ca:Meldor",
+        "date_creation": "2007-11-08",
+        "nb_modif": 6707
+    },
+    "bot505": {
+        "is_active": "Actif",
+        "bot_name": "DiliBot",
+        "createur": "Rémih",
+        "date_creation": "2012-12-28",
+        "nb_modif": 48440
+    },
+    "bot216": {
+        "is_active": "Retraité",
+        "bot_name": "DrFO.Tn.Bot",
+        "createur": "DrFO.Jr.Tn",
+        "date_creation": "2008-06-26",
+        "nb_modif": 490
+    },
+    "bot20": {
+        "is_active": "Endormi",
+        "bot_name": "LeChatBot",
+        "createur": "schlum",
+        "date_creation": null,
+        "nb_modif": 6
+    },
+    "bot109": {
+        "is_active": "Actif",
+        "bot_name": "Footbot",
+        "createur": "Queix",
+        "date_creation": "2015-06-04",
+        "nb_modif": 485
+    },
+    "bot414": {
+        "is_active": "Retraité",
+        "bot_name": "Alinebot",
+        "createur": "Wikialine",
+        "date_creation": "2012-03-26",
+        "nb_modif": 192401
+    },
+    "bot6": {
+        "is_active": "Retraité",
+        "bot_name": "KLBot2",
+        "createur": "es:Kizar",
+        "date_creation": "2012-06-14",
+        "nb_modif": 60525
+    },
+    "bot508": {
+        "is_active": "Endormi",
+        "bot_name": "CarsracBot",
+        "createur": "Carsrac",
+        "date_creation": "2008-06-25",
+        "nb_modif": 13067
+    },
+    "bot510": {
+        "is_active": "Retraité",
+        "bot_name": "VVVBot",
+        "createur": "ru:VasilievVV",
+        "date_creation": "2007-05-09",
+        "nb_modif": 597
+    },
+    "bot232": {
+        "is_active": "Retraité",
+        "bot_name": "StefBot",
+        "createur": "Stef48",
+        "date_creation": "2007-12-19",
+        "nb_modif": 87219
+    },
+    "bot113": {
+        "is_active": "Endormi",
+        "bot_name": "CreaBOT",
+        "createur": "CreatixEA",
+        "date_creation": null,
+        "nb_modif": 37
+    },
+    "bot37": {
+        "is_active": "Endormi",
+        "bot_name": "BoToulousain",
+        "createur": "Sebletoulousain",
+        "date_creation": "2010-10-25",
+        "nb_modif": 2762
+    },
+    "bot454": {
+        "is_active": "Retraité",
+        "bot_name": "TjBot",
+        "createur": "id:Tjmoel",
+        "date_creation": "2009-11-26",
+        "nb_modif": 22270
+    },
+    "bot207": {
+        "is_active": "Endormi",
+        "bot_name": "Leperebot",
+        "createur": "Lepere",
+        "date_creation": "2013-11-15",
+        "nb_modif": 93315
+    },
+    "bot181": {
+        "is_active": "Endormi",
+        "bot_name": "WhiBot",
+        "createur": "ko:휘뚜루마뚜루",
+        "date_creation": null,
+        "nb_modif": 2
+    },
+    "bot206": {
+        "is_active": "Retraité",
+        "bot_name": "FiriBot",
+        "createur": "ro:Firilacroco",
+        "date_creation": "2008-05-12",
+        "nb_modif": 1224
+    },
+    "bot11": {
+        "is_active": "Retraité",
+        "bot_name": "Bot de paille",
+        "createur": "Inisheer",
+        "date_creation": "2008-05-15",
+        "nb_modif": 1524
+    },
+    "bot325": {
+        "is_active": "Endormi",
+        "bot_name": "AwOcBot",
+        "createur": "de:AwOc",
+        "date_creation": null,
+        "nb_modif": 10
+    },
+    "bot281": {
+        "is_active": "Retraité",
+        "bot_name": "ThBot",
+        "createur": "pt:ThiagoRuiz",
+        "date_creation": "2010-04-17",
+        "nb_modif": 363
+    },
+    "bot267": {
+        "is_active": "Retraité",
+        "bot_name": "Kgsbot",
+        "createur": "ml:Kiran Gopi",
+        "date_creation": "2010-09-21",
+        "nb_modif": 147
+    },
+    "bot202": {
+        "is_active": "Endormi",
+        "bot_name": "EmBOTellado",
+        "createur": "Ezarate",
+        "date_creation": null,
+        "nb_modif": 142
+    },
+    "bot489": {
+        "is_active": "Retraité",
+        "bot_name": "AutoritéBot",
+        "createur": "irønie",
+        "date_creation": "2012-07-11",
+        "nb_modif": 17535
+    },
+    "bot227": {
+        "is_active": "Retraité",
+        "bot_name": "JYBot",
+        "createur": "javadyou",
+        "date_creation": "2012-04-25",
+        "nb_modif": 10115
+    }
+}
