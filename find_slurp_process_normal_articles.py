@@ -17,7 +17,11 @@ REACH_SOURCES = ['id="Références', 'id="Notes_et_références"', 'id="Voir_aus
 
 
 def make_the_soup_online(page):
-    return Beautiful.BeautifulSoup(urlopen(page), 'lxml')
+    try: 
+        return Beautiful.BeautifulSoup(urlopen(page), 'lxml')
+    except:
+        return Beautiful.BeautifulSoup(urlopen(page), 'lxml')
+
 
 def make_the_soup_local(page):
     return Beautiful.BeautifulSoup(open(page), 'lxml')
@@ -94,6 +98,19 @@ for (count, name) in enumerate(files, 1):
     stats[id_article]["nb_sources"] = find_nb_sources(article)
 
     open(PATH_JSON + id_article, 'w').write(dumps(stats[id_article], indent=4, ensure_ascii=False))
-    # TODO: Append at the end  of the file
 
-open(PATH_JSON)
+# Create a bigjson file
+print("Lecture du fichier articles.json")
+with open('articles.json') as f:
+    regroup_data = loads(f.read())
+
+print("Updating dict")
+for file in listdir(PATH_JSON):
+    id_article = "art"+int(file[3:])
+    regroup_data[id_article] = {}
+    with open(file).read() as f:
+        regroup_data[id_article].update(loads(f))
+
+print("Writing dict in articles.json")
+with open('articles.json', 'w') as f:
+    f.write(dumps(regroup_data, ensure_ascii=False, indent=4))
