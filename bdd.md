@@ -31,12 +31,13 @@ données à récupérer et à traiter. Toutes ces données nous renvoient au fin
 
 ## Dictionnaire des données et lexique:
 
->ARTICLE ( #id_article, nom_article, type_art, nb_parties, nb_mots, nb_langues, nb_sources, nb_liens, nb_images )  
+```
+ARTICLE ( #id_article , nom_article, type_art, nb_parties, nb_mots, nb_langues, nb_sources, nb_liens, nb_images )  
 CONTRIBUTEUR ( #id_contrib, nom_contrib, date_pre_contr, page_perso)  
 BOT ( #id_bot, nom_bot, date_creation, nb_modif, #id_contributeur )  
 CATEGORIE ( #id_categorie, nom_cat )  
 PORTAIL ( #id_portail, nom, nb_article )
-
+```
 
 La table **ARTICLE** est la table principale du MCD. Elle regroupe les statistiques d'un article. A savoir:
 * son nom: `nom_art`
