@@ -1,6 +1,6 @@
 <?php
 
-	$bdd = new PDO('mysql:host=localhost;dbname=WikiStat.py','jchopin','jchopintnm18;', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)) ;
+	$bdd = new PDO('mysql:host=localhost;dbname=WikiStat.py','jchopin','jchopintnm18;', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
  
  
     $id_bot = $_GET["id_bot"];
@@ -23,9 +23,9 @@
     	$req->execute(array(
 	        'id_bot' => $id_bot,
 	        'nom' => $nom,
-	        'date_creation' => $date_creation,
+	        'date_creation' => utf8_decode($date_creation),
 	        'nb_modification' => $nb_modification,
-	        'statut' => $statut
+	        'statut' => utf8_decode($statut)
 	        ));
     }
 
@@ -43,7 +43,7 @@
     }
 
 
-    add_info_bot();
-    //add_for_key_bot();
+    //add_info_bot();
+    add_for_key_bot();
 
 ?>
