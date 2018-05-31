@@ -3,26 +3,31 @@
 ## TO DO List :
 
 * [x] Réalisation du MCD
-* [ ] Finir la TODO list
-* [ ] Réalisation technique
-    + [ ] Récupération des données et traitement en json
+* [x] Finir la TODO list
+* [x] Réalisation technique
+    + [x] Récupération des données et traitement en json
         - [x] Traitement des portails
-            - [x] Quelques exceptions (nb_articles) => conversion int 
-        - [ ] Traitement des catégories
+        - [x] Traitement des catégories
         - [x] Traitement des bots
-        - [ ] Traitement des articles
+        - [x] Traitement des articles
         - [x] Traitement des contributeurs
-        - [ ] Traitement des liens
-    + [ ] Réalisation de la BDD
+    + [x] Réalisation de la BDD
         - [x] Structure de la base
-        - [ ] Envoi des données json
-            - [ ] portails
-            - [ ] catégories
-            - [ ] bots
-            - [ ] articles
-            - [ ] contributeurs
-            - [ ] liens
-        - [ ] Access
-* [ ] Présentation du projet
+        - [x] Envoi des données json
+            - [x] portails
+            - [x] catégories
+            - [x] bots
+            - [x] articles
+            - [x] contributeurs
+            - [x] liens
+        - [ ] \(Access) [NOPE]
+    + [x] Formulaire & Page web 
+    + [x] Requêtes SQL
+* [x] Présentation du projet
     + [x] Introduction
-    + [ ] ...
+    + [x] MCD
+    + [x] Dictionnaire de données et lexique
+    + [x] Tables
+    + [x] Requêtes SQL
+    + [x] Formulaire
+    + [x] Conclusion
