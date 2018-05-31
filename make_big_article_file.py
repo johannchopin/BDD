@@ -4,8 +4,9 @@ from os import listdir
 
 PATH_BON = 'articles/bon/'
 PATH_DE_QUALITE = 'articles/de_qualite/'
+PATH_NORMAL = 'temp_articles/' # articles in HTML are in articles/normal/
 BIG_JSON = 'BigJson.json'
-PATH = PATH_DE_QUALITE # Change to add a new type of articles
+PATH = PATH_NORMAL # Change to add a new type of articles
 
 # Initialize with file BIG_JSON (for the gap between new_id with count)
 if isfile(BIG_JSON):
@@ -23,6 +24,7 @@ for file in listdir(PATH):
         big_json[new_id] = {}
         big_json[new_id].update(loads(f.read()))
     count += 1
+    print(count)
 
 # Write updated big_json
 with open(BIG_JSON, 'w') as f:

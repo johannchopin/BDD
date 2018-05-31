@@ -33,6 +33,7 @@ categorie_update = CATEGORIES
 step = 100/len(CATEGORIES)
 acc = step
 for id_category in CATEGORIES:
+    print(id_category, end=' ')
     if isfile("temp/" + id_category):
         print(f"{acc:{1}.{5}}%")
         acc += step
@@ -44,7 +45,12 @@ for id_category in CATEGORIES:
         acc += step
         continue
     
-    page = Beautiful.BeautifulSoup(urlopen(START_PAGE + CATEGORIES[id_category]["url"]), "lxml")
+    try:
+        page = Beautiful.BeautifulSoup(urlopen(START_PAGE + CATEGORIES[id_category]["url"]), "lxml")
+    except:
+        with open('logs', 'a') as f:
+            f.write(f"{id_category}")
+        continue
     portails = trial_1(page)
     if portails == False:
         portails = trial_2(page)
@@ -64,5 +70,3 @@ for id_category in CATEGORIES:
     # Printing
     print(f"{acc:{1}.{5}}%")
     acc += step
-
-# Build the 

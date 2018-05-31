@@ -8,16 +8,14 @@ from os.path import isfile, isdir
     Just normal articles are processed (PATH_ARTICLES)
 """
 
-STATS_ARTICLE_URL = "https://xtools.wmflabs.org/articleinfo/fr.wikipedia.org/" # Add  url wikipedia
 GOAL = 1
-FILE = open("stats_normal_articles.json", "w")
 PATH_ARTICLES = "articles/normal/"
 PATH_JSON = "temp_articles/"
 REACH_SOURCES = ['id="Références', 'id="Notes_et_références"', 'id="Voir_aussi"', 'id="Liens_externes"']
 
 
 def make_the_soup_online(page):
-    try: 
+    try:
         return Beautiful.BeautifulSoup(urlopen(page), 'lxml')
     except:
         return Beautiful.BeautifulSoup(urlopen(page), 'lxml')
@@ -89,7 +87,10 @@ for (count, name) in enumerate(files, 1):
     stats[id_article] = {}
     stats[id_article]["nom"] = name
     stats[id_article]["type"] = find_type(article)
-    stats[id_article]["auteur"] = find_author(name) # Open a page
+    try:
+        stats[id_article]["auteur"] = find_author(name) # Open a page
+    except:
+        continue
     stats[id_article]["nb_img"] = find_nb_img(article)
     stats[id_article]["nb_parties"] = find_nb_parties(article)
     stats[id_article]["categories"] = find_categories(article)
@@ -98,19 +99,3 @@ for (count, name) in enumerate(files, 1):
     stats[id_article]["nb_sources"] = find_nb_sources(article)
 
     open(PATH_JSON + id_article, 'w').write(dumps(stats[id_article], indent=4, ensure_ascii=False))
-
-# Create a bigjson file
-print("Lecture du fichier articles.json")
-with open('articles.json') as f:
-    regroup_data = loads(f.read())
-
-print("Updating dict")
-for file in listdir(PATH_JSON):
-    id_article = "art"+int(file[3:])
-    regroup_data[id_article] = {}
-    with open(file).read() as f:
-        regroup_data[id_article].update(loads(f))
-
-print("Writing dict in articles.json")
-with open('articles.json', 'w') as f:
-    f.write(dumps(regroup_data, ensure_ascii=False, indent=4))
